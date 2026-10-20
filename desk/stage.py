@@ -21,6 +21,7 @@ def main():
     ap.add_argument("--out", required=True)
     ap.add_argument("--days", type=int, default=2)
     ap.add_argument("--first", action="store_true", help="first import: stage the best jobs regardless of age")
+    ap.add_argument("--per-country", type=int, default=0, help="cap jobs staged per country (0 = no cap)")
     a = ap.parse_args()
     if a.feed.startswith("http"):
         with urllib.request.urlopen(a.feed, timeout=60) as r:
@@ -32,7 +33,15 @@ def main():
     cutoff = (ist_day - dt.timedelta(days=a.days)).isoformat()
     jobs = feed.get("jobs", [])
     pick = jobs if a.first else [j for j in jobs if j.get("firstSeen", "") >= cutoff]
-    pick = sorted(pick, key=lambda j: -j["fit"])[:FIRST_RUN_LIMIT if a.first else 600]
+    pick = sorted(pick, key=lambda j: -j["fit"])
+    if a.per_country:
+        cnt, capped = {}, []
+        for j in pick:
+            if cnt.get(j["country"], 0) < a.per_country:
+                cnt[j["country"]] = cnt.get(j["country"], 0) + 1
+                capped.append(j)
+        pick = capped
+    pick = pick[:FIRST_RUN_LIMIT if a.first else 600]
     keys = ("id", "country", "company", "title", "location", "url", "jd", "jobRef", "postedAt", "fit", "tier", "recipe", "sponsorship", "fitWhy", "source")
     slim = [{k: (j.get(k) or "")[:JD_CHARS] if k == "jd" else j.get(k) for k in keys} for j in pick]
     os.makedirs(a.out, exist_ok=True)

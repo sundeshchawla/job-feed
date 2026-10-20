@@ -1,0 +1,1608 @@
+{
+ "1password": {
+  "board": {
+   "slug": "1password",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "abn amro": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "ada": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "adcb": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "advance.ai": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "adyen": {
+  "board": {
+   "slug": "adyen",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "affirm": {
+  "board": {
+   "slug": "affirm",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "ahrefs": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "airbnb": {
+  "board": {
+   "slug": "airbnb",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "airtasker": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "airwallex": {
+  "board": {
+   "slug": "airwallex",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "alphagrep": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "alpian": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "anghami": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "anthropic": {
+  "board": {
+   "slug": "anthropic",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "apple": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "applyboard": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "arcelormittal": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "arcesium": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "arhs": {
+  "board": {
+   "slug": "arhs",
+   "type": "smartrecruiters"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "asana": {
+  "board": {
+   "slug": "asana",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "asml": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "aspire": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "atlan": {
+  "board": {
+   "slug": "atlan",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "auth0": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "avalara": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "avaloq": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "backbase": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "banque de luxembourg": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "bayut": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "beekeeper": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "benevity": {
+  "board": {
+   "slug": "benevity",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "bgl bnp paribas": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "bil": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "binance": {
+  "board": {
+   "slug": "binance",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "bloomberg": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "bmo": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "bol": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "brex": {
+  "board": {
+   "slug": "brex",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "browserstack": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "buildkite": {
+  "board": {
+   "slug": "buildkite",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "bunq": {
+  "board": {
+   "slug": "bunq",
+   "type": "recruitee"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "bybit": {
+  "board": {
+   "slug": "bybit",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "bytedance": {
+  "board": {
+   "slug": "ByteDance",
+   "type": "smartrecruiters"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "canonical": {
+  "board": {
+   "slug": "canonical",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "canva": {
+  "board": {
+   "slug": "canva",
+   "type": "smartrecruiters"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "capgemini": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "careem": {
+  "board": {
+   "slug": "careem",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "cargolux": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "carousell": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "catawiki": {
+  "board": {
+   "slug": "catawiki",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "chalhoub group": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "chargebee": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "checkout.com": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "cibc": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "cisco": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "clearscore": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "clearstream": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "cleo": {
+  "board": {
+   "slug": "cleo",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "clio": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "cloudflare": {
+  "board": {
+   "slug": "cloudflare",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "cognizant": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "cohere": {
+  "board": {
+   "slug": "cohere",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "cohesity": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "coinbase": {
+  "board": {
+   "slug": "coinbase",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "commonwealth bank": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "confluent": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "coolblue": {
+  "board": {
+   "slug": "Coolblue",
+   "type": "smartrecruiters"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "core42": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "cred": {
+  "board": {
+   "eu": false,
+   "slug": "cred",
+   "type": "lever"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "crypto.com": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "culture amp": {
+  "board": {
+   "slug": "cultureamp",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "dapper labs": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "databricks": {
+  "board": {
+   "slug": "databricks",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "datadog": {
+  "board": {
+   "slug": "datadog",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "dbs": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "de shaw": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "deliveroo": {
+  "board": {
+   "slug": "deliveroo",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "deloitte": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "deloitte consulting": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "deputy": {
+  "board": {
+   "eu": false,
+   "slug": "deputy",
+   "type": "lever"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "deriv": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "deutsche borse": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "digitec galaxus": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "discord": {
+  "board": {
+   "slug": "discord",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "docusign": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "doodle": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "doordash": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "dropbox": {
+  "board": {
+   "slug": "dropbox",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "dubizzle": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "dubizzle group": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "ebury": {
+  "board": {
+   "slug": "ebury",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "elastic": {
+  "board": {
+   "slug": "elastic",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "emirates group it": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "emirates nbd": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "employment hero": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "endowus": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "envato": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "ernst & young": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "etsy": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "expedia": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "ey": {
+  "board": {
+   "slug": "ey",
+   "type": "recruitee"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "f5": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "fab": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "faire": {
+  "board": {
+   "slug": "faire",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "fenergo": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "figma": {
+  "board": {
+   "slug": "figma",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "flexport": {
+  "board": {
+   "slug": "flexport",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "flipdish": {
+  "board": {
+   "slug": "flipdish",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "flipkart": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "float": {
+  "board": {
+   "slug": "float",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "flow traders": {
+  "board": {
+   "slug": "flowtraders",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "framer": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "freshworks": {
+  "board": {
+   "slug": "Freshworks",
+   "type": "smartrecruiters"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "frontify": {
+  "board": {
+   "slug": "frontify",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "funding societies": {
+  "board": {
+   "slug": "fundingsocieties",
+   "type": "workable"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "g42": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "glean": {
+  "board": {
+   "slug": "glean",
+   "type": "smartrecruiters"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "gocardless": {
+  "board": {
+   "slug": "gocardless",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "gojek": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "goldman sachs": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "goodyear": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "grab": {
+  "board": {
+   "slug": "grab",
+   "type": "smartrecruiters"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "groww": {
+  "board": {
+   "slug": "groww",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "gusto": {
+  "board": {
+   "slug": "gusto",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "harness": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "hcl": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "hcl america": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "hcltech": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "highspot": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "hitachi energy": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "hootsuite": {
+  "board": {
+   "slug": "hootsuite",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "hubspot": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "huspy": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "icertis": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "immutable": {
+  "board": {
+   "eu": false,
+   "slug": "immutable",
+   "type": "lever"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "indeed": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "infosys": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "ing": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "instacart": {
+  "board": {
+   "slug": "instacart",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "intercom": {
+  "board": {
+   "slug": "intercom",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "intuit": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "john deere financial": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "judo bank": {
+  "board": {
+   "slug": "judobank",
+   "type": "smartrecruiters"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "julius baer": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "jump": {
+  "board": {
+   "slug": "jump",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "juspay": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "kitopi": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "koho": {
+  "board": {
+   "slug": "koho",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "kpmg": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "ledgy": {
+  "board": {
+   "slug": "ledgy",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "lendable": {
+  "board": {
+   "slug": "lendable",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "lightspeed": {
+  "board": {
+   "slug": "lightspeed",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "linkedin": {
+  "board": {
+   "eu": false,
+   "slug": "linkedin",
+   "type": "lever"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "linktree": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "lyft": {
+  "board": {
+   "slug": "lyft",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "macquarie": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "macquarie group": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "mambu": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "mantel": {
+  "board": {
+   "slug": "mantel",
+   "type": "recruitee"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "marshmallow": {
+  "board": {
+   "slug": "marshmallow",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "mashreq": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "meesho": {
+  "board": {
+   "eu": false,
+   "slug": "meesho",
+   "type": "lever"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "messagebird": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "meta": {
+  "board": {
+   "slug": "meta",
+   "type": "recruitee"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "miro": {
+  "board": {
+   "slug": "miro",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "mollie": {
+  "board": {
+   "slug": "mollie",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "moneybox": {
+  "board": {
+   "slug": "moneybox",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "mongodb": {
+  "board": {
+   "slug": "mongodb",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "monzo": {
+  "board": {
+   "slug": "monzo",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "multiverse": {
+  "board": {
+   "slug": "multiverse",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "natwest": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "netflix": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "nexthink": {
+  "board": {
+   "slug": "Nexthink",
+   "type": "smartrecruiters"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "ninja van": {
+  "board": {
+   "eu": false,
+   "slug": "ninjavan",
+   "type": "lever"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "nium": {
+  "board": {
+   "eu": false,
+   "slug": "nium",
+   "type": "lever"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "noon": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "notion": {
+  "board": {
+   "slug": "notion",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "nutanix": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "ocado": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "ocbc": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "octopus energy": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "offerup": {
+  "board": {
+   "slug": "offerup",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "ohpen": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "okta": {
+  "board": {
+   "slug": "okta",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "okx": {
+  "board": {
+   "slug": "okx",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "on": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "openai": {
+  "board": {
+   "slug": "openai",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "optiver": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "outreach": {
+  "board": {
+   "eu": false,
+   "slug": "outreach",
+   "type": "lever"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "paddle": {
+  "board": {
+   "slug": "paddle",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "palantir": {
+  "board": {
+   "eu": false,
+   "slug": "palantir",
+   "type": "lever"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "personio": {
+  "board": {
+   "slug": "personio",
+   "type": "recruitee"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "phonepe": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "picnic": {
+  "board": {
+   "slug": "picnic",
+   "type": "smartrecruiters"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "pictet": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "pinterest": {
+  "board": {
+   "slug": "pinterest",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "plaid": {
+  "board": {
+   "slug": "plaid",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "post luxembourg": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "postman": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "presight": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "property finder": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "propertyguru": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "proton": {
+  "board": {
+   "slug": "proton",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "pwc": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "qumulo": {
+  "board": {
+   "slug": "qumulo",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "rabobank": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "ramp": {
+  "board": {
+   "slug": "ramp",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "rapyd": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "razorpay": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "rbc": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "rea group": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "reddit": {
+  "board": {
+   "slug": "reddit",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "redfin": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "remitly": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "revolut": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "rippling": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "robinhood": {
+  "board": {
+   "slug": "robinhood",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "rokt": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "rover": {
+  "board": {
+   "eu": false,
+   "slug": "rover",
+   "type": "lever"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "rubrik": {
+  "board": {
+   "slug": "rubrik",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "safetyculture": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "samsara": {
+  "board": {
+   "slug": "samsara",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "sarwa": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "scandit": {
+  "board": {
+   "slug": "scandit",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "scotiabank": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "sea": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "seek": {
+  "board": {
+   "slug": "seek",
+   "type": "smartrecruiters"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "ses": {
+  "board": {
+   "slug": "ses",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "shopee": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "shopify": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "singtel": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "six": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "six group": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "skyscanner": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "smallpdf": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "smartsheet": {
+  "board": {
+   "slug": "smartsheet",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "snowflake": {
+  "board": {
+   "slug": "snowflake",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "snyk": {
+  "board": {
+   "slug": "snyk",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "sonar": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "spotify": {
+  "board": {
+   "eu": false,
+   "slug": "spotify",
+   "type": "lever"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "sprinklr": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "spuerkeess": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "squarespace": {
+  "board": {
+   "slug": "squarespace",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "starling": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "stashaway": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "stripe": {
+  "board": {
+   "slug": "stripe",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "swiggy": {
+  "board": {
+   "slug": "swiggy",
+   "type": "smartrecruiters"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "swiss life": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "swiss re": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "swissquote": {
+  "board": {
+   "slug": "Swissquote",
+   "type": "smartrecruiters"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "sygnum": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "synthesia": {
+  "board": {
+   "slug": "synthesia",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "t mobile": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "tabby": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "tableau": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "talabat": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "talkwalker": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "tcs": {
+  "board": {
+   "slug": "tcs",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "td": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "teads": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "technology innovation institute": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "temenos": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "thought machine": {
+  "board": {
+   "slug": "thought-machine",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "thoughtworks": {
+  "board": {
+   "slug": "thoughtworks",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "thunes": {
+  "board": {
+   "slug": "thunes",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "tide": {
+  "board": {
+   "slug": "tide",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "tiktok": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "tines": {
+  "board": {
+   "slug": "tines",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "tiqets": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "toast": {
+  "board": {
+   "slug": "toast",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "tower": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "truelayer": {
+  "board": {
+   "slug": "truelayer",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "twilio": {
+  "board": {
+   "slug": "twilio",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "tyro": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "ubs": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "udemy": {
+  "board": {
+   "slug": "udemy",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "unity": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "uob": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "veeam": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "wattpad": {
+  "board": {
+   "eu": false,
+   "slug": "wattpad",
+   "type": "lever"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "wave": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "wayflyer": {
+  "board": {
+   "slug": "wayflyer",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "wayve": {
+  "board": {
+   "slug": "wayve",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "wealthsimple": {
+  "board": {
+   "slug": "wealthsimple",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "wetransfer": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "wipro": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "wisetech": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "wisetech global": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "workhuman": {
+  "board": {
+   "slug": "workhuman",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "xendit": {
+  "board": {
+   "slug": "xendit",
+   "type": "greenhouse"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "xero": {
+  "board": {
+   "slug": "xero",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "yokoy": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "zalando": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "zendesk": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "zepto": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "zeta": {
+  "board": {
+   "eu": false,
+   "slug": "zeta",
+   "type": "lever"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "ziina": {
+  "board": {
+   "slug": "ziina",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "zillow": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "zip": {
+  "board": {
+   "slug": "zip",
+   "type": "ashby"
+  },
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "zomato": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "zopa": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ },
+ "zurcher kantonalbank": {
+  "board": null,
+  "checkedAt": "2026-10-20T19:34:49.729265+00:00"
+ }
+}

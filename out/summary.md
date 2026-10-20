@@ -1,0 +1,307 @@
+# Job feed - 2026-10-20 19:34 UTC
+
+Boards read: 153 of 339 - raw jobs 22822 - after title/location/date filters 2370 - kept 1064
+
+| Country | Jobs |
+|---|---|
+| ae | 16 |
+| au | 37 |
+| ca | 153 |
+| ch | 25 |
+| ie | 113 |
+| in | 216 |
+| lu | 3 |
+| nl | 29 |
+| sg | 64 |
+| uk | 158 |
+| us | 250 |
+
+## Boards with jobs kept
+
+- Google (google): 70 of 207
+- Citi (workday): 61 of 507
+- Amazon (amazon): 55 of 388
+- JPMorgan Chase (oracle): 44 of 300
+- Salesforce (workday): 38 of 479
+- NVIDIA (workday): 37 of 565
+- State Street (workday): 35 of 400
+- Atlassian (atlassian): 32 of 360
+- Mastercard (workday): 32 of 408
+- MongoDB (greenhouse): 32 of 394
+- Okta (greenhouse): 31 of 395
+- Barclays (workday): 27 of 355
+- Wayve (ashby): 24 of 173
+- OpenAI (ashby): 23 of 809
+- ServiceNow (smartrecruiters): 22 of 500
+- Workday (workday): 22 of 244
+- Adobe (workday): 18 of 159
+- Binance (greenhouse): 18 of 222
+- Elastic (greenhouse): 18 of 371
+- Oracle (oracle): 17 of 300
+- Pinterest (greenhouse): 17 of 157
+- Airwallex (ashby): 16 of 500
+- Fidelity Technology Group (workday): 15 of 250
+- Robinhood (greenhouse): 15 of 153
+- Xero (ashby): 15 of 108
+- Deutsche Bank (workday): 14 of 333
+- Fidelity (workday): 14 of 250
+- PayPal (workday): 14 of 246
+- Stripe (greenhouse): 14 of 728
+- Cloudflare (greenhouse): 13 of 436
+- Ramp (ashby): 13 of 169
+- Affirm (greenhouse): 12 of 217
+- Anthropic (greenhouse): 12 of 670
+- Brex (greenhouse): 10 of 260
+- Samsara (greenhouse): 10 of 270
+- Bybit (greenhouse): 9 of 165
+- Databricks (greenhouse): 9 of 901
+- Deliveroo (greenhouse): 9 of 226
+- Grab (smartrecruiters): 9 of 434
+- Toast (greenhouse): 9 of 309
+- Adyen (greenhouse): 8 of 243
+- Freshworks (smartrecruiters): 7 of 124
+- Lyft (greenhouse): 7 of 176
+- Benevity (ashby): 6 of 22
+- Datadog (greenhouse): 6 of 435
+- Snowflake (ashby): 6 of 359
+- Swiggy (smartrecruiters): 6 of 193
+- Wealthsimple (ashby): 6 of 43
+- 1Password (ashby): 5 of 77
+- Thunes (greenhouse): 5 of 51
+- Afterpay (greenhouse): 4 of 215
+- Block (greenhouse): 4 of 215
+- Catawiki (greenhouse): 4 of 44
+- Multiverse (ashby): 4 of 29
+- OKX (greenhouse): 4 of 359
+- Plaid (ashby): 4 of 131
+- Rubrik (greenhouse): 4 of 142
+- Smartsheet (greenhouse): 4 of 89
+- Thought Machine (ashby): 4 of 40
+- Tide (greenhouse): 4 of 106
+- Coinbase (greenhouse): 3 of 227
+- Coolblue (smartrecruiters): 3 of 462
+- Flexport (greenhouse): 3 of 206
+- Paddle (ashby): 3 of 15
+- Airbnb (greenhouse): 2 of 182
+- Bunq (recruitee): 2 of 20
+- Canva (smartrecruiters): 2 of 105
+- Cohere (ashby): 2 of 116
+- Culture Amp (greenhouse): 2 of 30
+- Discord (greenhouse): 2 of 45
+- Dropbox (greenhouse): 2 of 19
+- Faire (greenhouse): 2 of 75
+- Instacart (greenhouse): 2 of 123
+- Tines (greenhouse): 2 of 36
+- Workhuman (ashby): 2 of 9
+- Arhs (smartrecruiters): 1 of 73
+- Asana (greenhouse): 1 of 104
+- Atlan (ashby): 1 of 6
+- Buildkite (greenhouse): 1 of 7
+- Deputy (lever): 1 of 6
+- Ebury (greenhouse): 1 of 143
+- Figma (greenhouse): 1 of 141
+- Gusto (greenhouse): 1 of 101
+- IMC (greenhouse): 1 of 169
+- Immutable (lever): 1 of 4
+- Meesho (lever): 1 of 59
+- Mollie (ashby): 1 of 45
+- Moneybox (ashby): 1 of 21
+- Monzo (greenhouse): 1 of 70
+- Outreach (lever): 1 of 24
+- Proton (greenhouse): 1 of 55
+- Reddit (greenhouse): 1 of 156
+- Scandit (greenhouse): 1 of 14
+- Spotify (lever): 1 of 81
+- Thoughtworks (greenhouse): 1 of 42
+- Tower Research (greenhouse): 1 of 98
+- Twilio (greenhouse): 1 of 133
+- Zip (ashby): 1 of 118
+
+## Not reachable
+
+- ABN AMRO: no public board found
+- Accenture: workday: HTTPError: HTTP Error 429: Too Many Requests
+- Ada: no public board found
+- ADCB: no public board found
+- Advance.ai: no public board found
+- Ahrefs: no public board found
+- Airtasker: no public board found
+- AlphaGrep: no public board found
+- Alpian: no public board found
+- Anghami: no public board found
+- Apple: no public board found
+- ApplyBoard: no public board found
+- ArcelorMittal: no public board found
+- Arcesium: no public board found
+- ASML: no public board found
+- Aspire: no public board found
+- Auth0: no public board found
+- Avalara: no public board found
+- Avaloq: no public board found
+- Backbase: no public board found
+- Banque de Luxembourg: no public board found
+- Bayut: no public board found
+- Beekeeper: no public board found
+- BGL BNP Paribas: no public board found
+- BIL: no public board found
+- Bloomberg: no public board found
+- BMO: no public board found
+- Bol: no public board found
+- Booking.com: greenhouse: HTTPError: HTTP Error 404: Not Found
+- BrowserStack: no public board found
+- Capgemini: no public board found
+- Cargolux: no public board found
+- Carousell: no public board found
+- Chalhoub Group: no public board found
+- Chargebee: no public board found
+- Checkout.com: no public board found
+- CIBC: no public board found
+- Cisco: no public board found
+- ClearScore: no public board found
+- Clearstream: no public board found
+- Clio: no public board found
+- Cognizant: no public board found
+- Cohesity: no public board found
+- Commonwealth Bank: no public board found
+- Confluent: no public board found
+- Core42: no public board found
+- Crypto.com: no public board found
+- Dapper Labs: no public board found
+- DBS: no public board found
+- DE Shaw: no public board found
+- Deloitte: no public board found
+- Deloitte Consulting: no public board found
+- Deriv: no public board found
+- Deutsche Borse: no public board found
+- Digitec Galaxus: no public board found
+- Docusign: no public board found
+- Doodle: no public board found
+- DoorDash: no public board found
+- Dubizzle: no public board found
+- Dubizzle Group: no public board found
+- Emirates Group IT: no public board found
+- Emirates NBD: no public board found
+- Employment Hero: no public board found
+- Endowus: no public board found
+- Envato: no public board found
+- Ernst & Young: no public board found
+- Etsy: no public board found
+- Expedia: no public board found
+- F5: no public board found
+- FAB: no public board found
+- Fenergo: no public board found
+- Flipkart: no public board found
+- Framer: no public board found
+- G42: no public board found
+- Gojek: no public board found
+- Goldman Sachs: no public board found
+- Goodyear: no public board found
+- Harness: no public board found
+- HCL: no public board found
+- HCL America: no public board found
+- HCLTech: no public board found
+- Highspot: no public board found
+- Hitachi Energy: no public board found
+- HSBC: workday: HTTPError: HTTP Error 422: Unprocessable Entity
+- HubSpot: no public board found
+- Huspy: no public board found
+- Icertis: no public board found
+- Indeed: no public board found
+- Infosys: no public board found
+- ING: no public board found
+- Intuit: no public board found
+- John Deere Financial: no public board found
+- Julius Baer: no public board found
+- Juspay: no public board found
+- Kitopi: no public board found
+- KPMG: no public board found
+- Linktree: no public board found
+- Macquarie: no public board found
+- Macquarie Group: no public board found
+- Mambu: no public board found
+- Mashreq: no public board found
+- Messagebird: no public board found
+- Microsoft: eightfold: RuntimeError: no positions
+- Morgan Stanley: eightfold: RuntimeError: no positions
+- NatWest: no public board found
+- Netflix: no public board found
+- Noon: no public board found
+- Nutanix: no public board found
+- Ocado: no public board found
+- OCBC: no public board found
+- Octopus Energy: no public board found
+- Ohpen: no public board found
+- On: no public board found
+- Optiver: no public board found
+- PhonePe: no public board found
+- Pictet: no public board found
+- POST Luxembourg: no public board found
+- Postman: no public board found
+- Presight: no public board found
+- Property Finder: no public board found
+- PropertyGuru: no public board found
+- PwC: no public board found
+- Rabobank: no public board found
+- Rapyd: no public board found
+- Razorpay: no public board found
+- RBC: no public board found
+- REA Group: no public board found
+- Redfin: no public board found
+- Remitly: no public board found
+- Revolut: no public board found
+- Rippling: no public board found
+- Rokt: no public board found
+- SafetyCulture: no public board found
+- Sarwa: no public board found
+- Scotiabank: no public board found
+- Sea: no public board found
+- Shopee: no public board found
+- Shopify: no public board found
+- Singtel: no public board found
+- SIX: no public board found
+- SIX Group: no public board found
+- Skyscanner: no public board found
+- Smallpdf: no public board found
+- Sonar: no public board found
+- Sprinklr: no public board found
+- Spuerkeess: no public board found
+- Starling: no public board found
+- StashAway: no public board found
+- Susquehanna: greenhouse: HTTPError: HTTP Error 404: Not Found
+- Swiss Life: no public board found
+- Swiss Re: no public board found
+- Sygnum: no public board found
+- T Mobile: no public board found
+- Tabby: no public board found
+- Tableau: no public board found
+- Talabat: no public board found
+- Talkwalker: no public board found
+- TD: no public board found
+- Teads: no public board found
+- Technology Innovation Institute: no public board found
+- Temenos: no public board found
+- TikTok: no public board found
+- Tiqets: no public board found
+- Tower: no public board found
+- Tyro: no public board found
+- Uber: uber: HTTPError: HTTP Error 404: Not Found
+- UBS: no public board found
+- Unity: no public board found
+- UOB: no public board found
+- Veeam: no public board found
+- Walmart: workday: HTTPError: HTTP Error 422: Unprocessable Entity
+- Walmart Global Tech: workday: HTTPError: HTTP Error 422: Unprocessable Entity
+- Wave: no public board found
+- WeTransfer: no public board found
+- Wipro: no public board found
+- Wise: greenhouse: HTTPError: HTTP Error 404: Not Found; workable: HTTPError: HTTP Error 429: Too Many Requests
+- WiseTech: no public board found
+- WiseTech Global: no public board found
+- Yokoy: no public board found
+- Zalando: no public board found
+- Zendesk: no public board found
+- Zepto: no public board found
+- Zillow: no public board found
+- Zomato: no public board found
+- Zopa: no public board found
+- Zurcher Kantonalbank: no public board found

@@ -1,0 +1,4558 @@
+{
+ "generatedAt": "2026-10-20T19:34:49.729265+00:00",
+ "seconds": 199,
+ "rawJobs": 22822,
+ "candidates": 2370,
+ "kept": 1064,
+ "companies": {
+  "1Password": {
+   "company": "1Password",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "1password"
+    }
+   ],
+   "ok": true,
+   "total": 77,
+   "inTarget": 5,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "1password"
+   }
+  },
+  "ABN AMRO": {
+   "company": "ABN AMRO",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Accenture": {
+   "company": "Accenture",
+   "how": "known",
+   "boards": [
+    {
+     "type": "workday",
+     "tenant": "accenture",
+     "wd": "wd103",
+     "site": "AccentureCareers"
+    }
+   ],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "workday: HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  "Ada": {
+   "company": "Ada",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "ADCB": {
+   "company": "ADCB",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Adobe": {
+   "company": "Adobe",
+   "how": "known",
+   "boards": [
+    {
+     "type": "workday",
+     "tenant": "adobe",
+     "wd": "wd5",
+     "site": "external_experienced"
+    }
+   ],
+   "ok": true,
+   "total": 159,
+   "inTarget": 18,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "adobe",
+    "wd": "wd5",
+    "site": "external_experienced"
+   }
+  },
+  "Advance.ai": {
+   "company": "Advance.ai",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Adyen": {
+   "company": "Adyen",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "adyen"
+    }
+   ],
+   "ok": true,
+   "total": 243,
+   "inTarget": 8,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "adyen"
+   }
+  },
+  "Affirm": {
+   "company": "Affirm",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "affirm"
+    }
+   ],
+   "ok": true,
+   "total": 217,
+   "inTarget": 12,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "affirm"
+   }
+  },
+  "Afterpay": {
+   "company": "Afterpay",
+   "how": "known",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "block"
+    }
+   ],
+   "ok": true,
+   "total": 215,
+   "inTarget": 4,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "block"
+   }
+  },
+  "Ahrefs": {
+   "company": "Ahrefs",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Airbnb": {
+   "company": "Airbnb",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "airbnb"
+    }
+   ],
+   "ok": true,
+   "total": 182,
+   "inTarget": 2,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "airbnb"
+   }
+  },
+  "Airtasker": {
+   "company": "Airtasker",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Airwallex": {
+   "company": "Airwallex",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "airwallex"
+    }
+   ],
+   "ok": true,
+   "total": 500,
+   "inTarget": 16,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "airwallex"
+   }
+  },
+  "AlphaGrep": {
+   "company": "AlphaGrep",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Alpian": {
+   "company": "Alpian",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Amazon": {
+   "company": "Amazon",
+   "how": "known",
+   "boards": [
+    {
+     "type": "amazon"
+    }
+   ],
+   "ok": true,
+   "total": 388,
+   "inTarget": 55,
+   "error": "",
+   "used": {
+    "type": "amazon"
+   }
+  },
+  "Anghami": {
+   "company": "Anghami",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Anthropic": {
+   "company": "Anthropic",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "anthropic"
+    }
+   ],
+   "ok": true,
+   "total": 670,
+   "inTarget": 12,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "anthropic"
+   }
+  },
+  "Apple": {
+   "company": "Apple",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "ApplyBoard": {
+   "company": "ApplyBoard",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "ArcelorMittal": {
+   "company": "ArcelorMittal",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Arcesium": {
+   "company": "Arcesium",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Arhs": {
+   "company": "Arhs",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "smartrecruiters",
+     "slug": "arhs"
+    }
+   ],
+   "ok": true,
+   "total": 73,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "smartrecruiters",
+    "slug": "arhs"
+   }
+  },
+  "Asana": {
+   "company": "Asana",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "asana"
+    }
+   ],
+   "ok": true,
+   "total": 104,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "asana"
+   }
+  },
+  "ASML": {
+   "company": "ASML",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Aspire": {
+   "company": "Aspire",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Atlan": {
+   "company": "Atlan",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "atlan"
+    }
+   ],
+   "ok": true,
+   "total": 6,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "atlan"
+   }
+  },
+  "Atlassian": {
+   "company": "Atlassian",
+   "how": "known",
+   "boards": [
+    {
+     "type": "atlassian"
+    }
+   ],
+   "ok": true,
+   "total": 360,
+   "inTarget": 32,
+   "error": "",
+   "used": {
+    "type": "atlassian"
+   }
+  },
+  "Auth0": {
+   "company": "Auth0",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Avalara": {
+   "company": "Avalara",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Avaloq": {
+   "company": "Avaloq",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Backbase": {
+   "company": "Backbase",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Banque de Luxembourg": {
+   "company": "Banque de Luxembourg",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Barclays": {
+   "company": "Barclays",
+   "how": "known",
+   "boards": [
+    {
+     "type": "workday",
+     "tenant": "barclays",
+     "wd": "wd3",
+     "site": "External_Career_Site_Barclays"
+    }
+   ],
+   "ok": true,
+   "total": 355,
+   "inTarget": 27,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "barclays",
+    "wd": "wd3",
+    "site": "External_Career_Site_Barclays"
+   }
+  },
+  "Bayut": {
+   "company": "Bayut",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Beekeeper": {
+   "company": "Beekeeper",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Benevity": {
+   "company": "Benevity",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "benevity"
+    }
+   ],
+   "ok": true,
+   "total": 22,
+   "inTarget": 6,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "benevity"
+   }
+  },
+  "BGL BNP Paribas": {
+   "company": "BGL BNP Paribas",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "BIL": {
+   "company": "BIL",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Binance": {
+   "company": "Binance",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "binance"
+    }
+   ],
+   "ok": true,
+   "total": 222,
+   "inTarget": 18,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "binance"
+   }
+  },
+  "Block": {
+   "company": "Block",
+   "how": "known",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "block"
+    }
+   ],
+   "ok": true,
+   "total": 215,
+   "inTarget": 4,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "block"
+   }
+  },
+  "Bloomberg": {
+   "company": "Bloomberg",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "BMO": {
+   "company": "BMO",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Bol": {
+   "company": "Bol",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Booking.com": {
+   "company": "Booking.com",
+   "how": "known",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "bookingcom"
+    }
+   ],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "greenhouse: HTTPError: HTTP Error 404: Not Found"
+  },
+  "Brex": {
+   "company": "Brex",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "brex"
+    }
+   ],
+   "ok": true,
+   "total": 260,
+   "inTarget": 10,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "brex"
+   }
+  },
+  "BrowserStack": {
+   "company": "BrowserStack",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Buildkite": {
+   "company": "Buildkite",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "buildkite"
+    }
+   ],
+   "ok": true,
+   "total": 7,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "buildkite"
+   }
+  },
+  "Bunq": {
+   "company": "Bunq",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "recruitee",
+     "slug": "bunq"
+    }
+   ],
+   "ok": true,
+   "total": 20,
+   "inTarget": 2,
+   "error": "",
+   "used": {
+    "type": "recruitee",
+    "slug": "bunq"
+   }
+  },
+  "Bybit": {
+   "company": "Bybit",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "bybit"
+    }
+   ],
+   "ok": true,
+   "total": 165,
+   "inTarget": 9,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "bybit"
+   }
+  },
+  "ByteDance": {
+   "company": "ByteDance",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "smartrecruiters",
+     "slug": "ByteDance"
+    }
+   ],
+   "ok": true,
+   "total": 2,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "smartrecruiters",
+    "slug": "ByteDance"
+   }
+  },
+  "Canonical": {
+   "company": "Canonical",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "canonical"
+    }
+   ],
+   "ok": true,
+   "total": 310,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "canonical"
+   }
+  },
+  "Canva": {
+   "company": "Canva",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "smartrecruiters",
+     "slug": "canva"
+    }
+   ],
+   "ok": true,
+   "total": 105,
+   "inTarget": 2,
+   "error": "",
+   "used": {
+    "type": "smartrecruiters",
+    "slug": "canva"
+   }
+  },
+  "Capgemini": {
+   "company": "Capgemini",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Careem": {
+   "company": "Careem",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "careem"
+    }
+   ],
+   "ok": true,
+   "total": 12,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "careem"
+   }
+  },
+  "Cargolux": {
+   "company": "Cargolux",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Carousell": {
+   "company": "Carousell",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Catawiki": {
+   "company": "Catawiki",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "catawiki"
+    }
+   ],
+   "ok": true,
+   "total": 44,
+   "inTarget": 4,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "catawiki"
+   }
+  },
+  "Chalhoub Group": {
+   "company": "Chalhoub Group",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Chargebee": {
+   "company": "Chargebee",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Checkout.com": {
+   "company": "Checkout.com",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "CIBC": {
+   "company": "CIBC",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Cisco": {
+   "company": "Cisco",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Citi": {
+   "company": "Citi",
+   "how": "known",
+   "boards": [
+    {
+     "type": "workday",
+     "tenant": "citi",
+     "wd": "wd5",
+     "site": "2"
+    }
+   ],
+   "ok": true,
+   "total": 507,
+   "inTarget": 61,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "citi",
+    "wd": "wd5",
+    "site": "2"
+   }
+  },
+  "ClearScore": {
+   "company": "ClearScore",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Clearstream": {
+   "company": "Clearstream",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Cleo": {
+   "company": "Cleo",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "cleo"
+    }
+   ],
+   "ok": true,
+   "total": 6,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "cleo"
+   }
+  },
+  "Clio": {
+   "company": "Clio",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Cloudflare": {
+   "company": "Cloudflare",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "cloudflare"
+    }
+   ],
+   "ok": true,
+   "total": 436,
+   "inTarget": 13,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "cloudflare"
+   }
+  },
+  "Cognizant": {
+   "company": "Cognizant",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Cohere": {
+   "company": "Cohere",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "cohere"
+    }
+   ],
+   "ok": true,
+   "total": 116,
+   "inTarget": 2,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "cohere"
+   }
+  },
+  "Cohesity": {
+   "company": "Cohesity",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Coinbase": {
+   "company": "Coinbase",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "coinbase"
+    }
+   ],
+   "ok": true,
+   "total": 227,
+   "inTarget": 3,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "coinbase"
+   }
+  },
+  "Commonwealth Bank": {
+   "company": "Commonwealth Bank",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Confluent": {
+   "company": "Confluent",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Coolblue": {
+   "company": "Coolblue",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "smartrecruiters",
+     "slug": "Coolblue"
+    }
+   ],
+   "ok": true,
+   "total": 462,
+   "inTarget": 3,
+   "error": "",
+   "used": {
+    "type": "smartrecruiters",
+    "slug": "Coolblue"
+   }
+  },
+  "Core42": {
+   "company": "Core42",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "CRED": {
+   "company": "CRED",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "lever",
+     "slug": "cred",
+     "eu": false
+    }
+   ],
+   "ok": true,
+   "total": 9,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "lever",
+    "slug": "cred",
+    "eu": false
+   }
+  },
+  "Crypto.com": {
+   "company": "Crypto.com",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Culture Amp": {
+   "company": "Culture Amp",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "cultureamp"
+    }
+   ],
+   "ok": true,
+   "total": 30,
+   "inTarget": 2,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "cultureamp"
+   }
+  },
+  "Dapper Labs": {
+   "company": "Dapper Labs",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Databricks": {
+   "company": "Databricks",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "databricks"
+    }
+   ],
+   "ok": true,
+   "total": 901,
+   "inTarget": 9,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "databricks"
+   }
+  },
+  "Datadog": {
+   "company": "Datadog",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "datadog"
+    }
+   ],
+   "ok": true,
+   "total": 435,
+   "inTarget": 6,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "datadog"
+   }
+  },
+  "DBS": {
+   "company": "DBS",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "DE Shaw": {
+   "company": "DE Shaw",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Deliveroo": {
+   "company": "Deliveroo",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "deliveroo"
+    }
+   ],
+   "ok": true,
+   "total": 226,
+   "inTarget": 9,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "deliveroo"
+   }
+  },
+  "Deloitte": {
+   "company": "Deloitte",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Deloitte Consulting": {
+   "company": "Deloitte Consulting",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Deputy": {
+   "company": "Deputy",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "lever",
+     "slug": "deputy",
+     "eu": false
+    }
+   ],
+   "ok": true,
+   "total": 6,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "lever",
+    "slug": "deputy",
+    "eu": false
+   }
+  },
+  "Deriv": {
+   "company": "Deriv",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Deutsche Bank": {
+   "company": "Deutsche Bank",
+   "how": "known",
+   "boards": [
+    {
+     "type": "workday",
+     "tenant": "db",
+     "wd": "wd3",
+     "site": "DBWebSite"
+    }
+   ],
+   "ok": true,
+   "total": 333,
+   "inTarget": 14,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "db",
+    "wd": "wd3",
+    "site": "DBWebSite"
+   }
+  },
+  "Deutsche Borse": {
+   "company": "Deutsche Borse",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Digitec Galaxus": {
+   "company": "Digitec Galaxus",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Discord": {
+   "company": "Discord",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "discord"
+    }
+   ],
+   "ok": true,
+   "total": 45,
+   "inTarget": 2,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "discord"
+   }
+  },
+  "Docusign": {
+   "company": "Docusign",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Doodle": {
+   "company": "Doodle",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "DoorDash": {
+   "company": "DoorDash",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Dropbox": {
+   "company": "Dropbox",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "dropbox"
+    }
+   ],
+   "ok": true,
+   "total": 19,
+   "inTarget": 2,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "dropbox"
+   }
+  },
+  "Dubizzle": {
+   "company": "Dubizzle",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Dubizzle Group": {
+   "company": "Dubizzle Group",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Ebury": {
+   "company": "Ebury",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "ebury"
+    }
+   ],
+   "ok": true,
+   "total": 143,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "ebury"
+   }
+  },
+  "Elastic": {
+   "company": "Elastic",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "elastic"
+    }
+   ],
+   "ok": true,
+   "total": 371,
+   "inTarget": 18,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "elastic"
+   }
+  },
+  "Emirates Group IT": {
+   "company": "Emirates Group IT",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Emirates NBD": {
+   "company": "Emirates NBD",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Employment Hero": {
+   "company": "Employment Hero",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Endowus": {
+   "company": "Endowus",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Envato": {
+   "company": "Envato",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Ernst & Young": {
+   "company": "Ernst & Young",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Etsy": {
+   "company": "Etsy",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Expedia": {
+   "company": "Expedia",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "EY": {
+   "company": "EY",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "recruitee",
+     "slug": "ey"
+    }
+   ],
+   "ok": true,
+   "total": 3,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "recruitee",
+    "slug": "ey"
+   }
+  },
+  "F5": {
+   "company": "F5",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "FAB": {
+   "company": "FAB",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Faire": {
+   "company": "Faire",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "faire"
+    }
+   ],
+   "ok": true,
+   "total": 75,
+   "inTarget": 2,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "faire"
+   }
+  },
+  "Fenergo": {
+   "company": "Fenergo",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Fidelity": {
+   "company": "Fidelity",
+   "how": "known",
+   "boards": [
+    {
+     "type": "workday",
+     "tenant": "fmr",
+     "wd": "wd1",
+     "site": "FidelityCareers"
+    }
+   ],
+   "ok": true,
+   "total": 250,
+   "inTarget": 14,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "fmr",
+    "wd": "wd1",
+    "site": "FidelityCareers"
+   }
+  },
+  "Fidelity Technology Group": {
+   "company": "Fidelity Technology Group",
+   "how": "known",
+   "boards": [
+    {
+     "type": "workday",
+     "tenant": "fmr",
+     "wd": "wd1",
+     "site": "FidelityCareers"
+    }
+   ],
+   "ok": true,
+   "total": 250,
+   "inTarget": 15,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "fmr",
+    "wd": "wd1",
+    "site": "FidelityCareers"
+   }
+  },
+  "Figma": {
+   "company": "Figma",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "figma"
+    }
+   ],
+   "ok": true,
+   "total": 141,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "figma"
+   }
+  },
+  "Flexport": {
+   "company": "Flexport",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "flexport"
+    }
+   ],
+   "ok": true,
+   "total": 206,
+   "inTarget": 3,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "flexport"
+   }
+  },
+  "Flipdish": {
+   "company": "Flipdish",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "flipdish"
+    }
+   ],
+   "ok": true,
+   "total": 12,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "flipdish"
+   }
+  },
+  "Flipkart": {
+   "company": "Flipkart",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Float": {
+   "company": "Float",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "float"
+    }
+   ],
+   "ok": true,
+   "total": 21,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "float"
+   }
+  },
+  "Flow Traders": {
+   "company": "Flow Traders",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "flowtraders"
+    }
+   ],
+   "ok": true,
+   "total": 45,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "flowtraders"
+   }
+  },
+  "Framer": {
+   "company": "Framer",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Freshworks": {
+   "company": "Freshworks",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "smartrecruiters",
+     "slug": "Freshworks"
+    }
+   ],
+   "ok": true,
+   "total": 124,
+   "inTarget": 7,
+   "error": "",
+   "used": {
+    "type": "smartrecruiters",
+    "slug": "Freshworks"
+   }
+  },
+  "Frontify": {
+   "company": "Frontify",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "frontify"
+    }
+   ],
+   "ok": true,
+   "total": 20,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "frontify"
+   }
+  },
+  "Funding Societies": {
+   "company": "Funding Societies",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "workable",
+     "slug": "fundingsocieties"
+    }
+   ],
+   "ok": true,
+   "total": 10,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "workable",
+    "slug": "fundingsocieties"
+   }
+  },
+  "G42": {
+   "company": "G42",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Glean": {
+   "company": "Glean",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "smartrecruiters",
+     "slug": "glean"
+    }
+   ],
+   "ok": true,
+   "total": 1,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "smartrecruiters",
+    "slug": "glean"
+   }
+  },
+  "GoCardless": {
+   "company": "GoCardless",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "gocardless"
+    }
+   ],
+   "ok": true,
+   "total": 27,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "gocardless"
+   }
+  },
+  "Gojek": {
+   "company": "Gojek",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Goldman Sachs": {
+   "company": "Goldman Sachs",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Goodyear": {
+   "company": "Goodyear",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Google": {
+   "company": "Google",
+   "how": "known",
+   "boards": [
+    {
+     "type": "google"
+    }
+   ],
+   "ok": true,
+   "total": 207,
+   "inTarget": 70,
+   "error": "",
+   "used": {
+    "type": "google"
+   }
+  },
+  "Grab": {
+   "company": "Grab",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "smartrecruiters",
+     "slug": "grab"
+    }
+   ],
+   "ok": true,
+   "total": 434,
+   "inTarget": 9,
+   "error": "",
+   "used": {
+    "type": "smartrecruiters",
+    "slug": "grab"
+   }
+  },
+  "Groww": {
+   "company": "Groww",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "groww"
+    }
+   ],
+   "ok": true,
+   "total": 10,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "groww"
+   }
+  },
+  "Gusto": {
+   "company": "Gusto",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "gusto"
+    }
+   ],
+   "ok": true,
+   "total": 101,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "gusto"
+   }
+  },
+  "Harness": {
+   "company": "Harness",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "HCL": {
+   "company": "HCL",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "HCL America": {
+   "company": "HCL America",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "HCLTech": {
+   "company": "HCLTech",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Highspot": {
+   "company": "Highspot",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Hitachi Energy": {
+   "company": "Hitachi Energy",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Hootsuite": {
+   "company": "Hootsuite",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "hootsuite"
+    }
+   ],
+   "ok": true,
+   "total": 3,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "hootsuite"
+   }
+  },
+  "HSBC": {
+   "company": "HSBC",
+   "how": "known",
+   "boards": [
+    {
+     "type": "workday",
+     "tenant": "hsbc",
+     "wd": "wd3",
+     "site": "external"
+    }
+   ],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "workday: HTTPError: HTTP Error 422: Unprocessable Entity"
+  },
+  "HubSpot": {
+   "company": "HubSpot",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Huspy": {
+   "company": "Huspy",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Icertis": {
+   "company": "Icertis",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "IMC": {
+   "company": "IMC",
+   "how": "known",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "imc"
+    }
+   ],
+   "ok": true,
+   "total": 169,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "imc"
+   }
+  },
+  "IMC Trading": {
+   "company": "IMC Trading",
+   "how": "known",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "imc"
+    }
+   ],
+   "ok": true,
+   "total": 169,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "imc"
+   }
+  },
+  "Immutable": {
+   "company": "Immutable",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "lever",
+     "slug": "immutable",
+     "eu": false
+    }
+   ],
+   "ok": true,
+   "total": 4,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "lever",
+    "slug": "immutable",
+    "eu": false
+   }
+  },
+  "Indeed": {
+   "company": "Indeed",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Infosys": {
+   "company": "Infosys",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "ING": {
+   "company": "ING",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Instacart": {
+   "company": "Instacart",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "instacart"
+    }
+   ],
+   "ok": true,
+   "total": 123,
+   "inTarget": 2,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "instacart"
+   }
+  },
+  "Intercom": {
+   "company": "Intercom",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "intercom"
+    }
+   ],
+   "ok": true,
+   "total": 107,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "intercom"
+   }
+  },
+  "Intuit": {
+   "company": "Intuit",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "John Deere Financial": {
+   "company": "John Deere Financial",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "JPMorgan Chase": {
+   "company": "JPMorgan Chase",
+   "how": "known",
+   "boards": [
+    {
+     "type": "oracle",
+     "host": "jpmc.fa.oraclecloud.com",
+     "site": "CX_1001"
+    }
+   ],
+   "ok": true,
+   "total": 300,
+   "inTarget": 44,
+   "error": "",
+   "used": {
+    "type": "oracle",
+    "host": "jpmc.fa.oraclecloud.com",
+    "site": "CX_1001"
+   }
+  },
+  "Judo Bank": {
+   "company": "Judo Bank",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "smartrecruiters",
+     "slug": "judobank"
+    }
+   ],
+   "ok": true,
+   "total": 25,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "smartrecruiters",
+    "slug": "judobank"
+   }
+  },
+  "Julius Baer": {
+   "company": "Julius Baer",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Jump": {
+   "company": "Jump",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "jump"
+    }
+   ],
+   "ok": true,
+   "total": 4,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "jump"
+   }
+  },
+  "Juspay": {
+   "company": "Juspay",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Just Eat Takeaway": {
+   "company": "Just Eat Takeaway",
+   "how": "known",
+   "boards": [
+    {
+     "type": "smartrecruiters",
+     "slug": "JustEatTakeaway"
+    }
+   ],
+   "ok": true,
+   "total": 0,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "smartrecruiters",
+    "slug": "JustEatTakeaway"
+   }
+  },
+  "Kitopi": {
+   "company": "Kitopi",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "KOHO": {
+   "company": "KOHO",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "koho"
+    }
+   ],
+   "ok": true,
+   "total": 6,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "koho"
+   }
+  },
+  "KPMG": {
+   "company": "KPMG",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Ledgy": {
+   "company": "Ledgy",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "ledgy"
+    }
+   ],
+   "ok": true,
+   "total": 1,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "ledgy"
+   }
+  },
+  "Lendable": {
+   "company": "Lendable",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "lendable"
+    }
+   ],
+   "ok": true,
+   "total": 68,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "lendable"
+   }
+  },
+  "Lightspeed": {
+   "company": "Lightspeed",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "lightspeed"
+    }
+   ],
+   "ok": true,
+   "total": 5,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "lightspeed"
+   }
+  },
+  "LinkedIn": {
+   "company": "LinkedIn",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "lever",
+     "slug": "linkedin",
+     "eu": false
+    }
+   ],
+   "ok": true,
+   "total": 23,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "lever",
+    "slug": "linkedin",
+    "eu": false
+   }
+  },
+  "Linktree": {
+   "company": "Linktree",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Lyft": {
+   "company": "Lyft",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "lyft"
+    }
+   ],
+   "ok": true,
+   "total": 176,
+   "inTarget": 7,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "lyft"
+   }
+  },
+  "Macquarie": {
+   "company": "Macquarie",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Macquarie Group": {
+   "company": "Macquarie Group",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Mambu": {
+   "company": "Mambu",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Mantel": {
+   "company": "Mantel",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "recruitee",
+     "slug": "mantel"
+    }
+   ],
+   "ok": true,
+   "total": 27,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "recruitee",
+    "slug": "mantel"
+   }
+  },
+  "Marshmallow": {
+   "company": "Marshmallow",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "marshmallow"
+    }
+   ],
+   "ok": true,
+   "total": 15,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "marshmallow"
+   }
+  },
+  "Mashreq": {
+   "company": "Mashreq",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Mastercard": {
+   "company": "Mastercard",
+   "how": "known",
+   "boards": [
+    {
+     "type": "workday",
+     "tenant": "mastercard",
+     "wd": "wd1",
+     "site": "CorporateCareers"
+    }
+   ],
+   "ok": true,
+   "total": 408,
+   "inTarget": 32,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "mastercard",
+    "wd": "wd1",
+    "site": "CorporateCareers"
+   }
+  },
+  "Meesho": {
+   "company": "Meesho",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "lever",
+     "slug": "meesho",
+     "eu": false
+    }
+   ],
+   "ok": true,
+   "total": 59,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "lever",
+    "slug": "meesho",
+    "eu": false
+   }
+  },
+  "Messagebird": {
+   "company": "Messagebird",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Meta": {
+   "company": "Meta",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "recruitee",
+     "slug": "meta"
+    }
+   ],
+   "ok": true,
+   "total": 1,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "recruitee",
+    "slug": "meta"
+   }
+  },
+  "Microsoft": {
+   "company": "Microsoft",
+   "how": "known",
+   "boards": [
+    {
+     "type": "eightfold",
+     "host": "apply.careers.microsoft.com",
+     "domain": "microsoft.com"
+    }
+   ],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "eightfold: RuntimeError: no positions"
+  },
+  "Miro": {
+   "company": "Miro",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "miro"
+    }
+   ],
+   "ok": true,
+   "total": 21,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "miro"
+   }
+  },
+  "Mollie": {
+   "company": "Mollie",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "mollie"
+    }
+   ],
+   "ok": true,
+   "total": 45,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "mollie"
+   }
+  },
+  "Moneybox": {
+   "company": "Moneybox",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "moneybox"
+    }
+   ],
+   "ok": true,
+   "total": 21,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "moneybox"
+   }
+  },
+  "MongoDB": {
+   "company": "MongoDB",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "mongodb"
+    }
+   ],
+   "ok": true,
+   "total": 394,
+   "inTarget": 32,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "mongodb"
+   }
+  },
+  "Monzo": {
+   "company": "Monzo",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "monzo"
+    }
+   ],
+   "ok": true,
+   "total": 70,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "monzo"
+   }
+  },
+  "Morgan Stanley": {
+   "company": "Morgan Stanley",
+   "how": "known",
+   "boards": [
+    {
+     "type": "eightfold",
+     "host": "morganstanley.eightfold.ai",
+     "domain": "morganstanley.com"
+    }
+   ],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "eightfold: RuntimeError: no positions"
+  },
+  "Multiverse": {
+   "company": "Multiverse",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "multiverse"
+    }
+   ],
+   "ok": true,
+   "total": 29,
+   "inTarget": 4,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "multiverse"
+   }
+  },
+  "NatWest": {
+   "company": "NatWest",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Netflix": {
+   "company": "Netflix",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Nexthink": {
+   "company": "Nexthink",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "smartrecruiters",
+     "slug": "Nexthink"
+    }
+   ],
+   "ok": true,
+   "total": 69,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "smartrecruiters",
+    "slug": "Nexthink"
+   }
+  },
+  "Ninja Van": {
+   "company": "Ninja Van",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "lever",
+     "slug": "ninjavan",
+     "eu": false
+    }
+   ],
+   "ok": true,
+   "total": 143,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "lever",
+    "slug": "ninjavan",
+    "eu": false
+   }
+  },
+  "Nium": {
+   "company": "Nium",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "lever",
+     "slug": "nium",
+     "eu": false
+    }
+   ],
+   "ok": true,
+   "total": 18,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "lever",
+    "slug": "nium",
+    "eu": false
+   }
+  },
+  "Noon": {
+   "company": "Noon",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Notion": {
+   "company": "Notion",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "notion"
+    }
+   ],
+   "ok": true,
+   "total": 135,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "notion"
+   }
+  },
+  "Nutanix": {
+   "company": "Nutanix",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "NVIDIA": {
+   "company": "NVIDIA",
+   "how": "known",
+   "boards": [
+    {
+     "type": "workday",
+     "tenant": "nvidia",
+     "wd": "wd5",
+     "site": "NVIDIAExternalCareerSite"
+    }
+   ],
+   "ok": true,
+   "total": 565,
+   "inTarget": 37,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "nvidia",
+    "wd": "wd5",
+    "site": "NVIDIAExternalCareerSite"
+   }
+  },
+  "Ocado": {
+   "company": "Ocado",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "OCBC": {
+   "company": "OCBC",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Octopus Energy": {
+   "company": "Octopus Energy",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "OfferUp": {
+   "company": "OfferUp",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "offerup"
+    }
+   ],
+   "ok": true,
+   "total": 4,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "offerup"
+   }
+  },
+  "Ohpen": {
+   "company": "Ohpen",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Okta": {
+   "company": "Okta",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "okta"
+    }
+   ],
+   "ok": true,
+   "total": 395,
+   "inTarget": 31,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "okta"
+   }
+  },
+  "OKX": {
+   "company": "OKX",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "okx"
+    }
+   ],
+   "ok": true,
+   "total": 359,
+   "inTarget": 4,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "okx"
+   }
+  },
+  "On": {
+   "company": "On",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "OpenAI": {
+   "company": "OpenAI",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "openai"
+    }
+   ],
+   "ok": true,
+   "total": 809,
+   "inTarget": 23,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "openai"
+   }
+  },
+  "Optiver": {
+   "company": "Optiver",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Oracle": {
+   "company": "Oracle",
+   "how": "known",
+   "boards": [
+    {
+     "type": "oracle",
+     "host": "eeho.fa.us2.oraclecloud.com",
+     "site": "CX_45001"
+    }
+   ],
+   "ok": true,
+   "total": 300,
+   "inTarget": 17,
+   "error": "",
+   "used": {
+    "type": "oracle",
+    "host": "eeho.fa.us2.oraclecloud.com",
+    "site": "CX_45001"
+   }
+  },
+  "Outreach": {
+   "company": "Outreach",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "lever",
+     "slug": "outreach",
+     "eu": false
+    }
+   ],
+   "ok": true,
+   "total": 24,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "lever",
+    "slug": "outreach",
+    "eu": false
+   }
+  },
+  "Paddle": {
+   "company": "Paddle",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "paddle"
+    }
+   ],
+   "ok": true,
+   "total": 15,
+   "inTarget": 3,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "paddle"
+   }
+  },
+  "Palantir": {
+   "company": "Palantir",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "lever",
+     "slug": "palantir",
+     "eu": false
+    }
+   ],
+   "ok": true,
+   "total": 306,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "lever",
+    "slug": "palantir",
+    "eu": false
+   }
+  },
+  "PayPal": {
+   "company": "PayPal",
+   "how": "known",
+   "boards": [
+    {
+     "type": "workday",
+     "tenant": "paypal",
+     "wd": "wd1",
+     "site": "jobs"
+    }
+   ],
+   "ok": true,
+   "total": 246,
+   "inTarget": 14,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "paypal",
+    "wd": "wd1",
+    "site": "jobs"
+   }
+  },
+  "Personio": {
+   "company": "Personio",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "recruitee",
+     "slug": "personio"
+    }
+   ],
+   "ok": true,
+   "total": 1,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "recruitee",
+    "slug": "personio"
+   }
+  },
+  "PhonePe": {
+   "company": "PhonePe",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Picnic": {
+   "company": "Picnic",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "smartrecruiters",
+     "slug": "picnic"
+    }
+   ],
+   "ok": true,
+   "total": 2,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "smartrecruiters",
+    "slug": "picnic"
+   }
+  },
+  "Pictet": {
+   "company": "Pictet",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Pinterest": {
+   "company": "Pinterest",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "pinterest"
+    }
+   ],
+   "ok": true,
+   "total": 157,
+   "inTarget": 17,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "pinterest"
+   }
+  },
+  "Plaid": {
+   "company": "Plaid",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "plaid"
+    }
+   ],
+   "ok": true,
+   "total": 131,
+   "inTarget": 4,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "plaid"
+   }
+  },
+  "POST Luxembourg": {
+   "company": "POST Luxembourg",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Postman": {
+   "company": "Postman",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Presight": {
+   "company": "Presight",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Property Finder": {
+   "company": "Property Finder",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "PropertyGuru": {
+   "company": "PropertyGuru",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Proton": {
+   "company": "Proton",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "proton"
+    }
+   ],
+   "ok": true,
+   "total": 55,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "proton"
+   }
+  },
+  "PwC": {
+   "company": "PwC",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Qumulo": {
+   "company": "Qumulo",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "qumulo"
+    }
+   ],
+   "ok": true,
+   "total": 25,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "qumulo"
+   }
+  },
+  "Rabobank": {
+   "company": "Rabobank",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Ramp": {
+   "company": "Ramp",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "ramp"
+    }
+   ],
+   "ok": true,
+   "total": 169,
+   "inTarget": 13,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "ramp"
+   }
+  },
+  "Rapyd": {
+   "company": "Rapyd",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Razorpay": {
+   "company": "Razorpay",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "RBC": {
+   "company": "RBC",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "REA Group": {
+   "company": "REA Group",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Reddit": {
+   "company": "Reddit",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "reddit"
+    }
+   ],
+   "ok": true,
+   "total": 156,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "reddit"
+   }
+  },
+  "Redfin": {
+   "company": "Redfin",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Remitly": {
+   "company": "Remitly",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Revolut": {
+   "company": "Revolut",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Rippling": {
+   "company": "Rippling",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Robinhood": {
+   "company": "Robinhood",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "robinhood"
+    }
+   ],
+   "ok": true,
+   "total": 153,
+   "inTarget": 15,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "robinhood"
+   }
+  },
+  "Rokt": {
+   "company": "Rokt",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Rover": {
+   "company": "Rover",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "lever",
+     "slug": "rover",
+     "eu": false
+    }
+   ],
+   "ok": true,
+   "total": 36,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "lever",
+    "slug": "rover",
+    "eu": false
+   }
+  },
+  "Rubrik": {
+   "company": "Rubrik",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "rubrik"
+    }
+   ],
+   "ok": true,
+   "total": 142,
+   "inTarget": 4,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "rubrik"
+   }
+  },
+  "SafetyCulture": {
+   "company": "SafetyCulture",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Salesforce": {
+   "company": "Salesforce",
+   "how": "known",
+   "boards": [
+    {
+     "type": "workday",
+     "tenant": "salesforce",
+     "wd": "wd12",
+     "site": "External_Career_Site"
+    }
+   ],
+   "ok": true,
+   "total": 479,
+   "inTarget": 38,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "salesforce",
+    "wd": "wd12",
+    "site": "External_Career_Site"
+   }
+  },
+  "Samsara": {
+   "company": "Samsara",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "samsara"
+    }
+   ],
+   "ok": true,
+   "total": 270,
+   "inTarget": 10,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "samsara"
+   }
+  },
+  "Sarwa": {
+   "company": "Sarwa",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Scandit": {
+   "company": "Scandit",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "scandit"
+    }
+   ],
+   "ok": true,
+   "total": 14,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "scandit"
+   }
+  },
+  "Scotiabank": {
+   "company": "Scotiabank",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Sea": {
+   "company": "Sea",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Seek": {
+   "company": "Seek",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "smartrecruiters",
+     "slug": "seek"
+    }
+   ],
+   "ok": true,
+   "total": 32,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "smartrecruiters",
+    "slug": "seek"
+   }
+  },
+  "ServiceNow": {
+   "company": "ServiceNow",
+   "how": "known",
+   "boards": [
+    {
+     "type": "smartrecruiters",
+     "slug": "ServiceNow"
+    }
+   ],
+   "ok": true,
+   "total": 500,
+   "inTarget": 22,
+   "error": "",
+   "used": {
+    "type": "smartrecruiters",
+    "slug": "ServiceNow"
+   }
+  },
+  "SES": {
+   "company": "SES",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "ses"
+    }
+   ],
+   "ok": true,
+   "total": 1,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "ses"
+   }
+  },
+  "Shopee": {
+   "company": "Shopee",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Shopify": {
+   "company": "Shopify",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Singtel": {
+   "company": "Singtel",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "SIX": {
+   "company": "SIX",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "SIX Group": {
+   "company": "SIX Group",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Skyscanner": {
+   "company": "Skyscanner",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Smallpdf": {
+   "company": "Smallpdf",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Smartsheet": {
+   "company": "Smartsheet",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "smartsheet"
+    }
+   ],
+   "ok": true,
+   "total": 89,
+   "inTarget": 4,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "smartsheet"
+   }
+  },
+  "Snowflake": {
+   "company": "Snowflake",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "snowflake"
+    }
+   ],
+   "ok": true,
+   "total": 359,
+   "inTarget": 6,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "snowflake"
+   }
+  },
+  "Snyk": {
+   "company": "Snyk",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "snyk"
+    }
+   ],
+   "ok": true,
+   "total": 28,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "snyk"
+   }
+  },
+  "Sonar": {
+   "company": "Sonar",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Spotify": {
+   "company": "Spotify",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "lever",
+     "slug": "spotify",
+     "eu": false
+    }
+   ],
+   "ok": true,
+   "total": 81,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "lever",
+    "slug": "spotify",
+    "eu": false
+   }
+  },
+  "Sprinklr": {
+   "company": "Sprinklr",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Spuerkeess": {
+   "company": "Spuerkeess",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Squarespace": {
+   "company": "Squarespace",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "squarespace"
+    }
+   ],
+   "ok": true,
+   "total": 26,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "squarespace"
+   }
+  },
+  "Starling": {
+   "company": "Starling",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "StashAway": {
+   "company": "StashAway",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "State Street": {
+   "company": "State Street",
+   "how": "known",
+   "boards": [
+    {
+     "type": "workday",
+     "tenant": "statestreet",
+     "wd": "wd1",
+     "site": "Global"
+    }
+   ],
+   "ok": true,
+   "total": 400,
+   "inTarget": 35,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "statestreet",
+    "wd": "wd1",
+    "site": "Global"
+   }
+  },
+  "Stripe": {
+   "company": "Stripe",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "stripe"
+    }
+   ],
+   "ok": true,
+   "total": 728,
+   "inTarget": 14,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "stripe"
+   }
+  },
+  "Susquehanna": {
+   "company": "Susquehanna",
+   "how": "known",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "sig"
+    }
+   ],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "greenhouse: HTTPError: HTTP Error 404: Not Found"
+  },
+  "Swiggy": {
+   "company": "Swiggy",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "smartrecruiters",
+     "slug": "swiggy"
+    }
+   ],
+   "ok": true,
+   "total": 193,
+   "inTarget": 6,
+   "error": "",
+   "used": {
+    "type": "smartrecruiters",
+    "slug": "swiggy"
+   }
+  },
+  "Swiss Life": {
+   "company": "Swiss Life",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Swiss Re": {
+   "company": "Swiss Re",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Swissquote": {
+   "company": "Swissquote",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "smartrecruiters",
+     "slug": "Swissquote"
+    }
+   ],
+   "ok": true,
+   "total": 48,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "smartrecruiters",
+    "slug": "Swissquote"
+   }
+  },
+  "Sygnum": {
+   "company": "Sygnum",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Synthesia": {
+   "company": "Synthesia",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "synthesia"
+    }
+   ],
+   "ok": true,
+   "total": 37,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "synthesia"
+   }
+  },
+  "T Mobile": {
+   "company": "T Mobile",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Tabby": {
+   "company": "Tabby",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Tableau": {
+   "company": "Tableau",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Talabat": {
+   "company": "Talabat",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Talkwalker": {
+   "company": "Talkwalker",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "TCS": {
+   "company": "TCS",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "tcs"
+    }
+   ],
+   "ok": true,
+   "total": 92,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "tcs"
+   }
+  },
+  "TD": {
+   "company": "TD",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Teads": {
+   "company": "Teads",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Technology Innovation Institute": {
+   "company": "Technology Innovation Institute",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Temenos": {
+   "company": "Temenos",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Thought Machine": {
+   "company": "Thought Machine",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "thought-machine"
+    }
+   ],
+   "ok": true,
+   "total": 40,
+   "inTarget": 4,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "thought-machine"
+   }
+  },
+  "Thoughtworks": {
+   "company": "Thoughtworks",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "thoughtworks"
+    }
+   ],
+   "ok": true,
+   "total": 42,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "thoughtworks"
+   }
+  },
+  "Thunes": {
+   "company": "Thunes",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "thunes"
+    }
+   ],
+   "ok": true,
+   "total": 51,
+   "inTarget": 5,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "thunes"
+   }
+  },
+  "Tide": {
+   "company": "Tide",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "tide"
+    }
+   ],
+   "ok": true,
+   "total": 106,
+   "inTarget": 4,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "tide"
+   }
+  },
+  "TikTok": {
+   "company": "TikTok",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Tines": {
+   "company": "Tines",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "tines"
+    }
+   ],
+   "ok": true,
+   "total": 36,
+   "inTarget": 2,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "tines"
+   }
+  },
+  "Tiqets": {
+   "company": "Tiqets",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Toast": {
+   "company": "Toast",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "toast"
+    }
+   ],
+   "ok": true,
+   "total": 309,
+   "inTarget": 9,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "toast"
+   }
+  },
+  "Tower": {
+   "company": "Tower",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Tower Research": {
+   "company": "Tower Research",
+   "how": "known",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "towerresearchcapital"
+    }
+   ],
+   "ok": true,
+   "total": 98,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "towerresearchcapital"
+   }
+  },
+  "TrueLayer": {
+   "company": "TrueLayer",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "truelayer"
+    }
+   ],
+   "ok": true,
+   "total": 3,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "truelayer"
+   }
+  },
+  "Twilio": {
+   "company": "Twilio",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "twilio"
+    }
+   ],
+   "ok": true,
+   "total": 133,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "twilio"
+   }
+  },
+  "Tyro": {
+   "company": "Tyro",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Uber": {
+   "company": "Uber",
+   "how": "known",
+   "boards": [
+    {
+     "type": "uber"
+    }
+   ],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "uber: HTTPError: HTTP Error 404: Not Found"
+  },
+  "UBS": {
+   "company": "UBS",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Udemy": {
+   "company": "Udemy",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "udemy"
+    }
+   ],
+   "ok": true,
+   "total": 3,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "udemy"
+   }
+  },
+  "Unity": {
+   "company": "Unity",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "UOB": {
+   "company": "UOB",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Veeam": {
+   "company": "Veeam",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Visa": {
+   "company": "Visa",
+   "how": "known",
+   "boards": [
+    {
+     "type": "smartrecruiters",
+     "slug": "Visa"
+    }
+   ],
+   "ok": true,
+   "total": 0,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "smartrecruiters",
+    "slug": "Visa"
+   }
+  },
+  "Walmart": {
+   "company": "Walmart",
+   "how": "known",
+   "boards": [
+    {
+     "type": "workday",
+     "tenant": "walmart",
+     "wd": "wd5",
+     "site": "WalmartExternal"
+    }
+   ],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "workday: HTTPError: HTTP Error 422: Unprocessable Entity"
+  },
+  "Walmart Global Tech": {
+   "company": "Walmart Global Tech",
+   "how": "known",
+   "boards": [
+    {
+     "type": "workday",
+     "tenant": "walmart",
+     "wd": "wd5",
+     "site": "WalmartExternal"
+    }
+   ],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "workday: HTTPError: HTTP Error 422: Unprocessable Entity"
+  },
+  "Wattpad": {
+   "company": "Wattpad",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "lever",
+     "slug": "wattpad",
+     "eu": false
+    }
+   ],
+   "ok": true,
+   "total": 13,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "lever",
+    "slug": "wattpad",
+    "eu": false
+   }
+  },
+  "Wave": {
+   "company": "Wave",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Wayflyer": {
+   "company": "Wayflyer",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "wayflyer"
+    }
+   ],
+   "ok": true,
+   "total": 16,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "wayflyer"
+   }
+  },
+  "Wayve": {
+   "company": "Wayve",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "wayve"
+    }
+   ],
+   "ok": true,
+   "total": 173,
+   "inTarget": 24,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "wayve"
+   }
+  },
+  "Wealthsimple": {
+   "company": "Wealthsimple",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "wealthsimple"
+    }
+   ],
+   "ok": true,
+   "total": 43,
+   "inTarget": 6,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "wealthsimple"
+   }
+  },
+  "WeTransfer": {
+   "company": "WeTransfer",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Wipro": {
+   "company": "Wipro",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Wise": {
+   "company": "Wise",
+   "how": "known",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "transferwise"
+    },
+    {
+     "type": "workable",
+     "slug": "wise"
+    }
+   ],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "greenhouse: HTTPError: HTTP Error 404: Not Found; workable: HTTPError: HTTP Error 429: Too Many Requests"
+  },
+  "WiseTech": {
+   "company": "WiseTech",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "WiseTech Global": {
+   "company": "WiseTech Global",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Workday": {
+   "company": "Workday",
+   "how": "known",
+   "boards": [
+    {
+     "type": "workday",
+     "tenant": "workday",
+     "wd": "wd5",
+     "site": "Workday"
+    }
+   ],
+   "ok": true,
+   "total": 244,
+   "inTarget": 22,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "workday",
+    "wd": "wd5",
+    "site": "Workday"
+   }
+  },
+  "Workhuman": {
+   "company": "Workhuman",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "workhuman"
+    }
+   ],
+   "ok": true,
+   "total": 9,
+   "inTarget": 2,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "workhuman"
+   }
+  },
+  "Xendit": {
+   "company": "Xendit",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "greenhouse",
+     "slug": "xendit"
+    }
+   ],
+   "ok": true,
+   "total": 27,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "greenhouse",
+    "slug": "xendit"
+   }
+  },
+  "Xero": {
+   "company": "Xero",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "xero"
+    }
+   ],
+   "ok": true,
+   "total": 108,
+   "inTarget": 15,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "xero"
+   }
+  },
+  "Yokoy": {
+   "company": "Yokoy",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Zalando": {
+   "company": "Zalando",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Zendesk": {
+   "company": "Zendesk",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Zepto": {
+   "company": "Zepto",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Zeta": {
+   "company": "Zeta",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "lever",
+     "slug": "zeta",
+     "eu": false
+    }
+   ],
+   "ok": true,
+   "total": 24,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "lever",
+    "slug": "zeta",
+    "eu": false
+   }
+  },
+  "Ziina": {
+   "company": "Ziina",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "ziina"
+    }
+   ],
+   "ok": true,
+   "total": 15,
+   "inTarget": 0,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "ziina"
+   }
+  },
+  "Zillow": {
+   "company": "Zillow",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Zip": {
+   "company": "Zip",
+   "how": "discovered",
+   "boards": [
+    {
+     "type": "ashby",
+     "slug": "zip"
+    }
+   ],
+   "ok": true,
+   "total": 118,
+   "inTarget": 1,
+   "error": "",
+   "used": {
+    "type": "ashby",
+    "slug": "zip"
+   }
+  },
+  "Zomato": {
+   "company": "Zomato",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Zopa": {
+   "company": "Zopa",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Zurcher Kantonalbank": {
+   "company": "Zurcher Kantonalbank",
+   "how": "not-found",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
+  },
+  "Hacker News: Who is hiring": {
+   "company": "HN",
+   "ok": true
+  }
+ }
+}

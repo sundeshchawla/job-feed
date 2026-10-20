@@ -816,7 +816,7 @@ def main():
             item["source"] = "feed: " + j.get("_source", (status.get(j["company"], {}).get("used") or {}).get("type", "board"))
             # one id per country so the same multi-country posting can sit in two queues
             item["id"] = fnv_id(url) if len(j["_countries"]) == 1 else fnv_id(url + "#" + cid)
-            item["firstSeen"] = first_seen.setdefault(item["id"], NOW.date().isoformat())
+            item["firstSeen"] = first_seen.setdefault(item["id"], NOW.isoformat(timespec="seconds"))
             jobs.append(item)
 
     # 5. caps
@@ -838,6 +838,7 @@ def main():
     live = {j["id"] for j in final}
     cutoff = (NOW - dt.timedelta(days=45)).date().isoformat()
     state["firstSeen"] = {k: v for k, v in first_seen.items() if k in live or v >= cutoff}
+    state["runs"] = (state.get("runs") or [])[-9:] + [NOW.isoformat(timespec="seconds")]
 
     for c, res in status.items():
         if res.get("ok") and res.get("company") != "HN":
@@ -845,7 +846,7 @@ def main():
 
     os.makedirs(OUT, exist_ok=True)
     with open(os.path.join(OUT, "jobs.json"), "w") as f:
-        json.dump({"generatedAt": NOW.isoformat(), "count": len(final), "byCountry": per_c, "jobs": final}, f, ensure_ascii=False)
+        json.dump({"generatedAt": NOW.isoformat(), "runs": state.get("runs", []), "count": len(final), "byCountry": per_c, "jobs": final}, f, ensure_ascii=False)
     with open(os.path.join(OUT, "status.json"), "w") as f:
         json.dump({"generatedAt": NOW.isoformat(), "seconds": round(time.time() - t0), "rawJobs": len(raw), "candidates": len(cand), "kept": len(final), "companies": status}, f, ensure_ascii=False, indent=1)
     if not only:

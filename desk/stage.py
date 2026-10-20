@@ -32,7 +32,14 @@ def main():
     ist_day = (now + dt.timedelta(hours=5, minutes=30)).date()
     cutoff = (ist_day - dt.timedelta(days=a.days)).isoformat()
     jobs = feed.get("jobs", [])
-    pick = jobs if a.first else [j for j in jobs if j.get("firstSeen", "") >= cutoff]
+    runs = feed.get("runs") or []
+    if a.first:
+        pick = jobs
+    elif len(runs) >= 3:
+        # jobs first seen in the last two feed runs (one day of overlap; the desk skips duplicates)
+        pick = [j for j in jobs if j.get("firstSeen", "") > runs[-3]]
+    else:
+        pick = [j for j in jobs if j.get("firstSeen", "") >= cutoff]
     pick = sorted(pick, key=lambda j: -j["fit"])
     if a.per_country:
         cnt, capped = {}, []

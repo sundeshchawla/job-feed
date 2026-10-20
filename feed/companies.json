@@ -1,0 +1,3664 @@
+[
+ {
+  "name": "1Password",
+  "countries": {
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "ABN AMRO",
+  "countries": {
+   "nl": {
+    "rank": 12,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Accenture",
+  "countries": {
+   "us": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "ie": {
+    "rank": 17,
+    "kind": "services"
+   },
+   "uk": {
+    "rank": 17,
+    "kind": "services"
+   },
+   "au": {
+    "rank": 19,
+    "kind": "services"
+   },
+   "ch": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "ae": {
+    "rank": 19,
+    "kind": "services"
+   },
+   "lu": {
+    "rank": 19,
+    "kind": "services"
+   },
+   "nl": {
+    "rank": 18,
+    "kind": "services"
+   },
+   "sg": {
+    "rank": 19,
+    "kind": "services"
+   }
+  }
+ },
+ {
+  "name": "Ada",
+  "countries": {
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "ADCB",
+  "countries": {
+   "ae": {
+    "rank": 12,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Adobe",
+  "countries": {
+   "in": {
+    "rank": 15,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Advance.ai",
+  "countries": {
+   "sg": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Adyen",
+  "countries": {
+   "nl": {
+    "rank": 5,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "Affirm",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Afterpay",
+  "countries": {
+   "au": {
+    "rank": 12,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "Ahrefs",
+  "countries": {
+   "sg": {
+    "rank": 10,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Airbnb",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Airtasker",
+  "countries": {
+   "au": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Airwallex",
+  "countries": {
+   "sg": {
+    "rank": 6,
+    "kind": "fintech"
+   },
+   "au": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "AlphaGrep",
+  "countries": {
+   "nl": {
+    "rank": 17,
+    "kind": "trading"
+   }
+  }
+ },
+ {
+  "name": "Alpian",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Amazon",
+  "countries": {
+   "us": {
+    "rank": 1,
+    "kind": "faang"
+   },
+   "ca": {
+    "rank": 1,
+    "kind": "faang"
+   },
+   "ie": {
+    "rank": 2,
+    "kind": "faang"
+   },
+   "uk": {
+    "rank": 3,
+    "kind": "faang"
+   },
+   "au": {
+    "rank": 4,
+    "kind": "faang"
+   },
+   "ch": {
+    "rank": 8,
+    "kind": "faang"
+   },
+   "ae": {
+    "rank": 1,
+    "kind": "faang"
+   },
+   "lu": {
+    "rank": 1,
+    "kind": "faang"
+   },
+   "nl": {
+    "rank": 4,
+    "kind": "faang"
+   },
+   "in": {
+    "rank": 3,
+    "kind": "faang"
+   },
+   "sg": {
+    "rank": 8,
+    "kind": "faang"
+   }
+  }
+ },
+ {
+  "name": "Anghami",
+  "countries": {
+   "ae": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Anthropic",
+  "countries": {
+   "ch": {
+    "rank": 5,
+    "kind": "bigtech"
+   },
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Apple",
+  "countries": {
+   "us": {
+    "rank": 6,
+    "kind": "faang"
+   },
+   "ie": {
+    "rank": 10,
+    "kind": "faang"
+   },
+   "uk": {
+    "rank": 5,
+    "kind": "faang"
+   },
+   "au": {
+    "rank": 18,
+    "kind": "faang"
+   },
+   "ch": {
+    "rank": 4,
+    "kind": "faang"
+   },
+   "nl": {
+    "rank": 15,
+    "kind": "faang"
+   },
+   "in": {
+    "rank": 4,
+    "kind": "faang"
+   }
+  }
+ },
+ {
+  "name": "ApplyBoard",
+  "countries": {
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "ArcelorMittal",
+  "countries": {
+   "lu": {
+    "rank": 6,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Arcesium",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Arhs",
+  "countries": {
+   "lu": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Asana",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "ASML",
+  "countries": {
+   "nl": {
+    "rank": 13,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Aspire",
+  "countries": {
+   "sg": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Atlan",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Atlassian",
+  "countries": {
+   "au": {
+    "rank": 1,
+    "kind": "bigtech"
+   },
+   "in": {
+    "rank": 6,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Auth0",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Avalara",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Avaloq",
+  "countries": {
+   "ch": {
+    "rank": 13,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "Backbase",
+  "countries": {
+   "nl": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Banque de Luxembourg",
+  "countries": {
+   "lu": {
+    "rank": 10,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Barclays",
+  "countries": {
+   "uk": {
+    "rank": 11,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Bayut",
+  "countries": {
+   "ae": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Beekeeper",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Benevity",
+  "countries": {
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "BGL BNP Paribas",
+  "countries": {
+   "lu": {
+    "rank": 7,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "BIL",
+  "countries": {
+   "lu": {
+    "rank": 8,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Binance",
+  "countries": {
+   "ae": {
+    "rank": 10,
+    "kind": "fintech"
+   },
+   "sg": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Block",
+  "countries": {
+   "au": {
+    "rank": 12,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "Bloomberg",
+  "countries": {
+   "uk": {
+    "rank": 6,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "BMO",
+  "countries": {
+   "ca": {
+    "rank": 11,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Bol",
+  "countries": {
+   "nl": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Booking.com",
+  "countries": {
+   "nl": {
+    "rank": 1,
+    "kind": "bigtech"
+   },
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Brex",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "BrowserStack",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Buildkite",
+  "countries": {
+   "au": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Bunq",
+  "countries": {
+   "nl": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Bybit",
+  "countries": {
+   "ae": {
+    "rank": 9,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "ByteDance",
+  "countries": {
+   "sg": {
+    "rank": 2,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Canonical",
+  "countries": {
+   "ae": {
+    "rank": 15,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Canva",
+  "countries": {
+   "au": {
+    "rank": 2,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Capgemini",
+  "countries": {
+   "us": {
+    "rank": 18,
+    "kind": "services"
+   },
+   "ie": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "uk": {
+    "rank": 20,
+    "kind": "services"
+   }
+  }
+ },
+ {
+  "name": "Careem",
+  "countries": {
+   "ae": {
+    "rank": 2,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Cargolux",
+  "countries": {
+   "lu": {
+    "rank": 16,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Carousell",
+  "countries": {
+   "sg": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Catawiki",
+  "countries": {
+   "nl": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Chalhoub Group",
+  "countries": {
+   "ae": {
+    "rank": 17,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Chargebee",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Checkout.com",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "CIBC",
+  "countries": {
+   "ca": {
+    "rank": 10,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Cisco",
+  "countries": {
+   "us": {
+    "rank": 10,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Citi",
+  "countries": {
+   "uk": {
+    "rank": 10,
+    "kind": "bank"
+   },
+   "sg": {
+    "rank": 16,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "ClearScore",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Clearstream",
+  "countries": {
+   "lu": {
+    "rank": 4,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "Cleo",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Clio",
+  "countries": {
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Cloudflare",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Cognizant",
+  "countries": {
+   "us": {
+    "rank": 17,
+    "kind": "services"
+   },
+   "ie": {
+    "rank": 18,
+    "kind": "services"
+   },
+   "uk": {
+    "rank": 18,
+    "kind": "services"
+   },
+   "au": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "ch": {
+    "rank": 19,
+    "kind": "services"
+   },
+   "nl": {
+    "rank": 19,
+    "kind": "services"
+   },
+   "sg": {
+    "rank": 20,
+    "kind": "services"
+   }
+  }
+ },
+ {
+  "name": "Cohere",
+  "countries": {
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Cohesity",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Coinbase",
+  "countries": {
+   "in": {
+    "rank": 13,
+    "kind": "fintech"
+   },
+   "sg": {
+    "rank": 12,
+    "kind": "fintech"
+   },
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Commonwealth Bank",
+  "countries": {
+   "au": {
+    "rank": 10,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Confluent",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Coolblue",
+  "countries": {
+   "nl": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Core42",
+  "countries": {
+   "ae": {
+    "rank": 7,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "CRED",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Crypto.com",
+  "countries": {
+   "ae": {
+    "rank": 10,
+    "kind": "fintech"
+   },
+   "sg": {
+    "rank": 12,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "Culture Amp",
+  "countries": {
+   "au": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Dapper Labs",
+  "countries": {
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Databricks",
+  "countries": {
+   "nl": {
+    "rank": 3,
+    "kind": "bigtech"
+   },
+   "in": {
+    "rank": 11,
+    "kind": "bigtech"
+   },
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Datadog",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "DBS",
+  "countries": {
+   "sg": {
+    "rank": 15,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "DE Shaw",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Deliveroo",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Deloitte",
+  "countries": {
+   "ch": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "ae": {
+    "rank": 19,
+    "kind": "services"
+   },
+   "lu": {
+    "rank": 18,
+    "kind": "services"
+   }
+  }
+ },
+ {
+  "name": "Deloitte Consulting",
+  "countries": {
+   "us": {
+    "rank": 13,
+    "kind": "services"
+   }
+  }
+ },
+ {
+  "name": "Deputy",
+  "countries": {
+   "au": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Deriv",
+  "countries": {
+   "ae": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Deutsche Bank",
+  "countries": {
+   "uk": {
+    "rank": 13,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Deutsche Borse",
+  "countries": {
+   "lu": {
+    "rank": 4,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "Digitec Galaxus",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Discord",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Docusign",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Doodle",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "DoorDash",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Dropbox",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Dubizzle",
+  "countries": {
+   "ae": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Dubizzle Group",
+  "countries": {
+   "ae": {
+    "rank": 14,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Ebury",
+  "countries": {
+   "lu": {
+    "rank": 13,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "Elastic",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "nl": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Emirates Group IT",
+  "countries": {
+   "ae": {
+    "rank": 16,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Emirates NBD",
+  "countries": {
+   "ae": {
+    "rank": 11,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Employment Hero",
+  "countries": {
+   "au": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Endowus",
+  "countries": {
+   "sg": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Envato",
+  "countries": {
+   "au": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Ernst & Young",
+  "countries": {
+   "us": {
+    "rank": 14,
+    "kind": "services"
+   }
+  }
+ },
+ {
+  "name": "Etsy",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Expedia",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "EY",
+  "countries": {
+   "ch": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "ae": {
+    "rank": 19,
+    "kind": "services"
+   }
+  }
+ },
+ {
+  "name": "F5",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "FAB",
+  "countries": {
+   "ae": {
+    "rank": 12,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Faire",
+  "countries": {
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Fenergo",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Fidelity",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Fidelity Technology Group",
+  "countries": {
+   "us": {
+    "rank": 11,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "Figma",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Flexport",
+  "countries": {
+   "nl": {
+    "rank": 10,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Flipdish",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Flipkart",
+  "countries": {
+   "in": {
+    "rank": 20,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Float",
+  "countries": {
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Flow Traders",
+  "countries": {
+   "nl": {
+    "rank": 8,
+    "kind": "trading"
+   }
+  }
+ },
+ {
+  "name": "Framer",
+  "countries": {
+   "nl": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Freshworks",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Frontify",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Funding Societies",
+  "countries": {
+   "sg": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "G42",
+  "countries": {
+   "ae": {
+    "rank": 7,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Glean",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "GoCardless",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Gojek",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Goldman Sachs",
+  "countries": {
+   "uk": {
+    "rank": 8,
+    "kind": "bank"
+   },
+   "in": {
+    "rank": 14,
+    "kind": "bank"
+   },
+   "sg": {
+    "rank": 16,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Goodyear",
+  "countries": {
+   "lu": {
+    "rank": 17,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Google",
+  "countries": {
+   "us": {
+    "rank": 4,
+    "kind": "faang"
+   },
+   "ca": {
+    "rank": 3,
+    "kind": "faang"
+   },
+   "ie": {
+    "rank": 1,
+    "kind": "faang"
+   },
+   "uk": {
+    "rank": 1,
+    "kind": "faang"
+   },
+   "au": {
+    "rank": 3,
+    "kind": "faang"
+   },
+   "ch": {
+    "rank": 1,
+    "kind": "faang"
+   },
+   "in": {
+    "rank": 1,
+    "kind": "faang"
+   },
+   "sg": {
+    "rank": 4,
+    "kind": "faang"
+   }
+  }
+ },
+ {
+  "name": "Grab",
+  "countries": {
+   "sg": {
+    "rank": 5,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Groww",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Gusto",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Harness",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "HCL",
+  "countries": {
+   "nl": {
+    "rank": 20,
+    "kind": "services"
+   }
+  }
+ },
+ {
+  "name": "HCL America",
+  "countries": {
+   "us": {
+    "rank": 19,
+    "kind": "services"
+   }
+  }
+ },
+ {
+  "name": "HCLTech",
+  "countries": {
+   "ae": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "lu": {
+    "rank": 20,
+    "kind": "services"
+   }
+  }
+ },
+ {
+  "name": "Highspot",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Hitachi Energy",
+  "countries": {
+   "ch": {
+    "rank": 18,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Hootsuite",
+  "countries": {
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "HSBC",
+  "countries": {
+   "uk": {
+    "rank": 12,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "HubSpot",
+  "countries": {
+   "ie": {
+    "rank": 12,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Huspy",
+  "countries": {
+   "ae": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Icertis",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "IMC",
+  "countries": {
+   "au": {
+    "rank": 7,
+    "kind": "trading"
+   },
+   "nl": {
+    "rank": 8,
+    "kind": "trading"
+   },
+   "sg": {
+    "rank": 13,
+    "kind": "trading"
+   }
+  }
+ },
+ {
+  "name": "IMC Trading",
+  "countries": {
+   "ch": {
+    "rank": 9,
+    "kind": "trading"
+   }
+  }
+ },
+ {
+  "name": "Immutable",
+  "countries": {
+   "au": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Indeed",
+  "countries": {
+   "sg": {
+    "rank": 14,
+    "kind": "bigtech"
+   },
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Infosys",
+  "countries": {
+   "us": {
+    "rank": 15,
+    "kind": "services"
+   },
+   "ie": {
+    "rank": 19,
+    "kind": "services"
+   },
+   "au": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "ch": {
+    "rank": 19,
+    "kind": "services"
+   },
+   "ae": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "nl": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "sg": {
+    "rank": 20,
+    "kind": "services"
+   }
+  }
+ },
+ {
+  "name": "ING",
+  "countries": {
+   "nl": {
+    "rank": 11,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Instacart",
+  "countries": {
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Intercom",
+  "countries": {
+   "ie": {
+    "rank": 13,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Intuit",
+  "countries": {
+   "in": {
+    "rank": 16,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "John Deere Financial",
+  "countries": {
+   "lu": {
+    "rank": 11,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "JPMorgan Chase",
+  "countries": {
+   "us": {
+    "rank": 2,
+    "kind": "bank"
+   },
+   "ca": {
+    "rank": 6,
+    "kind": "bank"
+   },
+   "ie": {
+    "rank": 16,
+    "kind": "bank"
+   },
+   "uk": {
+    "rank": 7,
+    "kind": "bank"
+   },
+   "au": {
+    "rank": 9,
+    "kind": "bank"
+   },
+   "ch": {
+    "rank": 11,
+    "kind": "bank"
+   },
+   "ae": {
+    "rank": 18,
+    "kind": "bank"
+   },
+   "lu": {
+    "rank": 3,
+    "kind": "bank"
+   },
+   "nl": {
+    "rank": 16,
+    "kind": "bank"
+   },
+   "sg": {
+    "rank": 7,
+    "kind": "bank"
+   },
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Judo Bank",
+  "countries": {
+   "au": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Julius Baer",
+  "countries": {
+   "ch": {
+    "rank": 14,
+    "kind": "bank"
+   },
+   "lu": {
+    "rank": 12,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Jump",
+  "countries": {
+   "sg": {
+    "rank": 13,
+    "kind": "trading"
+   }
+  }
+ },
+ {
+  "name": "Juspay",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Just Eat Takeaway",
+  "countries": {
+   "nl": {
+    "rank": 14,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Kitopi",
+  "countries": {
+   "ae": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "KOHO",
+  "countries": {
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "KPMG",
+  "countries": {
+   "lu": {
+    "rank": 18,
+    "kind": "services"
+   }
+  }
+ },
+ {
+  "name": "Ledgy",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Lendable",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Lightspeed",
+  "countries": {
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "LinkedIn",
+  "countries": {
+   "ie": {
+    "rank": 9,
+    "kind": "bigtech"
+   },
+   "in": {
+    "rank": 8,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Linktree",
+  "countries": {
+   "au": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Lyft",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Macquarie",
+  "countries": {
+   "au": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Macquarie Group",
+  "countries": {
+   "au": {
+    "rank": 11,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Mambu",
+  "countries": {
+   "nl": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Mantel",
+  "countries": {
+   "au": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Marshmallow",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Mashreq",
+  "countries": {
+   "ae": {
+    "rank": 12,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Mastercard",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Meesho",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Messagebird",
+  "countries": {
+   "nl": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Meta",
+  "countries": {
+   "us": {
+    "rank": 5,
+    "kind": "faang"
+   },
+   "ca": {
+    "rank": 4,
+    "kind": "faang"
+   },
+   "ie": {
+    "rank": 3,
+    "kind": "faang"
+   },
+   "uk": {
+    "rank": 2,
+    "kind": "faang"
+   },
+   "ch": {
+    "rank": 2,
+    "kind": "faang"
+   },
+   "sg": {
+    "rank": 1,
+    "kind": "faang"
+   }
+  }
+ },
+ {
+  "name": "Microsoft",
+  "countries": {
+   "us": {
+    "rank": 3,
+    "kind": "faang"
+   },
+   "ca": {
+    "rank": 2,
+    "kind": "faang"
+   },
+   "ie": {
+    "rank": 4,
+    "kind": "faang"
+   },
+   "uk": {
+    "rank": 4,
+    "kind": "faang"
+   },
+   "au": {
+    "rank": 5,
+    "kind": "faang"
+   },
+   "ch": {
+    "rank": 3,
+    "kind": "faang"
+   },
+   "ae": {
+    "rank": 3,
+    "kind": "faang"
+   },
+   "in": {
+    "rank": 2,
+    "kind": "faang"
+   },
+   "sg": {
+    "rank": 17,
+    "kind": "faang"
+   }
+  }
+ },
+ {
+  "name": "Miro",
+  "countries": {
+   "nl": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Mollie",
+  "countries": {
+   "nl": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Moneybox",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "MongoDB",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Monzo",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Morgan Stanley",
+  "countries": {
+   "uk": {
+    "rank": 9,
+    "kind": "bank"
+   },
+   "sg": {
+    "rank": 16,
+    "kind": "bank"
+   },
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Multiverse",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "NatWest",
+  "countries": {
+   "uk": {
+    "rank": 15,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Netflix",
+  "countries": {
+   "nl": {
+    "rank": 6,
+    "kind": "faang"
+   }
+  }
+ },
+ {
+  "name": "Nexthink",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Ninja Van",
+  "countries": {
+   "sg": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Nium",
+  "countries": {
+   "sg": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Noon",
+  "countries": {
+   "ae": {
+    "rank": 6,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Notion",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Nutanix",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "NVIDIA",
+  "countries": {
+   "us": {
+    "rank": 7,
+    "kind": "bigtech"
+   },
+   "ch": {
+    "rank": 7,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Ocado",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "OCBC",
+  "countries": {
+   "sg": {
+    "rank": 15,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Octopus Energy",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "OfferUp",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Ohpen",
+  "countries": {
+   "nl": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Okta",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "OKX",
+  "countries": {
+   "ae": {
+    "rank": 10,
+    "kind": "fintech"
+   },
+   "sg": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "On",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "OpenAI",
+  "countries": {
+   "ch": {
+    "rank": 6,
+    "kind": "bigtech"
+   },
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Optiver",
+  "countries": {
+   "au": {
+    "rank": 6,
+    "kind": "trading"
+   },
+   "nl": {
+    "rank": 7,
+    "kind": "trading"
+   },
+   "sg": {
+    "rank": 13,
+    "kind": "trading"
+   }
+  }
+ },
+ {
+  "name": "Oracle",
+  "countries": {
+   "us": {
+    "rank": 8,
+    "kind": "bigtech"
+   },
+   "ch": {
+    "rank": 17,
+    "kind": "bigtech"
+   },
+   "in": {
+    "rank": 18,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Outreach",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Paddle",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Palantir",
+  "countries": {
+   "nl": {
+    "rank": 9,
+    "kind": "bigtech"
+   },
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "PayPal",
+  "countries": {
+   "lu": {
+    "rank": 2,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "Personio",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "PhonePe",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Picnic",
+  "countries": {
+   "nl": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Pictet",
+  "countries": {
+   "ch": {
+    "rank": 16,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Pinterest",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Plaid",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "POST Luxembourg",
+  "countries": {
+   "lu": {
+    "rank": 15,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Postman",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Presight",
+  "countries": {
+   "ae": {
+    "rank": 7,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Property Finder",
+  "countries": {
+   "ae": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "PropertyGuru",
+  "countries": {
+   "sg": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Proton",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "PwC",
+  "countries": {
+   "ae": {
+    "rank": 19,
+    "kind": "services"
+   },
+   "lu": {
+    "rank": 18,
+    "kind": "services"
+   }
+  }
+ },
+ {
+  "name": "Qumulo",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Rabobank",
+  "countries": {
+   "nl": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Ramp",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Rapyd",
+  "countries": {
+   "sg": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Razorpay",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "RBC",
+  "countries": {
+   "ca": {
+    "rank": 7,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "REA Group",
+  "countries": {
+   "au": {
+    "rank": 16,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Reddit",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Redfin",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Remitly",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Revolut",
+  "countries": {
+   "uk": {
+    "rank": 16,
+    "kind": "fintech"
+   },
+   "ae": {
+    "rank": 5,
+    "kind": "fintech"
+   },
+   "sg": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Rippling",
+  "countries": {
+   "in": {
+    "rank": 12,
+    "kind": "bigtech"
+   },
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Robinhood",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Rokt",
+  "countries": {
+   "au": {
+    "rank": 14,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Rover",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Rubrik",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "SafetyCulture",
+  "countries": {
+   "au": {
+    "rank": 15,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Salesforce",
+  "countries": {
+   "us": {
+    "rank": 9,
+    "kind": "bigtech"
+   },
+   "ie": {
+    "rank": 8,
+    "kind": "bigtech"
+   },
+   "in": {
+    "rank": 7,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Samsara",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Sarwa",
+  "countries": {
+   "ae": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Scandit",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Scotiabank",
+  "countries": {
+   "ca": {
+    "rank": 9,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Sea",
+  "countries": {
+   "sg": {
+    "rank": 9,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Seek",
+  "countries": {
+   "au": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "ServiceNow",
+  "countries": {
+   "ie": {
+    "rank": 11,
+    "kind": "bigtech"
+   },
+   "in": {
+    "rank": 17,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "SES",
+  "countries": {
+   "lu": {
+    "rank": 5,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Shopee",
+  "countries": {
+   "sg": {
+    "rank": 9,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Shopify",
+  "countries": {
+   "ca": {
+    "rank": 5,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Singtel",
+  "countries": {
+   "sg": {
+    "rank": 18,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "SIX",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "SIX Group",
+  "countries": {
+   "ch": {
+    "rank": 12,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "Skyscanner",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Smallpdf",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Smartsheet",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Snowflake",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Snyk",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Sonar",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Spotify",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Sprinklr",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Spuerkeess",
+  "countries": {
+   "lu": {
+    "rank": 9,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Squarespace",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Starling",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "StashAway",
+  "countries": {
+   "sg": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "State Street",
+  "countries": {
+   "ie": {
+    "rank": 15,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Stripe",
+  "countries": {
+   "ca": {
+    "rank": 13,
+    "kind": "fintech"
+   },
+   "ie": {
+    "rank": 5,
+    "kind": "fintech"
+   },
+   "uk": {
+    "rank": 16,
+    "kind": "fintech"
+   },
+   "au": {
+    "rank": 8,
+    "kind": "fintech"
+   },
+   "in": {
+    "rank": 10,
+    "kind": "fintech"
+   },
+   "sg": {
+    "rank": 3,
+    "kind": "fintech"
+   },
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Susquehanna",
+  "countries": {
+   "ie": {
+    "rank": 14,
+    "kind": "trading"
+   },
+   "au": {
+    "rank": 7,
+    "kind": "trading"
+   }
+  }
+ },
+ {
+  "name": "Swiggy",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Swiss Life",
+  "countries": {
+   "lu": {
+    "rank": 14,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "Swiss Re",
+  "countries": {
+   "lu": {
+    "rank": 14,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "Swissquote",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Sygnum",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Synthesia",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "T Mobile",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Tabby",
+  "countries": {
+   "ae": {
+    "rank": 13,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "Tableau",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Talabat",
+  "countries": {
+   "ae": {
+    "rank": 4,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Talkwalker",
+  "countries": {
+   "lu": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "TCS",
+  "countries": {
+   "us": {
+    "rank": 16,
+    "kind": "services"
+   },
+   "ie": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "uk": {
+    "rank": 19,
+    "kind": "services"
+   },
+   "au": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "ch": {
+    "rank": 19,
+    "kind": "services"
+   },
+   "ae": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "nl": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "sg": {
+    "rank": 20,
+    "kind": "services"
+   }
+  }
+ },
+ {
+  "name": "TD",
+  "countries": {
+   "ca": {
+    "rank": 8,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Teads",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Technology Innovation Institute",
+  "countries": {
+   "ae": {
+    "rank": 8,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Temenos",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Thought Machine",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Thoughtworks",
+  "countries": {
+   "sg": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Thunes",
+  "countries": {
+   "sg": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Tide",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "TikTok",
+  "countries": {
+   "ie": {
+    "rank": 6,
+    "kind": "bigtech"
+   },
+   "sg": {
+    "rank": 2,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Tines",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Tiqets",
+  "countries": {
+   "nl": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Toast",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Tower",
+  "countries": {
+   "sg": {
+    "rank": 13,
+    "kind": "trading"
+   }
+  }
+ },
+ {
+  "name": "Tower Research",
+  "countries": {
+   "nl": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "TrueLayer",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Twilio",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Tyro",
+  "countries": {
+   "au": {
+    "rank": 17,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "Uber",
+  "countries": {
+   "nl": {
+    "rank": 2,
+    "kind": "bigtech"
+   },
+   "in": {
+    "rank": 5,
+    "kind": "bigtech"
+   },
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "UBS",
+  "countries": {
+   "uk": {
+    "rank": 14,
+    "kind": "bank"
+   },
+   "ch": {
+    "rank": 10,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Udemy",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Unity",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   },
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "UOB",
+  "countries": {
+   "sg": {
+    "rank": 15,
+    "kind": "bank"
+   }
+  }
+ },
+ {
+  "name": "Veeam",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Visa",
+  "countries": {
+   "in": {
+    "rank": 19,
+    "kind": "fintech"
+   },
+   "sg": {
+    "rank": 11,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "Walmart",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Walmart Global Tech",
+  "countries": {
+   "us": {
+    "rank": 12,
+    "kind": "bigtech"
+   },
+   "in": {
+    "rank": 9,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Wattpad",
+  "countries": {
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Wave",
+  "countries": {
+   "ca": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Wayflyer",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Wayve",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Wealthsimple",
+  "countries": {
+   "ca": {
+    "rank": 12,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "WeTransfer",
+  "countries": {
+   "nl": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Wipro",
+  "countries": {
+   "ie": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "uk": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "au": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "ae": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "nl": {
+    "rank": 20,
+    "kind": "services"
+   },
+   "sg": {
+    "rank": 20,
+    "kind": "services"
+   }
+  }
+ },
+ {
+  "name": "Wise",
+  "countries": {
+   "uk": {
+    "rank": 16,
+    "kind": "fintech"
+   },
+   "sg": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "WiseTech",
+  "countries": {
+   "au": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "WiseTech Global",
+  "countries": {
+   "au": {
+    "rank": 13,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Workday",
+  "countries": {
+   "ie": {
+    "rank": 7,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Workhuman",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Xendit",
+  "countries": {
+   "sg": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Xero",
+  "countries": {
+   "au": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Yokoy",
+  "countries": {
+   "ch": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Zalando",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Zendesk",
+  "countries": {
+   "ie": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Zepto",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Zeta",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Ziina",
+  "countries": {
+   "ae": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Zillow",
+  "countries": {
+   "us": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Zip",
+  "countries": {
+   "au": {
+    "rank": 17,
+    "kind": "fintech"
+   }
+  }
+ },
+ {
+  "name": "Zomato",
+  "countries": {
+   "in": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Zopa",
+  "countries": {
+   "uk": {
+    "rank": 60,
+    "kind": "bigtech"
+   }
+  }
+ },
+ {
+  "name": "Zurcher Kantonalbank",
+  "countries": {
+   "ch": {
+    "rank": 15,
+    "kind": "bank"
+   }
+  }
+ }
+]

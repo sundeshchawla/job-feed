@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-10-20T19:39:55.205604+00:00",
- "seconds": 125,
+ "generatedAt": "2026-10-20T19:43:50.442870+00:00",
+ "seconds": 131,
  "rawJobs": 22297,
- "candidates": 2029,
+ "candidates": 2028,
  "kept": 925,
  "companies": {
   "1Password": {
@@ -3213,7 +3213,7 @@
     }
    ],
    "ok": true,
-   "total": 479,
+   "total": 478,
    "inTarget": 37,
    "error": "",
    "used": {
@@ -3869,7 +3869,7 @@
     }
    ],
    "ok": true,
-   "total": 309,
+   "total": 310,
    "inTarget": 6,
    "error": "",
    "used": {

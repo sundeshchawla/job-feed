@@ -1,6 +1,6 @@
-# Job feed - 2026-10-20 19:39 UTC
+# Job feed - 2026-10-20 19:43 UTC
 
-Boards read: 140 of 339 - raw jobs 22297 - after title/location/date filters 2029 - kept 925
+Boards read: 140 of 339 - raw jobs 22297 - after title/location/date filters 2028 - kept 925
 
 | Country | Jobs |
 |---|---|
@@ -23,7 +23,7 @@ Boards read: 140 of 339 - raw jobs 22297 - after title/location/date filters 202
 - Amazon (amazon): 55 of 388
 - JPMorgan Chase (oracle): 44 of 300
 - NVIDIA (workday): 37 of 565
-- Salesforce (workday): 37 of 479
+- Salesforce (workday): 37 of 478
 - Atlassian (atlassian): 36 of 360
 - Okta (greenhouse): 33 of 395
 - State Street (workday): 33 of 399
@@ -59,7 +59,7 @@ Boards read: 140 of 339 - raw jobs 22297 - after title/location/date filters 202
 - Lyft (greenhouse): 6 of 176
 - Ramp (ashby): 6 of 169
 - Snowflake (ashby): 6 of 359
-- Toast (greenhouse): 6 of 309
+- Toast (greenhouse): 6 of 310
 - Thunes (greenhouse): 4 of 51
 - Afterpay (greenhouse): 3 of 215
 - Cohere (ashby): 3 of 116

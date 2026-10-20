@@ -1,31 +1,31 @@
 {
- "generatedAt": "2026-10-20T19:34:49.729265+00:00",
- "seconds": 199,
- "rawJobs": 22822,
- "candidates": 2370,
- "kept": 1064,
+ "generatedAt": "2026-10-20T19:39:55.205604+00:00",
+ "seconds": 125,
+ "rawJobs": 22297,
+ "candidates": 2029,
+ "kept": 925,
  "companies": {
   "1Password": {
    "company": "1Password",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "1password"
+     "slug": "1password",
+     "type": "ashby"
     }
    ],
    "ok": true,
    "total": 77,
-   "inTarget": 5,
+   "inTarget": 2,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "1password"
+    "slug": "1password",
+    "type": "ashby"
    }
   },
   "ABN AMRO": {
    "company": "ABN AMRO",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -50,7 +50,7 @@
   },
   "Ada": {
    "company": "Ada",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -59,7 +59,7 @@
   },
   "ADCB": {
    "company": "ADCB",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -79,7 +79,7 @@
    ],
    "ok": true,
    "total": 159,
-   "inTarget": 18,
+   "inTarget": 21,
    "error": "",
    "used": {
     "type": "workday",
@@ -90,7 +90,7 @@
   },
   "Advance.ai": {
    "company": "Advance.ai",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -99,29 +99,29 @@
   },
   "Adyen": {
    "company": "Adyen",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "adyen"
+     "slug": "adyen",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
-   "total": 243,
-   "inTarget": 8,
+   "total": 244,
+   "inTarget": 1,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "adyen"
+    "slug": "adyen",
+    "type": "greenhouse"
    }
   },
   "Affirm": {
    "company": "Affirm",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "affirm"
+     "slug": "affirm",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -129,8 +129,8 @@
    "inTarget": 12,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "affirm"
+    "slug": "affirm",
+    "type": "greenhouse"
    }
   },
   "Afterpay": {
@@ -144,7 +144,7 @@
    ],
    "ok": true,
    "total": 215,
-   "inTarget": 4,
+   "inTarget": 3,
    "error": "",
    "used": {
     "type": "greenhouse",
@@ -153,7 +153,7 @@
   },
   "Ahrefs": {
    "company": "Ahrefs",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -162,25 +162,25 @@
   },
   "Airbnb": {
    "company": "Airbnb",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "airbnb"
+     "slug": "airbnb",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 182,
-   "inTarget": 2,
+   "inTarget": 1,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "airbnb"
+    "slug": "airbnb",
+    "type": "greenhouse"
    }
   },
   "Airtasker": {
    "company": "Airtasker",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -189,25 +189,25 @@
   },
   "Airwallex": {
    "company": "Airwallex",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "airwallex"
+     "slug": "airwallex",
+     "type": "ashby"
     }
    ],
    "ok": true,
    "total": 500,
-   "inTarget": 16,
+   "inTarget": 12,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "airwallex"
+    "slug": "airwallex",
+    "type": "ashby"
    }
   },
   "AlphaGrep": {
    "company": "AlphaGrep",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -216,7 +216,7 @@
   },
   "Alpian": {
    "company": "Alpian",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -241,7 +241,7 @@
   },
   "Anghami": {
    "company": "Anghami",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -250,25 +250,25 @@
   },
   "Anthropic": {
    "company": "Anthropic",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "anthropic"
+     "slug": "anthropic",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 670,
-   "inTarget": 12,
+   "inTarget": 13,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "anthropic"
+    "slug": "anthropic",
+    "type": "greenhouse"
    }
   },
   "Apple": {
    "company": "Apple",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -277,7 +277,7 @@
   },
   "ApplyBoard": {
    "company": "ApplyBoard",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -286,7 +286,7 @@
   },
   "ArcelorMittal": {
    "company": "ArcelorMittal",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -295,7 +295,7 @@
   },
   "Arcesium": {
    "company": "Arcesium",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -304,11 +304,11 @@
   },
   "Arhs": {
    "company": "Arhs",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "smartrecruiters",
-     "slug": "arhs"
+     "slug": "arhs",
+     "type": "smartrecruiters"
     }
    ],
    "ok": true,
@@ -316,17 +316,17 @@
    "inTarget": 1,
    "error": "",
    "used": {
-    "type": "smartrecruiters",
-    "slug": "arhs"
+    "slug": "arhs",
+    "type": "smartrecruiters"
    }
   },
   "Asana": {
    "company": "Asana",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "asana"
+     "slug": "asana",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -334,13 +334,13 @@
    "inTarget": 1,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "asana"
+    "slug": "asana",
+    "type": "greenhouse"
    }
   },
   "ASML": {
    "company": "ASML",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -349,7 +349,7 @@
   },
   "Aspire": {
    "company": "Aspire",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -358,11 +358,11 @@
   },
   "Atlan": {
    "company": "Atlan",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "atlan"
+     "slug": "atlan",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -370,8 +370,8 @@
    "inTarget": 1,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "atlan"
+    "slug": "atlan",
+    "type": "ashby"
    }
   },
   "Atlassian": {
@@ -384,7 +384,7 @@
    ],
    "ok": true,
    "total": 360,
-   "inTarget": 32,
+   "inTarget": 36,
    "error": "",
    "used": {
     "type": "atlassian"
@@ -392,7 +392,7 @@
   },
   "Auth0": {
    "company": "Auth0",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -401,7 +401,7 @@
   },
   "Avalara": {
    "company": "Avalara",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -410,7 +410,7 @@
   },
   "Avaloq": {
    "company": "Avaloq",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -419,7 +419,7 @@
   },
   "Backbase": {
    "company": "Backbase",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -428,7 +428,7 @@
   },
   "Banque de Luxembourg": {
    "company": "Banque de Luxembourg",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -448,7 +448,7 @@
    ],
    "ok": true,
    "total": 355,
-   "inTarget": 27,
+   "inTarget": 26,
    "error": "",
    "used": {
     "type": "workday",
@@ -459,7 +459,7 @@
   },
   "Bayut": {
    "company": "Bayut",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -468,7 +468,7 @@
   },
   "Beekeeper": {
    "company": "Beekeeper",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -477,11 +477,11 @@
   },
   "Benevity": {
    "company": "Benevity",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "benevity"
+     "slug": "benevity",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -489,13 +489,13 @@
    "inTarget": 6,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "benevity"
+    "slug": "benevity",
+    "type": "ashby"
    }
   },
   "BGL BNP Paribas": {
    "company": "BGL BNP Paribas",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -504,7 +504,7 @@
   },
   "BIL": {
    "company": "BIL",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -513,20 +513,20 @@
   },
   "Binance": {
    "company": "Binance",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "binance"
+     "slug": "binance",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 222,
-   "inTarget": 18,
+   "inTarget": 13,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "binance"
+    "slug": "binance",
+    "type": "greenhouse"
    }
   },
   "Block": {
@@ -540,7 +540,7 @@
    ],
    "ok": true,
    "total": 215,
-   "inTarget": 4,
+   "inTarget": 0,
    "error": "",
    "used": {
     "type": "greenhouse",
@@ -549,7 +549,7 @@
   },
   "Bloomberg": {
    "company": "Bloomberg",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -558,7 +558,7 @@
   },
   "BMO": {
    "company": "BMO",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -567,7 +567,7 @@
   },
   "Bol": {
    "company": "Bol",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -577,38 +577,33 @@
   "Booking.com": {
    "company": "Booking.com",
    "how": "known",
-   "boards": [
-    {
-     "type": "greenhouse",
-     "slug": "bookingcom"
-    }
-   ],
+   "boards": [],
    "ok": false,
    "total": 0,
    "inTarget": 0,
-   "error": "greenhouse: HTTPError: HTTP Error 404: Not Found"
+   "error": "no public board found"
   },
   "Brex": {
    "company": "Brex",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "brex"
+     "slug": "brex",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 260,
-   "inTarget": 10,
+   "inTarget": 11,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "brex"
+    "slug": "brex",
+    "type": "greenhouse"
    }
   },
   "BrowserStack": {
    "company": "BrowserStack",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -617,11 +612,11 @@
   },
   "Buildkite": {
    "company": "Buildkite",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "buildkite"
+     "slug": "buildkite",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -629,71 +624,62 @@
    "inTarget": 1,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "buildkite"
+    "slug": "buildkite",
+    "type": "greenhouse"
    }
   },
   "Bunq": {
    "company": "Bunq",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "recruitee",
-     "slug": "bunq"
+     "slug": "bunq",
+     "type": "recruitee"
     }
    ],
    "ok": true,
    "total": 20,
-   "inTarget": 2,
+   "inTarget": 0,
    "error": "",
    "used": {
-    "type": "recruitee",
-    "slug": "bunq"
+    "slug": "bunq",
+    "type": "recruitee"
    }
   },
   "Bybit": {
    "company": "Bybit",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "bybit"
+     "slug": "bybit",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 165,
-   "inTarget": 9,
+   "inTarget": 2,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "bybit"
+    "slug": "bybit",
+    "type": "greenhouse"
    }
   },
   "ByteDance": {
    "company": "ByteDance",
-   "how": "discovered",
-   "boards": [
-    {
-     "type": "smartrecruiters",
-     "slug": "ByteDance"
-    }
-   ],
-   "ok": true,
-   "total": 2,
+   "how": "known",
+   "boards": [],
+   "ok": false,
+   "total": 0,
    "inTarget": 0,
-   "error": "",
-   "used": {
-    "type": "smartrecruiters",
-    "slug": "ByteDance"
-   }
+   "error": "no public board found"
   },
   "Canonical": {
    "company": "Canonical",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "canonical"
+     "slug": "canonical",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -701,31 +687,31 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "canonical"
+    "slug": "canonical",
+    "type": "greenhouse"
    }
   },
   "Canva": {
    "company": "Canva",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "smartrecruiters",
-     "slug": "canva"
+     "slug": "canva",
+     "type": "smartrecruiters"
     }
    ],
    "ok": true,
    "total": 105,
-   "inTarget": 2,
+   "inTarget": 1,
    "error": "",
    "used": {
-    "type": "smartrecruiters",
-    "slug": "canva"
+    "slug": "canva",
+    "type": "smartrecruiters"
    }
   },
   "Capgemini": {
    "company": "Capgemini",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -734,11 +720,11 @@
   },
   "Careem": {
    "company": "Careem",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "careem"
+     "slug": "careem",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -746,13 +732,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "careem"
+    "slug": "careem",
+    "type": "greenhouse"
    }
   },
   "Cargolux": {
    "company": "Cargolux",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -761,7 +747,7 @@
   },
   "Carousell": {
    "company": "Carousell",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -770,25 +756,25 @@
   },
   "Catawiki": {
    "company": "Catawiki",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "catawiki"
+     "slug": "catawiki",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 44,
-   "inTarget": 4,
+   "inTarget": 2,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "catawiki"
+    "slug": "catawiki",
+    "type": "greenhouse"
    }
   },
   "Chalhoub Group": {
    "company": "Chalhoub Group",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -797,7 +783,7 @@
   },
   "Chargebee": {
    "company": "Chargebee",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -806,7 +792,7 @@
   },
   "Checkout.com": {
    "company": "Checkout.com",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -815,7 +801,7 @@
   },
   "CIBC": {
    "company": "CIBC",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -824,7 +810,7 @@
   },
   "Cisco": {
    "company": "Cisco",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -843,8 +829,8 @@
     }
    ],
    "ok": true,
-   "total": 507,
-   "inTarget": 61,
+   "total": 509,
+   "inTarget": 56,
    "error": "",
    "used": {
     "type": "workday",
@@ -855,7 +841,7 @@
   },
   "ClearScore": {
    "company": "ClearScore",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -864,7 +850,7 @@
   },
   "Clearstream": {
    "company": "Clearstream",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -873,11 +859,11 @@
   },
   "Cleo": {
    "company": "Cleo",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "cleo"
+     "slug": "cleo",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -885,13 +871,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "cleo"
+    "slug": "cleo",
+    "type": "greenhouse"
    }
   },
   "Clio": {
    "company": "Clio",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -900,25 +886,25 @@
   },
   "Cloudflare": {
    "company": "Cloudflare",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "cloudflare"
+     "slug": "cloudflare",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 436,
-   "inTarget": 13,
+   "inTarget": 14,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "cloudflare"
+    "slug": "cloudflare",
+    "type": "greenhouse"
    }
   },
   "Cognizant": {
    "company": "Cognizant",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -927,25 +913,25 @@
   },
   "Cohere": {
    "company": "Cohere",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "cohere"
+     "slug": "cohere",
+     "type": "ashby"
     }
    ],
    "ok": true,
    "total": 116,
-   "inTarget": 2,
+   "inTarget": 3,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "cohere"
+    "slug": "cohere",
+    "type": "ashby"
    }
   },
   "Cohesity": {
    "company": "Cohesity",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -954,11 +940,11 @@
   },
   "Coinbase": {
    "company": "Coinbase",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "coinbase"
+     "slug": "coinbase",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -966,13 +952,13 @@
    "inTarget": 3,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "coinbase"
+    "slug": "coinbase",
+    "type": "greenhouse"
    }
   },
   "Commonwealth Bank": {
    "company": "Commonwealth Bank",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -981,7 +967,7 @@
   },
   "Confluent": {
    "company": "Confluent",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -990,11 +976,11 @@
   },
   "Coolblue": {
    "company": "Coolblue",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "smartrecruiters",
-     "slug": "Coolblue"
+     "slug": "Coolblue",
+     "type": "smartrecruiters"
     }
    ],
    "ok": true,
@@ -1002,13 +988,13 @@
    "inTarget": 3,
    "error": "",
    "used": {
-    "type": "smartrecruiters",
-    "slug": "Coolblue"
+    "slug": "Coolblue",
+    "type": "smartrecruiters"
    }
   },
   "Core42": {
    "company": "Core42",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1017,12 +1003,12 @@
   },
   "CRED": {
    "company": "CRED",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "lever",
+     "eu": false,
      "slug": "cred",
-     "eu": false
+     "type": "lever"
     }
    ],
    "ok": true,
@@ -1030,14 +1016,14 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "lever",
+    "eu": false,
     "slug": "cred",
-    "eu": false
+    "type": "lever"
    }
   },
   "Crypto.com": {
    "company": "Crypto.com",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1046,11 +1032,11 @@
   },
   "Culture Amp": {
    "company": "Culture Amp",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "cultureamp"
+     "slug": "cultureamp",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -1058,13 +1044,13 @@
    "inTarget": 2,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "cultureamp"
+    "slug": "cultureamp",
+    "type": "greenhouse"
    }
   },
   "Dapper Labs": {
    "company": "Dapper Labs",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1073,43 +1059,43 @@
   },
   "Databricks": {
    "company": "Databricks",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "databricks"
+     "slug": "databricks",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 901,
-   "inTarget": 9,
+   "inTarget": 10,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "databricks"
+    "slug": "databricks",
+    "type": "greenhouse"
    }
   },
   "Datadog": {
    "company": "Datadog",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "datadog"
+     "slug": "datadog",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
-   "total": 435,
-   "inTarget": 6,
+   "total": 434,
+   "inTarget": 8,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "datadog"
+    "slug": "datadog",
+    "type": "greenhouse"
    }
   },
   "DBS": {
    "company": "DBS",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1118,7 +1104,7 @@
   },
   "DE Shaw": {
    "company": "DE Shaw",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1127,25 +1113,25 @@
   },
   "Deliveroo": {
    "company": "Deliveroo",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "deliveroo"
+     "slug": "deliveroo",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 226,
-   "inTarget": 9,
+   "inTarget": 8,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "deliveroo"
+    "slug": "deliveroo",
+    "type": "greenhouse"
    }
   },
   "Deloitte": {
    "company": "Deloitte",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1154,7 +1140,7 @@
   },
   "Deloitte Consulting": {
    "company": "Deloitte Consulting",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1163,12 +1149,12 @@
   },
   "Deputy": {
    "company": "Deputy",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "lever",
+     "eu": false,
      "slug": "deputy",
-     "eu": false
+     "type": "lever"
     }
    ],
    "ok": true,
@@ -1176,14 +1162,14 @@
    "inTarget": 1,
    "error": "",
    "used": {
-    "type": "lever",
+    "eu": false,
     "slug": "deputy",
-    "eu": false
+    "type": "lever"
    }
   },
   "Deriv": {
    "company": "Deriv",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1203,7 +1189,7 @@
    ],
    "ok": true,
    "total": 333,
-   "inTarget": 14,
+   "inTarget": 8,
    "error": "",
    "used": {
     "type": "workday",
@@ -1214,7 +1200,7 @@
   },
   "Deutsche Borse": {
    "company": "Deutsche Borse",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1223,7 +1209,7 @@
   },
   "Digitec Galaxus": {
    "company": "Digitec Galaxus",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1232,11 +1218,11 @@
   },
   "Discord": {
    "company": "Discord",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "discord"
+     "slug": "discord",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -1244,13 +1230,13 @@
    "inTarget": 2,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "discord"
+    "slug": "discord",
+    "type": "greenhouse"
    }
   },
   "Docusign": {
    "company": "Docusign",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1259,7 +1245,7 @@
   },
   "Doodle": {
    "company": "Doodle",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1268,7 +1254,7 @@
   },
   "DoorDash": {
    "company": "DoorDash",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1277,11 +1263,11 @@
   },
   "Dropbox": {
    "company": "Dropbox",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "dropbox"
+     "slug": "dropbox",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -1289,13 +1275,13 @@
    "inTarget": 2,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "dropbox"
+    "slug": "dropbox",
+    "type": "greenhouse"
    }
   },
   "Dubizzle": {
    "company": "Dubizzle",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1304,7 +1290,7 @@
   },
   "Dubizzle Group": {
    "company": "Dubizzle Group",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1313,11 +1299,11 @@
   },
   "Ebury": {
    "company": "Ebury",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "ebury"
+     "slug": "ebury",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -1325,17 +1311,17 @@
    "inTarget": 1,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "ebury"
+    "slug": "ebury",
+    "type": "greenhouse"
    }
   },
   "Elastic": {
    "company": "Elastic",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "elastic"
+     "slug": "elastic",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -1343,13 +1329,13 @@
    "inTarget": 18,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "elastic"
+    "slug": "elastic",
+    "type": "greenhouse"
    }
   },
   "Emirates Group IT": {
    "company": "Emirates Group IT",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1358,7 +1344,7 @@
   },
   "Emirates NBD": {
    "company": "Emirates NBD",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1367,7 +1353,7 @@
   },
   "Employment Hero": {
    "company": "Employment Hero",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1376,7 +1362,7 @@
   },
   "Endowus": {
    "company": "Endowus",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1385,7 +1371,7 @@
   },
   "Envato": {
    "company": "Envato",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1394,7 +1380,7 @@
   },
   "Ernst & Young": {
    "company": "Ernst & Young",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1403,7 +1389,7 @@
   },
   "Etsy": {
    "company": "Etsy",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1412,7 +1398,7 @@
   },
   "Expedia": {
    "company": "Expedia",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1421,25 +1407,16 @@
   },
   "EY": {
    "company": "EY",
-   "how": "discovered",
-   "boards": [
-    {
-     "type": "recruitee",
-     "slug": "ey"
-    }
-   ],
-   "ok": true,
-   "total": 3,
+   "how": "known",
+   "boards": [],
+   "ok": false,
+   "total": 0,
    "inTarget": 0,
-   "error": "",
-   "used": {
-    "type": "recruitee",
-    "slug": "ey"
-   }
+   "error": "no public board found"
   },
   "F5": {
    "company": "F5",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1448,7 +1425,7 @@
   },
   "FAB": {
    "company": "FAB",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1457,25 +1434,25 @@
   },
   "Faire": {
    "company": "Faire",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "faire"
+     "slug": "faire",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 75,
-   "inTarget": 2,
+   "inTarget": 1,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "faire"
+    "slug": "faire",
+    "type": "greenhouse"
    }
   },
   "Fenergo": {
    "company": "Fenergo",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1485,24 +1462,11 @@
   "Fidelity": {
    "company": "Fidelity",
    "how": "known",
-   "boards": [
-    {
-     "type": "workday",
-     "tenant": "fmr",
-     "wd": "wd1",
-     "site": "FidelityCareers"
-    }
-   ],
-   "ok": true,
-   "total": 250,
-   "inTarget": 14,
-   "error": "",
-   "used": {
-    "type": "workday",
-    "tenant": "fmr",
-    "wd": "wd1",
-    "site": "FidelityCareers"
-   }
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
   },
   "Fidelity Technology Group": {
    "company": "Fidelity Technology Group",
@@ -1516,8 +1480,8 @@
     }
    ],
    "ok": true,
-   "total": 250,
-   "inTarget": 15,
+   "total": 249,
+   "inTarget": 10,
    "error": "",
    "used": {
     "type": "workday",
@@ -1528,29 +1492,29 @@
   },
   "Figma": {
    "company": "Figma",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "figma"
+     "slug": "figma",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 141,
-   "inTarget": 1,
+   "inTarget": 2,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "figma"
+    "slug": "figma",
+    "type": "greenhouse"
    }
   },
   "Flexport": {
    "company": "Flexport",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "flexport"
+     "slug": "flexport",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -1558,17 +1522,17 @@
    "inTarget": 3,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "flexport"
+    "slug": "flexport",
+    "type": "greenhouse"
    }
   },
   "Flipdish": {
    "company": "Flipdish",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "flipdish"
+     "slug": "flipdish",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -1576,13 +1540,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "flipdish"
+    "slug": "flipdish",
+    "type": "greenhouse"
    }
   },
   "Flipkart": {
    "company": "Flipkart",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1591,11 +1555,11 @@
   },
   "Float": {
    "company": "Float",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "float"
+     "slug": "float",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -1603,17 +1567,17 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "float"
+    "slug": "float",
+    "type": "ashby"
    }
   },
   "Flow Traders": {
    "company": "Flow Traders",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "flowtraders"
+     "slug": "flowtraders",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -1621,13 +1585,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "flowtraders"
+    "slug": "flowtraders",
+    "type": "greenhouse"
    }
   },
   "Framer": {
    "company": "Framer",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1636,29 +1600,29 @@
   },
   "Freshworks": {
    "company": "Freshworks",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "smartrecruiters",
-     "slug": "Freshworks"
+     "slug": "Freshworks",
+     "type": "smartrecruiters"
     }
    ],
    "ok": true,
    "total": 124,
-   "inTarget": 7,
+   "inTarget": 3,
    "error": "",
    "used": {
-    "type": "smartrecruiters",
-    "slug": "Freshworks"
+    "slug": "Freshworks",
+    "type": "smartrecruiters"
    }
   },
   "Frontify": {
    "company": "Frontify",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "frontify"
+     "slug": "frontify",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -1666,17 +1630,17 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "frontify"
+    "slug": "frontify",
+    "type": "ashby"
    }
   },
   "Funding Societies": {
    "company": "Funding Societies",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "workable",
-     "slug": "fundingsocieties"
+     "slug": "fundingsocieties",
+     "type": "workable"
     }
    ],
    "ok": true,
@@ -1684,13 +1648,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "workable",
-    "slug": "fundingsocieties"
+    "slug": "fundingsocieties",
+    "type": "workable"
    }
   },
   "G42": {
    "company": "G42",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1699,29 +1663,20 @@
   },
   "Glean": {
    "company": "Glean",
-   "how": "discovered",
-   "boards": [
-    {
-     "type": "smartrecruiters",
-     "slug": "glean"
-    }
-   ],
-   "ok": true,
-   "total": 1,
+   "how": "known",
+   "boards": [],
+   "ok": false,
+   "total": 0,
    "inTarget": 0,
-   "error": "",
-   "used": {
-    "type": "smartrecruiters",
-    "slug": "glean"
-   }
+   "error": "no public board found"
   },
   "GoCardless": {
    "company": "GoCardless",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "gocardless"
+     "slug": "gocardless",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -1729,13 +1684,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "gocardless"
+    "slug": "gocardless",
+    "type": "greenhouse"
    }
   },
   "Gojek": {
    "company": "Gojek",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1744,7 +1699,7 @@
   },
   "Goldman Sachs": {
    "company": "Goldman Sachs",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1753,7 +1708,7 @@
   },
   "Goodyear": {
    "company": "Goodyear",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1770,7 +1725,7 @@
    ],
    "ok": true,
    "total": 207,
-   "inTarget": 70,
+   "inTarget": 66,
    "error": "",
    "used": {
     "type": "google"
@@ -1778,29 +1733,29 @@
   },
   "Grab": {
    "company": "Grab",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "smartrecruiters",
-     "slug": "grab"
+     "slug": "grab",
+     "type": "smartrecruiters"
     }
    ],
    "ok": true,
    "total": 434,
-   "inTarget": 9,
+   "inTarget": 8,
    "error": "",
    "used": {
-    "type": "smartrecruiters",
-    "slug": "grab"
+    "slug": "grab",
+    "type": "smartrecruiters"
    }
   },
   "Groww": {
    "company": "Groww",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "groww"
+     "slug": "groww",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -1808,17 +1763,17 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "groww"
+    "slug": "groww",
+    "type": "greenhouse"
    }
   },
   "Gusto": {
    "company": "Gusto",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "gusto"
+     "slug": "gusto",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -1826,13 +1781,13 @@
    "inTarget": 1,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "gusto"
+    "slug": "gusto",
+    "type": "greenhouse"
    }
   },
   "Harness": {
    "company": "Harness",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1841,7 +1796,7 @@
   },
   "HCL": {
    "company": "HCL",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1850,7 +1805,7 @@
   },
   "HCL America": {
    "company": "HCL America",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1859,7 +1814,7 @@
   },
   "HCLTech": {
    "company": "HCLTech",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1868,7 +1823,7 @@
   },
   "Highspot": {
    "company": "Highspot",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1877,7 +1832,7 @@
   },
   "Hitachi Energy": {
    "company": "Hitachi Energy",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1886,11 +1841,11 @@
   },
   "Hootsuite": {
    "company": "Hootsuite",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "hootsuite"
+     "slug": "hootsuite",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -1898,29 +1853,22 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "hootsuite"
+    "slug": "hootsuite",
+    "type": "greenhouse"
    }
   },
   "HSBC": {
    "company": "HSBC",
    "how": "known",
-   "boards": [
-    {
-     "type": "workday",
-     "tenant": "hsbc",
-     "wd": "wd3",
-     "site": "external"
-    }
-   ],
+   "boards": [],
    "ok": false,
    "total": 0,
    "inTarget": 0,
-   "error": "workday: HTTPError: HTTP Error 422: Unprocessable Entity"
+   "error": "no public board found"
   },
   "HubSpot": {
    "company": "HubSpot",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1929,7 +1877,7 @@
   },
   "Huspy": {
    "company": "Huspy",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1938,7 +1886,7 @@
   },
   "Icertis": {
    "company": "Icertis",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -1983,12 +1931,12 @@
   },
   "Immutable": {
    "company": "Immutable",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "lever",
+     "eu": false,
      "slug": "immutable",
-     "eu": false
+     "type": "lever"
     }
    ],
    "ok": true,
@@ -1996,14 +1944,14 @@
    "inTarget": 1,
    "error": "",
    "used": {
-    "type": "lever",
+    "eu": false,
     "slug": "immutable",
-    "eu": false
+    "type": "lever"
    }
   },
   "Indeed": {
    "company": "Indeed",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2012,7 +1960,7 @@
   },
   "Infosys": {
    "company": "Infosys",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2021,7 +1969,7 @@
   },
   "ING": {
    "company": "ING",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2030,29 +1978,29 @@
   },
   "Instacart": {
    "company": "Instacart",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "instacart"
+     "slug": "instacart",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 123,
-   "inTarget": 2,
+   "inTarget": 1,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "instacart"
+    "slug": "instacart",
+    "type": "greenhouse"
    }
   },
   "Intercom": {
    "company": "Intercom",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "intercom"
+     "slug": "intercom",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -2060,13 +2008,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "intercom"
+    "slug": "intercom",
+    "type": "greenhouse"
    }
   },
   "Intuit": {
    "company": "Intuit",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2075,7 +2023,7 @@
   },
   "John Deere Financial": {
    "company": "John Deere Financial",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2104,11 +2052,11 @@
   },
   "Judo Bank": {
    "company": "Judo Bank",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "smartrecruiters",
-     "slug": "judobank"
+     "slug": "judobank",
+     "type": "smartrecruiters"
     }
    ],
    "ok": true,
@@ -2116,13 +2064,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "smartrecruiters",
-    "slug": "judobank"
+    "slug": "judobank",
+    "type": "smartrecruiters"
    }
   },
   "Julius Baer": {
    "company": "Julius Baer",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2131,25 +2079,16 @@
   },
   "Jump": {
    "company": "Jump",
-   "how": "discovered",
-   "boards": [
-    {
-     "type": "ashby",
-     "slug": "jump"
-    }
-   ],
-   "ok": true,
-   "total": 4,
+   "how": "known",
+   "boards": [],
+   "ok": false,
+   "total": 0,
    "inTarget": 0,
-   "error": "",
-   "used": {
-    "type": "ashby",
-    "slug": "jump"
-   }
+   "error": "no public board found"
   },
   "Juspay": {
    "company": "Juspay",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2176,7 +2115,7 @@
   },
   "Kitopi": {
    "company": "Kitopi",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2185,11 +2124,11 @@
   },
   "KOHO": {
    "company": "KOHO",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "koho"
+     "slug": "koho",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -2197,13 +2136,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "koho"
+    "slug": "koho",
+    "type": "ashby"
    }
   },
   "KPMG": {
    "company": "KPMG",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2212,11 +2151,11 @@
   },
   "Ledgy": {
    "company": "Ledgy",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "ledgy"
+     "slug": "ledgy",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -2224,17 +2163,17 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "ledgy"
+    "slug": "ledgy",
+    "type": "greenhouse"
    }
   },
   "Lendable": {
    "company": "Lendable",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "lendable"
+     "slug": "lendable",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -2242,17 +2181,17 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "lendable"
+    "slug": "lendable",
+    "type": "ashby"
    }
   },
   "Lightspeed": {
    "company": "Lightspeed",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "lightspeed"
+     "slug": "lightspeed",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -2260,33 +2199,22 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "lightspeed"
+    "slug": "lightspeed",
+    "type": "ashby"
    }
   },
   "LinkedIn": {
    "company": "LinkedIn",
-   "how": "discovered",
-   "boards": [
-    {
-     "type": "lever",
-     "slug": "linkedin",
-     "eu": false
-    }
-   ],
-   "ok": true,
-   "total": 23,
+   "how": "known",
+   "boards": [],
+   "ok": false,
+   "total": 0,
    "inTarget": 0,
-   "error": "",
-   "used": {
-    "type": "lever",
-    "slug": "linkedin",
-    "eu": false
-   }
+   "error": "no public board found"
   },
   "Linktree": {
    "company": "Linktree",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2295,25 +2223,25 @@
   },
   "Lyft": {
    "company": "Lyft",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "lyft"
+     "slug": "lyft",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 176,
-   "inTarget": 7,
+   "inTarget": 6,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "lyft"
+    "slug": "lyft",
+    "type": "greenhouse"
    }
   },
   "Macquarie": {
    "company": "Macquarie",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2322,7 +2250,7 @@
   },
   "Macquarie Group": {
    "company": "Macquarie Group",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2331,7 +2259,7 @@
   },
   "Mambu": {
    "company": "Mambu",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2340,29 +2268,20 @@
   },
   "Mantel": {
    "company": "Mantel",
-   "how": "discovered",
-   "boards": [
-    {
-     "type": "recruitee",
-     "slug": "mantel"
-    }
-   ],
-   "ok": true,
-   "total": 27,
+   "how": "known",
+   "boards": [],
+   "ok": false,
+   "total": 0,
    "inTarget": 0,
-   "error": "",
-   "used": {
-    "type": "recruitee",
-    "slug": "mantel"
-   }
+   "error": "no public board found"
   },
   "Marshmallow": {
    "company": "Marshmallow",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "marshmallow"
+     "slug": "marshmallow",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -2370,13 +2289,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "marshmallow"
+    "slug": "marshmallow",
+    "type": "ashby"
    }
   },
   "Mashreq": {
    "company": "Mashreq",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2407,27 +2326,27 @@
   },
   "Meesho": {
    "company": "Meesho",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "lever",
+     "eu": false,
      "slug": "meesho",
-     "eu": false
+     "type": "lever"
     }
    ],
    "ok": true,
    "total": 59,
-   "inTarget": 1,
+   "inTarget": 0,
    "error": "",
    "used": {
-    "type": "lever",
+    "eu": false,
     "slug": "meesho",
-    "eu": false
+    "type": "lever"
    }
   },
   "Messagebird": {
    "company": "Messagebird",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2436,44 +2355,29 @@
   },
   "Meta": {
    "company": "Meta",
-   "how": "discovered",
-   "boards": [
-    {
-     "type": "recruitee",
-     "slug": "meta"
-    }
-   ],
-   "ok": true,
-   "total": 1,
+   "how": "known",
+   "boards": [],
+   "ok": false,
+   "total": 0,
    "inTarget": 0,
-   "error": "",
-   "used": {
-    "type": "recruitee",
-    "slug": "meta"
-   }
+   "error": "no public board found"
   },
   "Microsoft": {
    "company": "Microsoft",
    "how": "known",
-   "boards": [
-    {
-     "type": "eightfold",
-     "host": "apply.careers.microsoft.com",
-     "domain": "microsoft.com"
-    }
-   ],
+   "boards": [],
    "ok": false,
    "total": 0,
    "inTarget": 0,
-   "error": "eightfold: RuntimeError: no positions"
+   "error": "no public board found"
   },
   "Miro": {
    "company": "Miro",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "miro"
+     "slug": "miro",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -2481,17 +2385,17 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "miro"
+    "slug": "miro",
+    "type": "ashby"
    }
   },
   "Mollie": {
    "company": "Mollie",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "mollie"
+     "slug": "mollie",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -2499,100 +2403,94 @@
    "inTarget": 1,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "mollie"
+    "slug": "mollie",
+    "type": "ashby"
    }
   },
   "Moneybox": {
    "company": "Moneybox",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "moneybox"
+     "slug": "moneybox",
+     "type": "ashby"
     }
    ],
    "ok": true,
    "total": 21,
-   "inTarget": 1,
+   "inTarget": 0,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "moneybox"
+    "slug": "moneybox",
+    "type": "ashby"
    }
   },
   "MongoDB": {
    "company": "MongoDB",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "mongodb"
+     "slug": "mongodb",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 394,
-   "inTarget": 32,
+   "inTarget": 25,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "mongodb"
+    "slug": "mongodb",
+    "type": "greenhouse"
    }
   },
   "Monzo": {
    "company": "Monzo",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "monzo"
+     "slug": "monzo",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 70,
-   "inTarget": 1,
+   "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "monzo"
+    "slug": "monzo",
+    "type": "greenhouse"
    }
   },
   "Morgan Stanley": {
    "company": "Morgan Stanley",
    "how": "known",
-   "boards": [
-    {
-     "type": "eightfold",
-     "host": "morganstanley.eightfold.ai",
-     "domain": "morganstanley.com"
-    }
-   ],
+   "boards": [],
    "ok": false,
    "total": 0,
    "inTarget": 0,
-   "error": "eightfold: RuntimeError: no positions"
+   "error": "no public board found"
   },
   "Multiverse": {
    "company": "Multiverse",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "multiverse"
+     "slug": "multiverse",
+     "type": "ashby"
     }
    ],
    "ok": true,
    "total": 29,
-   "inTarget": 4,
+   "inTarget": 1,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "multiverse"
+    "slug": "multiverse",
+    "type": "ashby"
    }
   },
   "NatWest": {
    "company": "NatWest",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2601,7 +2499,7 @@
   },
   "Netflix": {
    "company": "Netflix",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2610,11 +2508,11 @@
   },
   "Nexthink": {
    "company": "Nexthink",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "smartrecruiters",
-     "slug": "Nexthink"
+     "slug": "Nexthink",
+     "type": "smartrecruiters"
     }
    ],
    "ok": true,
@@ -2622,18 +2520,18 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "smartrecruiters",
-    "slug": "Nexthink"
+    "slug": "Nexthink",
+    "type": "smartrecruiters"
    }
   },
   "Ninja Van": {
    "company": "Ninja Van",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "lever",
+     "eu": false,
      "slug": "ninjavan",
-     "eu": false
+     "type": "lever"
     }
    ],
    "ok": true,
@@ -2641,19 +2539,19 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "lever",
+    "eu": false,
     "slug": "ninjavan",
-    "eu": false
+    "type": "lever"
    }
   },
   "Nium": {
    "company": "Nium",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "lever",
+     "eu": false,
      "slug": "nium",
-     "eu": false
+     "type": "lever"
     }
    ],
    "ok": true,
@@ -2661,14 +2559,14 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "lever",
+    "eu": false,
     "slug": "nium",
-    "eu": false
+    "type": "lever"
    }
   },
   "Noon": {
    "company": "Noon",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2677,11 +2575,11 @@
   },
   "Notion": {
    "company": "Notion",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "notion"
+     "slug": "notion",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -2689,13 +2587,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "notion"
+    "slug": "notion",
+    "type": "ashby"
    }
   },
   "Nutanix": {
    "company": "Nutanix",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2726,7 +2624,7 @@
   },
   "Ocado": {
    "company": "Ocado",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2735,7 +2633,7 @@
   },
   "OCBC": {
    "company": "OCBC",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2744,7 +2642,7 @@
   },
   "Octopus Energy": {
    "company": "Octopus Energy",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2753,11 +2651,11 @@
   },
   "OfferUp": {
    "company": "OfferUp",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "offerup"
+     "slug": "offerup",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -2765,13 +2663,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "offerup"
+    "slug": "offerup",
+    "type": "greenhouse"
    }
   },
   "Ohpen": {
    "company": "Ohpen",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2780,43 +2678,43 @@
   },
   "Okta": {
    "company": "Okta",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "okta"
+     "slug": "okta",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 395,
-   "inTarget": 31,
+   "inTarget": 33,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "okta"
+    "slug": "okta",
+    "type": "greenhouse"
    }
   },
   "OKX": {
    "company": "OKX",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "okx"
+     "slug": "okx",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 359,
-   "inTarget": 4,
+   "inTarget": 2,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "okx"
+    "slug": "okx",
+    "type": "greenhouse"
    }
   },
   "On": {
    "company": "On",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2825,25 +2723,25 @@
   },
   "OpenAI": {
    "company": "OpenAI",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "openai"
+     "slug": "openai",
+     "type": "ashby"
     }
    ],
    "ok": true,
    "total": 809,
-   "inTarget": 23,
+   "inTarget": 18,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "openai"
+    "slug": "openai",
+    "type": "ashby"
    }
   },
   "Optiver": {
    "company": "Optiver",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2872,31 +2770,31 @@
   },
   "Outreach": {
    "company": "Outreach",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "lever",
+     "eu": false,
      "slug": "outreach",
-     "eu": false
+     "type": "lever"
     }
    ],
    "ok": true,
    "total": 24,
-   "inTarget": 1,
+   "inTarget": 0,
    "error": "",
    "used": {
-    "type": "lever",
+    "eu": false,
     "slug": "outreach",
-    "eu": false
+    "type": "lever"
    }
   },
   "Paddle": {
    "company": "Paddle",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "paddle"
+     "slug": "paddle",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -2904,18 +2802,18 @@
    "inTarget": 3,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "paddle"
+    "slug": "paddle",
+    "type": "ashby"
    }
   },
   "Palantir": {
    "company": "Palantir",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "lever",
+     "eu": false,
      "slug": "palantir",
-     "eu": false
+     "type": "lever"
     }
    ],
    "ok": true,
@@ -2923,9 +2821,9 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "lever",
+    "eu": false,
     "slug": "palantir",
-    "eu": false
+    "type": "lever"
    }
   },
   "PayPal": {
@@ -2941,7 +2839,7 @@
    ],
    "ok": true,
    "total": 246,
-   "inTarget": 14,
+   "inTarget": 16,
    "error": "",
    "used": {
     "type": "workday",
@@ -2952,25 +2850,16 @@
   },
   "Personio": {
    "company": "Personio",
-   "how": "discovered",
-   "boards": [
-    {
-     "type": "recruitee",
-     "slug": "personio"
-    }
-   ],
-   "ok": true,
-   "total": 1,
+   "how": "known",
+   "boards": [],
+   "ok": false,
+   "total": 0,
    "inTarget": 0,
-   "error": "",
-   "used": {
-    "type": "recruitee",
-    "slug": "personio"
-   }
+   "error": "no public board found"
   },
   "PhonePe": {
    "company": "PhonePe",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -2979,25 +2868,16 @@
   },
   "Picnic": {
    "company": "Picnic",
-   "how": "discovered",
-   "boards": [
-    {
-     "type": "smartrecruiters",
-     "slug": "picnic"
-    }
-   ],
-   "ok": true,
-   "total": 2,
+   "how": "known",
+   "boards": [],
+   "ok": false,
+   "total": 0,
    "inTarget": 0,
-   "error": "",
-   "used": {
-    "type": "smartrecruiters",
-    "slug": "picnic"
-   }
+   "error": "no public board found"
   },
   "Pictet": {
    "company": "Pictet",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3006,43 +2886,43 @@
   },
   "Pinterest": {
    "company": "Pinterest",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "pinterest"
+     "slug": "pinterest",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 157,
-   "inTarget": 17,
+   "inTarget": 10,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "pinterest"
+    "slug": "pinterest",
+    "type": "greenhouse"
    }
   },
   "Plaid": {
    "company": "Plaid",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "plaid"
+     "slug": "plaid",
+     "type": "ashby"
     }
    ],
    "ok": true,
    "total": 131,
-   "inTarget": 4,
+   "inTarget": 1,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "plaid"
+    "slug": "plaid",
+    "type": "ashby"
    }
   },
   "POST Luxembourg": {
    "company": "POST Luxembourg",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3051,7 +2931,7 @@
   },
   "Postman": {
    "company": "Postman",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3060,7 +2940,7 @@
   },
   "Presight": {
    "company": "Presight",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3069,7 +2949,7 @@
   },
   "Property Finder": {
    "company": "Property Finder",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3078,7 +2958,7 @@
   },
   "PropertyGuru": {
    "company": "PropertyGuru",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3087,25 +2967,25 @@
   },
   "Proton": {
    "company": "Proton",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "proton"
+     "slug": "proton",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 55,
-   "inTarget": 1,
+   "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "proton"
+    "slug": "proton",
+    "type": "greenhouse"
    }
   },
   "PwC": {
    "company": "PwC",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3114,11 +2994,11 @@
   },
   "Qumulo": {
    "company": "Qumulo",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "qumulo"
+     "slug": "qumulo",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -3126,13 +3006,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "qumulo"
+    "slug": "qumulo",
+    "type": "ashby"
    }
   },
   "Rabobank": {
    "company": "Rabobank",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3141,25 +3021,25 @@
   },
   "Ramp": {
    "company": "Ramp",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "ramp"
+     "slug": "ramp",
+     "type": "ashby"
     }
    ],
    "ok": true,
    "total": 169,
-   "inTarget": 13,
+   "inTarget": 6,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "ramp"
+    "slug": "ramp",
+    "type": "ashby"
    }
   },
   "Rapyd": {
    "company": "Rapyd",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3168,7 +3048,7 @@
   },
   "Razorpay": {
    "company": "Razorpay",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3177,7 +3057,7 @@
   },
   "RBC": {
    "company": "RBC",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3186,7 +3066,7 @@
   },
   "REA Group": {
    "company": "REA Group",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3195,11 +3075,11 @@
   },
   "Reddit": {
    "company": "Reddit",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "reddit"
+     "slug": "reddit",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -3207,13 +3087,13 @@
    "inTarget": 1,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "reddit"
+    "slug": "reddit",
+    "type": "greenhouse"
    }
   },
   "Redfin": {
    "company": "Redfin",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3222,7 +3102,7 @@
   },
   "Remitly": {
    "company": "Remitly",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3231,7 +3111,7 @@
   },
   "Revolut": {
    "company": "Revolut",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3240,7 +3120,7 @@
   },
   "Rippling": {
    "company": "Rippling",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3249,25 +3129,25 @@
   },
   "Robinhood": {
    "company": "Robinhood",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "robinhood"
+     "slug": "robinhood",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 153,
-   "inTarget": 15,
+   "inTarget": 13,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "robinhood"
+    "slug": "robinhood",
+    "type": "greenhouse"
    }
   },
   "Rokt": {
    "company": "Rokt",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3276,12 +3156,12 @@
   },
   "Rover": {
    "company": "Rover",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "lever",
+     "eu": false,
      "slug": "rover",
-     "eu": false
+     "type": "lever"
     }
    ],
    "ok": true,
@@ -3289,32 +3169,32 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "lever",
+    "eu": false,
     "slug": "rover",
-    "eu": false
+    "type": "lever"
    }
   },
   "Rubrik": {
    "company": "Rubrik",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "rubrik"
+     "slug": "rubrik",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 142,
-   "inTarget": 4,
+   "inTarget": 3,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "rubrik"
+    "slug": "rubrik",
+    "type": "greenhouse"
    }
   },
   "SafetyCulture": {
    "company": "SafetyCulture",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3334,7 +3214,7 @@
    ],
    "ok": true,
    "total": 479,
-   "inTarget": 38,
+   "inTarget": 37,
    "error": "",
    "used": {
     "type": "workday",
@@ -3345,11 +3225,11 @@
   },
   "Samsara": {
    "company": "Samsara",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "samsara"
+     "slug": "samsara",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -3357,13 +3237,13 @@
    "inTarget": 10,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "samsara"
+    "slug": "samsara",
+    "type": "greenhouse"
    }
   },
   "Sarwa": {
    "company": "Sarwa",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3372,11 +3252,11 @@
   },
   "Scandit": {
    "company": "Scandit",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "scandit"
+     "slug": "scandit",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -3384,13 +3264,13 @@
    "inTarget": 1,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "scandit"
+    "slug": "scandit",
+    "type": "greenhouse"
    }
   },
   "Scotiabank": {
    "company": "Scotiabank",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3399,7 +3279,7 @@
   },
   "Sea": {
    "company": "Sea",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3408,11 +3288,11 @@
   },
   "Seek": {
    "company": "Seek",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "smartrecruiters",
-     "slug": "seek"
+     "slug": "seek",
+     "type": "smartrecruiters"
     }
    ],
    "ok": true,
@@ -3420,8 +3300,8 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "smartrecruiters",
-    "slug": "seek"
+    "slug": "seek",
+    "type": "smartrecruiters"
    }
   },
   "ServiceNow": {
@@ -3435,7 +3315,7 @@
    ],
    "ok": true,
    "total": 500,
-   "inTarget": 22,
+   "inTarget": 21,
    "error": "",
    "used": {
     "type": "smartrecruiters",
@@ -3444,25 +3324,16 @@
   },
   "SES": {
    "company": "SES",
-   "how": "discovered",
-   "boards": [
-    {
-     "type": "greenhouse",
-     "slug": "ses"
-    }
-   ],
-   "ok": true,
-   "total": 1,
+   "how": "known",
+   "boards": [],
+   "ok": false,
+   "total": 0,
    "inTarget": 0,
-   "error": "",
-   "used": {
-    "type": "greenhouse",
-    "slug": "ses"
-   }
+   "error": "no public board found"
   },
   "Shopee": {
    "company": "Shopee",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3471,7 +3342,7 @@
   },
   "Shopify": {
    "company": "Shopify",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3480,7 +3351,7 @@
   },
   "Singtel": {
    "company": "Singtel",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3489,7 +3360,7 @@
   },
   "SIX": {
    "company": "SIX",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3498,7 +3369,7 @@
   },
   "SIX Group": {
    "company": "SIX Group",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3507,7 +3378,7 @@
   },
   "Skyscanner": {
    "company": "Skyscanner",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3516,7 +3387,7 @@
   },
   "Smallpdf": {
    "company": "Smallpdf",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3525,29 +3396,29 @@
   },
   "Smartsheet": {
    "company": "Smartsheet",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "smartsheet"
+     "slug": "smartsheet",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 89,
-   "inTarget": 4,
+   "inTarget": 1,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "smartsheet"
+    "slug": "smartsheet",
+    "type": "greenhouse"
    }
   },
   "Snowflake": {
    "company": "Snowflake",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "snowflake"
+     "slug": "snowflake",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -3555,17 +3426,17 @@
    "inTarget": 6,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "snowflake"
+    "slug": "snowflake",
+    "type": "ashby"
    }
   },
   "Snyk": {
    "company": "Snyk",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "snyk"
+     "slug": "snyk",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -3573,13 +3444,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "snyk"
+    "slug": "snyk",
+    "type": "ashby"
    }
   },
   "Sonar": {
    "company": "Sonar",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3588,12 +3459,12 @@
   },
   "Spotify": {
    "company": "Spotify",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "lever",
+     "eu": false,
      "slug": "spotify",
-     "eu": false
+     "type": "lever"
     }
    ],
    "ok": true,
@@ -3601,14 +3472,14 @@
    "inTarget": 1,
    "error": "",
    "used": {
-    "type": "lever",
+    "eu": false,
     "slug": "spotify",
-    "eu": false
+    "type": "lever"
    }
   },
   "Sprinklr": {
    "company": "Sprinklr",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3617,7 +3488,7 @@
   },
   "Spuerkeess": {
    "company": "Spuerkeess",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3626,11 +3497,11 @@
   },
   "Squarespace": {
    "company": "Squarespace",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "squarespace"
+     "slug": "squarespace",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -3638,13 +3509,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "squarespace"
+    "slug": "squarespace",
+    "type": "greenhouse"
    }
   },
   "Starling": {
    "company": "Starling",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3653,7 +3524,7 @@
   },
   "StashAway": {
    "company": "StashAway",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3672,8 +3543,8 @@
     }
    ],
    "ok": true,
-   "total": 400,
-   "inTarget": 35,
+   "total": 399,
+   "inTarget": 33,
    "error": "",
    "used": {
     "type": "workday",
@@ -3684,57 +3555,52 @@
   },
   "Stripe": {
    "company": "Stripe",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "stripe"
+     "slug": "stripe",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 728,
-   "inTarget": 14,
+   "inTarget": 10,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "stripe"
+    "slug": "stripe",
+    "type": "greenhouse"
    }
   },
   "Susquehanna": {
    "company": "Susquehanna",
    "how": "known",
-   "boards": [
-    {
-     "type": "greenhouse",
-     "slug": "sig"
-    }
-   ],
+   "boards": [],
    "ok": false,
    "total": 0,
    "inTarget": 0,
-   "error": "greenhouse: HTTPError: HTTP Error 404: Not Found"
+   "error": "no public board found"
   },
   "Swiggy": {
    "company": "Swiggy",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "smartrecruiters",
-     "slug": "swiggy"
+     "slug": "swiggy",
+     "type": "smartrecruiters"
     }
    ],
    "ok": true,
    "total": 193,
-   "inTarget": 6,
+   "inTarget": 0,
    "error": "",
    "used": {
-    "type": "smartrecruiters",
-    "slug": "swiggy"
+    "slug": "swiggy",
+    "type": "smartrecruiters"
    }
   },
   "Swiss Life": {
    "company": "Swiss Life",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3743,7 +3609,7 @@
   },
   "Swiss Re": {
    "company": "Swiss Re",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3752,11 +3618,11 @@
   },
   "Swissquote": {
    "company": "Swissquote",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "smartrecruiters",
-     "slug": "Swissquote"
+     "slug": "Swissquote",
+     "type": "smartrecruiters"
     }
    ],
    "ok": true,
@@ -3764,13 +3630,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "smartrecruiters",
-    "slug": "Swissquote"
+    "slug": "Swissquote",
+    "type": "smartrecruiters"
    }
   },
   "Sygnum": {
    "company": "Sygnum",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3779,11 +3645,11 @@
   },
   "Synthesia": {
    "company": "Synthesia",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "synthesia"
+     "slug": "synthesia",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -3791,13 +3657,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "synthesia"
+    "slug": "synthesia",
+    "type": "ashby"
    }
   },
   "T Mobile": {
    "company": "T Mobile",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3806,7 +3672,7 @@
   },
   "Tabby": {
    "company": "Tabby",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3815,7 +3681,7 @@
   },
   "Tableau": {
    "company": "Tableau",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3824,7 +3690,7 @@
   },
   "Talabat": {
    "company": "Talabat",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3833,7 +3699,7 @@
   },
   "Talkwalker": {
    "company": "Talkwalker",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3842,25 +3708,16 @@
   },
   "TCS": {
    "company": "TCS",
-   "how": "discovered",
-   "boards": [
-    {
-     "type": "greenhouse",
-     "slug": "tcs"
-    }
-   ],
-   "ok": true,
-   "total": 92,
+   "how": "known",
+   "boards": [],
+   "ok": false,
+   "total": 0,
    "inTarget": 0,
-   "error": "",
-   "used": {
-    "type": "greenhouse",
-    "slug": "tcs"
-   }
+   "error": "no public board found"
   },
   "TD": {
    "company": "TD",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3869,7 +3726,7 @@
   },
   "Teads": {
    "company": "Teads",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3878,7 +3735,7 @@
   },
   "Technology Innovation Institute": {
    "company": "Technology Innovation Institute",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3887,7 +3744,7 @@
   },
   "Temenos": {
    "company": "Temenos",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3896,29 +3753,29 @@
   },
   "Thought Machine": {
    "company": "Thought Machine",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "thought-machine"
+     "slug": "thought-machine",
+     "type": "ashby"
     }
    ],
    "ok": true,
    "total": 40,
-   "inTarget": 4,
+   "inTarget": 3,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "thought-machine"
+    "slug": "thought-machine",
+    "type": "ashby"
    }
   },
   "Thoughtworks": {
    "company": "Thoughtworks",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "thoughtworks"
+     "slug": "thoughtworks",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -3926,49 +3783,49 @@
    "inTarget": 1,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "thoughtworks"
+    "slug": "thoughtworks",
+    "type": "greenhouse"
    }
   },
   "Thunes": {
    "company": "Thunes",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "thunes"
+     "slug": "thunes",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 51,
-   "inTarget": 5,
+   "inTarget": 4,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "thunes"
+    "slug": "thunes",
+    "type": "greenhouse"
    }
   },
   "Tide": {
    "company": "Tide",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "tide"
+     "slug": "tide",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 106,
-   "inTarget": 4,
+   "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "tide"
+    "slug": "tide",
+    "type": "greenhouse"
    }
   },
   "TikTok": {
    "company": "TikTok",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -3977,11 +3834,11 @@
   },
   "Tines": {
    "company": "Tines",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "tines"
+     "slug": "tines",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -3989,13 +3846,13 @@
    "inTarget": 2,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "tines"
+    "slug": "tines",
+    "type": "greenhouse"
    }
   },
   "Tiqets": {
    "company": "Tiqets",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4004,25 +3861,25 @@
   },
   "Toast": {
    "company": "Toast",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "toast"
+     "slug": "toast",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
    "total": 309,
-   "inTarget": 9,
+   "inTarget": 6,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "toast"
+    "slug": "toast",
+    "type": "greenhouse"
    }
   },
   "Tower": {
    "company": "Tower",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4040,7 +3897,7 @@
    ],
    "ok": true,
    "total": 98,
-   "inTarget": 1,
+   "inTarget": 2,
    "error": "",
    "used": {
     "type": "greenhouse",
@@ -4049,11 +3906,11 @@
   },
   "TrueLayer": {
    "company": "TrueLayer",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "truelayer"
+     "slug": "truelayer",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -4061,17 +3918,17 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "truelayer"
+    "slug": "truelayer",
+    "type": "greenhouse"
    }
   },
   "Twilio": {
    "company": "Twilio",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "twilio"
+     "slug": "twilio",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -4079,13 +3936,13 @@
    "inTarget": 1,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "twilio"
+    "slug": "twilio",
+    "type": "greenhouse"
    }
   },
   "Tyro": {
    "company": "Tyro",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4095,19 +3952,15 @@
   "Uber": {
    "company": "Uber",
    "how": "known",
-   "boards": [
-    {
-     "type": "uber"
-    }
-   ],
+   "boards": [],
    "ok": false,
    "total": 0,
    "inTarget": 0,
-   "error": "uber: HTTPError: HTTP Error 404: Not Found"
+   "error": "no public board found"
   },
   "UBS": {
    "company": "UBS",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4116,11 +3969,11 @@
   },
   "Udemy": {
    "company": "Udemy",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "udemy"
+     "slug": "udemy",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -4128,13 +3981,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "udemy"
+    "slug": "udemy",
+    "type": "greenhouse"
    }
   },
   "Unity": {
    "company": "Unity",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4143,7 +3996,7 @@
   },
   "UOB": {
    "company": "UOB",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4152,7 +4005,7 @@
   },
   "Veeam": {
    "company": "Veeam",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4180,43 +4033,29 @@
   "Walmart": {
    "company": "Walmart",
    "how": "known",
-   "boards": [
-    {
-     "type": "workday",
-     "tenant": "walmart",
-     "wd": "wd5",
-     "site": "WalmartExternal"
-    }
-   ],
+   "boards": [],
    "ok": false,
    "total": 0,
    "inTarget": 0,
-   "error": "workday: HTTPError: HTTP Error 422: Unprocessable Entity"
+   "error": "no public board found"
   },
   "Walmart Global Tech": {
    "company": "Walmart Global Tech",
    "how": "known",
-   "boards": [
-    {
-     "type": "workday",
-     "tenant": "walmart",
-     "wd": "wd5",
-     "site": "WalmartExternal"
-    }
-   ],
+   "boards": [],
    "ok": false,
    "total": 0,
    "inTarget": 0,
-   "error": "workday: HTTPError: HTTP Error 422: Unprocessable Entity"
+   "error": "no public board found"
   },
   "Wattpad": {
    "company": "Wattpad",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "lever",
+     "eu": false,
      "slug": "wattpad",
-     "eu": false
+     "type": "lever"
     }
    ],
    "ok": true,
@@ -4224,14 +4063,14 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "lever",
+    "eu": false,
     "slug": "wattpad",
-    "eu": false
+    "type": "lever"
    }
   },
   "Wave": {
    "company": "Wave",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4240,11 +4079,11 @@
   },
   "Wayflyer": {
    "company": "Wayflyer",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "wayflyer"
+     "slug": "wayflyer",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -4252,49 +4091,49 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "wayflyer"
+    "slug": "wayflyer",
+    "type": "ashby"
    }
   },
   "Wayve": {
    "company": "Wayve",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "wayve"
+     "slug": "wayve",
+     "type": "ashby"
     }
    ],
    "ok": true,
    "total": 173,
-   "inTarget": 24,
+   "inTarget": 23,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "wayve"
+    "slug": "wayve",
+    "type": "ashby"
    }
   },
   "Wealthsimple": {
    "company": "Wealthsimple",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "wealthsimple"
+     "slug": "wealthsimple",
+     "type": "ashby"
     }
    ],
    "ok": true,
    "total": 43,
-   "inTarget": 6,
+   "inTarget": 2,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "wealthsimple"
+    "slug": "wealthsimple",
+    "type": "ashby"
    }
   },
   "WeTransfer": {
    "company": "WeTransfer",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4303,7 +4142,7 @@
   },
   "Wipro": {
    "company": "Wipro",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4313,24 +4152,15 @@
   "Wise": {
    "company": "Wise",
    "how": "known",
-   "boards": [
-    {
-     "type": "greenhouse",
-     "slug": "transferwise"
-    },
-    {
-     "type": "workable",
-     "slug": "wise"
-    }
-   ],
+   "boards": [],
    "ok": false,
    "total": 0,
    "inTarget": 0,
-   "error": "greenhouse: HTTPError: HTTP Error 404: Not Found; workable: HTTPError: HTTP Error 429: Too Many Requests"
+   "error": "no public board found"
   },
   "WiseTech": {
    "company": "WiseTech",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4339,7 +4169,7 @@
   },
   "WiseTech Global": {
    "company": "WiseTech Global",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4359,7 +4189,7 @@
    ],
    "ok": true,
    "total": 244,
-   "inTarget": 22,
+   "inTarget": 23,
    "error": "",
    "used": {
     "type": "workday",
@@ -4370,29 +4200,29 @@
   },
   "Workhuman": {
    "company": "Workhuman",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "workhuman"
+     "slug": "workhuman",
+     "type": "ashby"
     }
    ],
    "ok": true,
    "total": 9,
-   "inTarget": 2,
+   "inTarget": 0,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "workhuman"
+    "slug": "workhuman",
+    "type": "ashby"
    }
   },
   "Xendit": {
    "company": "Xendit",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "greenhouse",
-     "slug": "xendit"
+     "slug": "xendit",
+     "type": "greenhouse"
     }
    ],
    "ok": true,
@@ -4400,31 +4230,31 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "greenhouse",
-    "slug": "xendit"
+    "slug": "xendit",
+    "type": "greenhouse"
    }
   },
   "Xero": {
    "company": "Xero",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "xero"
+     "slug": "xero",
+     "type": "ashby"
     }
    ],
    "ok": true,
    "total": 108,
-   "inTarget": 15,
+   "inTarget": 12,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "xero"
+    "slug": "xero",
+    "type": "ashby"
    }
   },
   "Yokoy": {
    "company": "Yokoy",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4433,7 +4263,7 @@
   },
   "Zalando": {
    "company": "Zalando",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4442,7 +4272,7 @@
   },
   "Zendesk": {
    "company": "Zendesk",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4451,7 +4281,7 @@
   },
   "Zepto": {
    "company": "Zepto",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4460,12 +4290,12 @@
   },
   "Zeta": {
    "company": "Zeta",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "lever",
+     "eu": false,
      "slug": "zeta",
-     "eu": false
+     "type": "lever"
     }
    ],
    "ok": true,
@@ -4473,18 +4303,18 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "lever",
+    "eu": false,
     "slug": "zeta",
-    "eu": false
+    "type": "lever"
    }
   },
   "Ziina": {
    "company": "Ziina",
-   "how": "discovered",
+   "how": "cache",
    "boards": [
     {
-     "type": "ashby",
-     "slug": "ziina"
+     "slug": "ziina",
+     "type": "ashby"
     }
    ],
    "ok": true,
@@ -4492,13 +4322,13 @@
    "inTarget": 0,
    "error": "",
    "used": {
-    "type": "ashby",
-    "slug": "ziina"
+    "slug": "ziina",
+    "type": "ashby"
    }
   },
   "Zillow": {
    "company": "Zillow",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4507,25 +4337,16 @@
   },
   "Zip": {
    "company": "Zip",
-   "how": "discovered",
-   "boards": [
-    {
-     "type": "ashby",
-     "slug": "zip"
-    }
-   ],
-   "ok": true,
-   "total": 118,
-   "inTarget": 1,
-   "error": "",
-   "used": {
-    "type": "ashby",
-    "slug": "zip"
-   }
+   "how": "known",
+   "boards": [],
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "no public board found"
   },
   "Zomato": {
    "company": "Zomato",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4534,7 +4355,7 @@
   },
   "Zopa": {
    "company": "Zopa",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,
@@ -4543,7 +4364,7 @@
   },
   "Zurcher Kantonalbank": {
    "company": "Zurcher Kantonalbank",
-   "how": "not-found",
+   "how": "cached-miss",
    "boards": [],
    "ok": false,
    "total": 0,

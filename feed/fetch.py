@@ -50,17 +50,15 @@ COUNTRIES = {
 # Boards that discovery can't guess. Unverified entries simply fail and show up in status.json.
 KNOWN = {
     "amazon": [{"type": "amazon"}],
-    "microsoft": [{"type": "eightfold", "host": "apply.careers.microsoft.com", "domain": "microsoft.com"}],
-    "morgan stanley": [{"type": "eightfold", "host": "morganstanley.eightfold.ai", "domain": "morganstanley.com"}],
+
     "google": [{"type": "google"}],
-    "uber": [{"type": "uber"}],
+
     "atlassian": [{"type": "atlassian"}],
     "jpmorgan chase": [{"type": "oracle", "host": "jpmc.fa.oraclecloud.com", "site": "CX_1001"}],
     "oracle": [{"type": "oracle", "host": "eeho.fa.us2.oraclecloud.com", "site": "CX_45001"}],
     "nvidia": [{"type": "workday", "tenant": "nvidia", "wd": "wd5", "site": "NVIDIAExternalCareerSite"}],
     "salesforce": [{"type": "workday", "tenant": "salesforce", "wd": "wd12", "site": "External_Career_Site"}],
-    "walmart global tech": [{"type": "workday", "tenant": "walmart", "wd": "wd5", "site": "WalmartExternal"}],
-    "walmart": [{"type": "workday", "tenant": "walmart", "wd": "wd5", "site": "WalmartExternal"}],
+
     "workday": [{"type": "workday", "tenant": "workday", "wd": "wd5", "site": "Workday"}],
     "adobe": [{"type": "workday", "tenant": "adobe", "wd": "wd5", "site": "external_experienced"}],
     "mastercard": [{"type": "workday", "tenant": "mastercard", "wd": "wd1", "site": "CorporateCareers"}],
@@ -68,22 +66,25 @@ KNOWN = {
     "state street": [{"type": "workday", "tenant": "statestreet", "wd": "wd1", "site": "Global"}],
     "deutsche bank": [{"type": "workday", "tenant": "db", "wd": "wd3", "site": "DBWebSite"}],
     "fidelity technology group": [{"type": "workday", "tenant": "fmr", "wd": "wd1", "site": "FidelityCareers"}],
-    "fidelity": [{"type": "workday", "tenant": "fmr", "wd": "wd1", "site": "FidelityCareers"}],
+
     "accenture": [{"type": "workday", "tenant": "accenture", "wd": "wd103", "site": "AccentureCareers"}],
     "citi": [{"type": "workday", "tenant": "citi", "wd": "wd5", "site": "2"}],
     "barclays": [{"type": "workday", "tenant": "barclays", "wd": "wd3", "site": "External_Career_Site_Barclays"}],
-    "hsbc": [{"type": "workday", "tenant": "hsbc", "wd": "wd3", "site": "external"}],
+
     "visa": [{"type": "smartrecruiters", "slug": "Visa"}],
     "servicenow": [{"type": "smartrecruiters", "slug": "ServiceNow"}],
-    "booking.com": [{"type": "greenhouse", "slug": "bookingcom"}],
-    "susquehanna": [{"type": "greenhouse", "slug": "sig"}],
-    "wise": [{"type": "greenhouse", "slug": "transferwise"}, {"type": "workable", "slug": "wise"}],
+    "susquehanna": [],
+    "wise": [],
     "block": [{"type": "greenhouse", "slug": "block"}],
     "afterpay": [{"type": "greenhouse", "slug": "block"}],
     "imc": [{"type": "greenhouse", "slug": "imc"}],
     "imc trading": [{"type": "greenhouse", "slug": "imc"}],
     "tower research": [{"type": "greenhouse", "slug": "towerresearchcapital"}],
     "just eat takeaway": [{"type": "smartrecruiters", "slug": "JustEatTakeaway"}],
+    # wrong-company matches found by discovery - no public board for these
+    "meta": [], "ey": [], "tcs": [], "jump": [], "zip": [], "glean": [], "picnic": [], "linkedin": [], "personio": [], "mantel": [],
+    "bytedance": [], "ses": [], "booking.com": [], "uber": [], "microsoft": [], "morgan stanley": [], "walmart": [], "walmart global tech": [],
+    "hsbc": [], "fidelity": [],
 }
 
 # ----------------------------------------------------------------------------------------------
@@ -250,11 +251,12 @@ EXCLUDE = [
     r"\b(game|unity developer|unreal|graphics|network engineer|data engineer|data analyst|analytics engineer|business analyst|product (manager|owner)|designer|scrum|project manager|delivery manager|recruit)\b",
     r"\b(security (analyst|engineer)|penetration|soc |cyber)\b",
     r"\b(php|wordpress|ruby|rails|golang|scala|kotlin|swift|flutter|react native|c\+\+|rust|elixir|haskell|perl)\b",
+    r"\b(counsel|legal|recruit\w*|payroll|compliance|analyst|marketing|gtm|enablement|accountant|finance|program manager|specialist|coordinator|advisor|representative|privacy engineer)\b",
 ]
 
 
 def title_excluded(t):
-    if not re.search(r"\b(engineer|developer|sde|swe|programmer|architect|lead|tech lead)\b", t, re.I):
+    if not re.search(r"\b(engineer|developer|sde|swe|programmer|architect|tech lead|technical lead)\b", t, re.I):
         return "not a software engineering title"
     for rx in EXCLUDE:
         m = re.search(rx, t, re.I)
@@ -363,6 +365,8 @@ def score(job, comp_meta):
             s += 4
     if job["country"] == "us" and sponsorship != "yes":
         s -= 4
+    if job["country"] == "in" and (not comp_meta or comp_meta.get("kind") in ("bank", "services") or comp_meta.get("rank", 99) >= 60):
+        s -= 10; notes.append("India role outside the FAANG/product target list - check pay reaches 60 LPA")
     s = max(0, min(96, s))
     return {
         "fit": s,
@@ -572,7 +576,7 @@ def a_google(**_):
             status, page = http(url, headers={"Accept": "text/html"})
             for m in re.finditer(r'href="jobs/results/(\d+)-([a-z0-9-]+)[^"]*"[^>]*>', page):
                 jid, slug = m.group(1), m.group(2)
-                title = slug.replace("-", " ").title()
+                title = re.sub(r"\b(Iii|Ii|Iv)\b", lambda m: m.group(1).upper(), slug.replace("-", " ").title())
                 out.append({"title": title, "url": f"https://www.google.com/about/careers/applications/jobs/results/{jid}-{slug}", "location": city + ", " + c["name"],
                             "jd": "", "postedAt": None, "jobRef": jid})
     if not out:
@@ -818,13 +822,16 @@ def main():
     # 5. caps
     jobs.sort(key=lambda x: x["firstSeen"], reverse=True)
     jobs.sort(key=lambda x: -x["fit"])
-    per_cc, per_c, final = {}, {}, []
+    per_cc, per_c, final, seen_ids = {}, {}, [], set()
     for j in jobs:
+        if j["id"] in seen_ids:
+            continue
         k = (j["company"], j["country"])
         if per_cc.get(k, 0) >= PER_COMPANY_COUNTRY or per_c.get(j["country"], 0) >= PER_COUNTRY:
             continue
         per_cc[k] = per_cc.get(k, 0) + 1
         per_c[j["country"]] = per_c.get(j["country"], 0) + 1
+        seen_ids.add(j["id"])
         final.append(j)
 
     # prune firstSeen of ids gone for 45 days

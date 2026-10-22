@@ -1,108 +1,108 @@
-# Job feed - 2026-10-21 01:41 UTC
+# Job feed - 2026-10-22 01:36 UTC
 
-Boards read: 140 of 339 - raw jobs 22356 - after title/location/date filters 2030 - kept 926
+Boards read: 140 of 339 - raw jobs 22355 - after title/location/date filters 2054 - kept 937
 
 | Country | Jobs |
 |---|---|
 | ae | 8 |
-| au | 31 |
-| ca | 139 |
+| au | 32 |
+| ca | 145 |
 | ch | 24 |
-| ie | 95 |
-| in | 177 |
+| ie | 98 |
+| in | 182 |
 | lu | 3 |
-| nl | 19 |
-| sg | 47 |
-| uk | 133 |
+| nl | 18 |
+| sg | 48 |
+| uk | 129 |
 | us | 250 |
 
 ## Boards with jobs kept
 
-- Google (google): 65 of 207
-- Citi (workday): 56 of 511
-- Amazon (amazon): 55 of 388
-- JPMorgan Chase (oracle): 43 of 300
-- Salesforce (workday): 37 of 478
-- Atlassian (atlassian): 36 of 363
-- NVIDIA (workday): 35 of 563
-- Okta (greenhouse): 33 of 395
-- State Street (workday): 33 of 399
-- Mastercard (workday): 32 of 407
-- Barclays (workday): 26 of 355
-- MongoDB (greenhouse): 25 of 394
-- Wayve (ashby): 23 of 173
-- ServiceNow (smartrecruiters): 22 of 500
-- Workday (workday): 22 of 245
-- Adobe (workday): 21 of 159
-- Elastic (greenhouse): 18 of 371
-- OpenAI (ashby): 18 of 809
-- Oracle (oracle): 18 of 300
-- PayPal (workday): 16 of 249
-- Cloudflare (greenhouse): 14 of 439
-- Anthropic (greenhouse): 13 of 675
-- Binance (greenhouse): 13 of 223
-- Robinhood (greenhouse): 13 of 156
-- Affirm (greenhouse): 12 of 219
-- Airwallex (ashby): 12 of 500
-- Stripe (greenhouse): 12 of 731
-- Xero (ashby): 12 of 109
-- Brex (greenhouse): 11 of 263
-- Databricks (greenhouse): 10 of 901
-- Fidelity Technology Group (workday): 10 of 250
-- Grab (smartrecruiters): 10 of 441
-- Pinterest (greenhouse): 10 of 158
-- Samsara (greenhouse): 10 of 286
-- Datadog (greenhouse): 8 of 435
+- Google (google): 62 of 206
+- Amazon (amazon): 54 of 387
+- Citi (workday): 54 of 511
+- JPMorgan Chase (oracle): 40 of 300
+- Salesforce (workday): 38 of 482
+- NVIDIA (workday): 36 of 564
+- Atlassian (atlassian): 35 of 362
+- State Street (workday): 34 of 403
+- Okta (greenhouse): 33 of 398
+- Mastercard (workday): 31 of 398
+- Barclays (workday): 27 of 355
+- MongoDB (greenhouse): 27 of 390
+- Elastic (greenhouse): 24 of 379
+- Oracle (oracle): 23 of 300
+- ServiceNow (smartrecruiters): 23 of 500
+- Wayve (ashby): 23 of 176
+- Workday (workday): 22 of 249
+- Adobe (workday): 21 of 158
+- OpenAI (ashby): 19 of 813
+- PayPal (workday): 15 of 242
+- Airwallex (ashby): 14 of 505
+- Cloudflare (greenhouse): 14 of 443
+- Anthropic (greenhouse): 13 of 678
+- Binance (greenhouse): 13 of 230
+- Robinhood (greenhouse): 13 of 153
+- Xero (ashby): 13 of 104
+- Affirm (greenhouse): 12 of 226
+- Stripe (greenhouse): 12 of 726
+- Brex (greenhouse): 10 of 265
+- Fidelity Technology Group (workday): 10 of 261
+- Grab (smartrecruiters): 10 of 438
+- Pinterest (greenhouse): 10 of 161
+- Samsara (greenhouse): 10 of 265
+- Databricks (greenhouse): 9 of 897
 - Deliveroo (greenhouse): 8 of 226
-- Deutsche Bank (workday): 8 of 333
-- Lyft (greenhouse): 7 of 179
+- Deutsche Bank (workday): 8 of 329
+- Lyft (greenhouse): 8 of 176
+- Datadog (greenhouse): 7 of 439
+- Ramp (ashby): 7 of 170
+- Snowflake (ashby): 7 of 356
 - Benevity (ashby): 6 of 22
-- Ramp (ashby): 6 of 169
-- Snowflake (ashby): 6 of 361
-- Toast (greenhouse): 6 of 310
-- Thunes (greenhouse): 4 of 51
-- Afterpay (greenhouse): 3 of 210
-- Cohere (ashby): 3 of 116
-- Coinbase (greenhouse): 3 of 230
+- Toast (greenhouse): 6 of 318
+- Rubrik (greenhouse): 5 of 146
+- Thunes (greenhouse): 4 of 52
+- Afterpay (greenhouse): 3 of 206
+- Cohere (ashby): 3 of 114
+- Coinbase (greenhouse): 3 of 228
 - Coolblue (smartrecruiters): 3 of 461
-- Flexport (greenhouse): 3 of 206
+- Flexport (greenhouse): 3 of 195
 - Freshworks (smartrecruiters): 3 of 126
-- Paddle (ashby): 3 of 15
-- Rubrik (greenhouse): 3 of 142
+- Paddle (ashby): 3 of 18
 - Thought Machine (ashby): 3 of 40
-- 1Password (ashby): 2 of 76
-- Bybit (greenhouse): 2 of 166
-- Catawiki (greenhouse): 2 of 44
-- Culture Amp (greenhouse): 2 of 30
-- Discord (greenhouse): 2 of 45
-- Dropbox (greenhouse): 2 of 21
-- Figma (greenhouse): 2 of 141
-- Instacart (greenhouse): 2 of 125
-- OKX (greenhouse): 2 of 361
-- Tines (greenhouse): 2 of 36
-- Tower Research (greenhouse): 2 of 98
-- Adyen (greenhouse): 1 of 245
-- Airbnb (greenhouse): 1 of 183
-- Arhs (smartrecruiters): 1 of 73
+- 1Password (ashby): 2 of 78
+- Bybit (greenhouse): 2 of 167
+- Culture Amp (greenhouse): 2 of 32
+- Discord (greenhouse): 2 of 44
+- Dropbox (greenhouse): 2 of 22
+- Figma (greenhouse): 2 of 139
+- Instacart (greenhouse): 2 of 124
+- OKX (greenhouse): 2 of 358
+- Tines (greenhouse): 2 of 38
+- Tower Research (greenhouse): 2 of 100
+- Adyen (greenhouse): 1 of 247
+- Airbnb (greenhouse): 1 of 193
+- Arhs (smartrecruiters): 1 of 69
 - Asana (greenhouse): 1 of 104
 - Atlan (ashby): 1 of 6
 - Buildkite (greenhouse): 1 of 7
-- Canva (smartrecruiters): 1 of 108
+- Canva (smartrecruiters): 1 of 102
+- Catawiki (greenhouse): 1 of 41
 - Deputy (lever): 1 of 7
 - Ebury (greenhouse): 1 of 143
-- Faire (greenhouse): 1 of 75
-- Gusto (greenhouse): 1 of 100
-- IMC (greenhouse): 1 of 169
+- Faire (greenhouse): 1 of 71
+- Gusto (greenhouse): 1 of 99
+- IMC (greenhouse): 1 of 172
 - Immutable (lever): 1 of 4
-- Mollie (ashby): 1 of 45
+- Mollie (ashby): 1 of 46
 - Multiverse (ashby): 1 of 29
-- Plaid (ashby): 1 of 129
-- Reddit (greenhouse): 1 of 155
+- Plaid (ashby): 1 of 132
+- Reddit (greenhouse): 1 of 156
 - Scandit (greenhouse): 1 of 14
-- Smartsheet (greenhouse): 1 of 88
-- Spotify (lever): 1 of 81
-- Thoughtworks (greenhouse): 1 of 43
-- Twilio (greenhouse): 1 of 132
+- Smartsheet (greenhouse): 1 of 90
+- Spotify (lever): 1 of 80
+- Thoughtworks (greenhouse): 1 of 46
+- Twilio (greenhouse): 1 of 131
 
 ## Not reachable
 

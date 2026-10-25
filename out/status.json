@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-24T01:41:00.300341+00:00",
- "seconds": 123,
- "rawJobs": 22798,
- "candidates": 2077,
- "kept": 933,
+ "generatedAt": "2026-10-25T01:17:03.592727+00:00",
+ "seconds": 114,
+ "rawJobs": 22862,
+ "candidates": 2039,
+ "kept": 932,
  "companies": {
   "1Password": {
    "company": "1Password",
@@ -44,7 +44,7 @@
     }
    ],
    "ok": true,
-   "total": 506,
+   "total": 585,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -113,7 +113,7 @@
     }
    ],
    "ok": true,
-   "total": 249,
+   "total": 248,
    "inTarget": 3,
    "error": "",
    "used": {
@@ -264,8 +264,8 @@
     }
    ],
    "ok": true,
-   "total": 678,
-   "inTarget": 12,
+   "total": 681,
+   "inTarget": 13,
    "error": "",
    "used": {
     "slug": "anthropic",
@@ -336,7 +336,7 @@
     }
    ],
    "ok": true,
-   "total": 108,
+   "total": 109,
    "inTarget": 2,
    "error": "",
    "used": {
@@ -389,7 +389,7 @@
     }
    ],
    "ok": true,
-   "total": 355,
+   "total": 353,
    "inTarget": 38,
    "error": "",
    "used": {
@@ -527,7 +527,7 @@
     }
    ],
    "ok": true,
-   "total": 236,
+   "total": 233,
    "inTarget": 13,
    "error": "",
    "used": {
@@ -600,7 +600,7 @@
    ],
    "ok": true,
    "total": 254,
-   "inTarget": 7,
+   "inTarget": 9,
    "error": "",
    "used": {
     "slug": "brex",
@@ -835,7 +835,7 @@
     }
    ],
    "ok": true,
-   "total": 507,
+   "total": 504,
    "inTarget": 56,
    "error": "",
    "used": {
@@ -900,7 +900,7 @@
     }
    ],
    "ok": true,
-   "total": 453,
+   "total": 454,
    "inTarget": 10,
    "error": "",
    "used": {
@@ -990,7 +990,7 @@
     }
    ],
    "ok": true,
-   "total": 440,
+   "total": 439,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -1073,8 +1073,8 @@
     }
    ],
    "ok": true,
-   "total": 895,
-   "inTarget": 9,
+   "total": 896,
+   "inTarget": 10,
    "error": "",
    "used": {
     "slug": "databricks",
@@ -1194,7 +1194,7 @@
     }
    ],
    "ok": true,
-   "total": 323,
+   "total": 322,
    "inTarget": 7,
    "error": "",
    "used": {
@@ -1747,8 +1747,8 @@
     }
    ],
    "ok": true,
-   "total": 440,
-   "inTarget": 9,
+   "total": 439,
+   "inTarget": 8,
    "error": "",
    "used": {
     "slug": "grab",
@@ -2048,7 +2048,7 @@
    ],
    "ok": true,
    "total": 300,
-   "inTarget": 43,
+   "inTarget": 44,
    "error": "",
    "used": {
     "type": "oracle",
@@ -2238,7 +2238,7 @@
    ],
    "ok": true,
    "total": 181,
-   "inTarget": 6,
+   "inTarget": 5,
    "error": "",
    "used": {
     "slug": "lyft",
@@ -2320,8 +2320,8 @@
     }
    ],
    "ok": true,
-   "total": 391,
-   "inTarget": 32,
+   "total": 390,
+   "inTarget": 33,
    "error": "",
    "used": {
     "type": "workday",
@@ -2441,7 +2441,7 @@
     }
    ],
    "ok": true,
-   "total": 383,
+   "total": 382,
    "inTarget": 28,
    "error": "",
    "used": {
@@ -2618,7 +2618,7 @@
     }
    ],
    "ok": true,
-   "total": 565,
+   "total": 562,
    "inTarget": 36,
    "error": "",
    "used": {
@@ -2693,7 +2693,7 @@
    ],
    "ok": true,
    "total": 390,
-   "inTarget": 36,
+   "inTarget": 34,
    "error": "",
    "used": {
     "slug": "okta",
@@ -2737,8 +2737,8 @@
     }
    ],
    "ok": true,
-   "total": 795,
-   "inTarget": 20,
+   "total": 794,
+   "inTarget": 19,
    "error": "",
    "used": {
     "slug": "openai",
@@ -2766,7 +2766,7 @@
    ],
    "ok": true,
    "total": 300,
-   "inTarget": 30,
+   "inTarget": 29,
    "error": "",
    "used": {
     "type": "oracle",
@@ -2785,7 +2785,7 @@
     }
    ],
    "ok": true,
-   "total": 23,
+   "total": 22,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2900,7 +2900,7 @@
     }
    ],
    "ok": true,
-   "total": 161,
+   "total": 163,
    "inTarget": 9,
    "error": "",
    "used": {
@@ -2918,8 +2918,8 @@
     }
    ],
    "ok": true,
-   "total": 135,
-   "inTarget": 1,
+   "total": 134,
+   "inTarget": 0,
    "error": "",
    "used": {
     "slug": "plaid",
@@ -3190,7 +3190,7 @@
     }
    ],
    "ok": true,
-   "total": 150,
+   "total": 148,
    "inTarget": 4,
    "error": "",
    "used": {
@@ -3219,7 +3219,7 @@
     }
    ],
    "ok": true,
-   "total": 478,
+   "total": 477,
    "inTarget": 36,
    "error": "",
    "used": {
@@ -3239,7 +3239,7 @@
     }
    ],
    "ok": true,
-   "total": 285,
+   "total": 284,
    "inTarget": 9,
    "error": "",
    "used": {
@@ -3428,7 +3428,7 @@
     }
    ],
    "ok": true,
-   "total": 354,
+   "total": 355,
    "inTarget": 8,
    "error": "",
    "used": {
@@ -3511,7 +3511,7 @@
     }
    ],
    "ok": true,
-   "total": 27,
+   "total": 28,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3549,8 +3549,8 @@
     }
    ],
    "ok": true,
-   "total": 399,
-   "inTarget": 35,
+   "total": 400,
+   "inTarget": 36,
    "error": "",
    "used": {
     "type": "workday",
@@ -3569,8 +3569,8 @@
     }
    ],
    "ok": true,
-   "total": 720,
-   "inTarget": 11,
+   "total": 719,
+   "inTarget": 10,
    "error": "",
    "used": {
     "slug": "stripe",
@@ -3596,7 +3596,7 @@
     }
    ],
    "ok": true,
-   "total": 201,
+   "total": 202,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3875,7 +3875,7 @@
     }
    ],
    "ok": true,
-   "total": 322,
+   "total": 321,
    "inTarget": 6,
    "error": "",
    "used": {
@@ -4194,7 +4194,7 @@
     }
    ],
    "ok": true,
-   "total": 250,
+   "total": 249,
    "inTarget": 22,
    "error": "",
    "used": {

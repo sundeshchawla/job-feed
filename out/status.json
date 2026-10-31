@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-30T02:40:49.816961+00:00",
- "seconds": 117,
- "rawJobs": 22842,
- "candidates": 2036,
- "kept": 892,
+ "generatedAt": "2026-10-31T02:29:50.676676+00:00",
+ "seconds": 123,
+ "rawJobs": 22805,
+ "candidates": 2024,
+ "kept": 882,
  "companies": {
   "1Password": {
    "company": "1Password",
@@ -15,7 +15,7 @@
     }
    ],
    "ok": true,
-   "total": 90,
+   "total": 87,
    "inTarget": 4,
    "error": "",
    "used": {
@@ -44,7 +44,7 @@
     }
    ],
    "ok": true,
-   "total": 595,
+   "total": 593,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -84,7 +84,7 @@
     }
    ],
    "ok": true,
-   "total": 142,
+   "total": 140,
    "inTarget": 19,
    "error": "",
    "used": {
@@ -113,7 +113,7 @@
     }
    ],
    "ok": true,
-   "total": 238,
+   "total": 239,
    "inTarget": 3,
    "error": "",
    "used": {
@@ -131,7 +131,7 @@
     }
    ],
    "ok": true,
-   "total": 237,
+   "total": 245,
    "inTarget": 12,
    "error": "",
    "used": {
@@ -176,7 +176,7 @@
     }
    ],
    "ok": true,
-   "total": 197,
+   "total": 202,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -204,7 +204,7 @@
    ],
    "ok": true,
    "total": 496,
-   "inTarget": 20,
+   "inTarget": 21,
    "error": "",
    "used": {
     "slug": "airwallex",
@@ -238,8 +238,8 @@
     }
    ],
    "ok": true,
-   "total": 378,
-   "inTarget": 53,
+   "total": 379,
+   "inTarget": 55,
    "error": "",
    "used": {
     "type": "amazon"
@@ -264,7 +264,7 @@
     }
    ],
    "ok": true,
-   "total": 672,
+   "total": 675,
    "inTarget": 10,
    "error": "",
    "used": {
@@ -318,8 +318,8 @@
     }
    ],
    "ok": true,
-   "total": 77,
-   "inTarget": 3,
+   "total": 76,
+   "inTarget": 2,
    "error": "",
    "used": {
     "slug": "arhs",
@@ -336,8 +336,8 @@
     }
    ],
    "ok": true,
-   "total": 111,
-   "inTarget": 2,
+   "total": 110,
+   "inTarget": 3,
    "error": "",
    "used": {
     "slug": "asana",
@@ -389,8 +389,8 @@
     }
    ],
    "ok": true,
-   "total": 370,
-   "inTarget": 38,
+   "total": 357,
+   "inTarget": 37,
    "error": "",
    "used": {
     "type": "atlassian"
@@ -453,8 +453,8 @@
     }
    ],
    "ok": true,
-   "total": 344,
-   "inTarget": 26,
+   "total": 340,
+   "inTarget": 25,
    "error": "",
    "used": {
     "type": "workday",
@@ -491,7 +491,7 @@
     }
    ],
    "ok": true,
-   "total": 23,
+   "total": 25,
    "inTarget": 4,
    "error": "",
    "used": {
@@ -528,7 +528,7 @@
    ],
    "ok": true,
    "total": 254,
-   "inTarget": 13,
+   "inTarget": 12,
    "error": "",
    "used": {
     "slug": "binance",
@@ -599,7 +599,7 @@
     }
    ],
    "ok": true,
-   "total": 264,
+   "total": 263,
    "inTarget": 8,
    "error": "",
    "used": {
@@ -627,7 +627,7 @@
    ],
    "ok": true,
    "total": 8,
-   "inTarget": 1,
+   "inTarget": 0,
    "error": "",
    "used": {
     "slug": "buildkite",
@@ -644,7 +644,7 @@
     }
    ],
    "ok": true,
-   "total": 24,
+   "total": 25,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -662,7 +662,7 @@
     }
    ],
    "ok": true,
-   "total": 155,
+   "total": 153,
    "inTarget": 3,
    "error": "",
    "used": {
@@ -707,7 +707,7 @@
     }
    ],
    "ok": true,
-   "total": 58,
+   "total": 56,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -770,7 +770,7 @@
     }
    ],
    "ok": true,
-   "total": 41,
+   "total": 40,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -835,7 +835,7 @@
     }
    ],
    "ok": true,
-   "total": 501,
+   "total": 499,
    "inTarget": 55,
    "error": "",
    "used": {
@@ -900,7 +900,7 @@
     }
    ],
    "ok": true,
-   "total": 464,
+   "total": 465,
    "inTarget": 13,
    "error": "",
    "used": {
@@ -954,8 +954,8 @@
     }
    ],
    "ok": true,
-   "total": 234,
-   "inTarget": 3,
+   "total": 249,
+   "inTarget": 4,
    "error": "",
    "used": {
     "slug": "coinbase",
@@ -1018,7 +1018,7 @@
     }
    ],
    "ok": true,
-   "total": 13,
+   "total": 14,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1073,7 +1073,7 @@
     }
    ],
    "ok": true,
-   "total": 903,
+   "total": 901,
    "inTarget": 9,
    "error": "",
    "used": {
@@ -1127,7 +1127,7 @@
     }
    ],
    "ok": true,
-   "total": 214,
+   "total": 203,
    "inTarget": 6,
    "error": "",
    "used": {
@@ -1194,8 +1194,8 @@
     }
    ],
    "ok": true,
-   "total": 322,
-   "inTarget": 9,
+   "total": 320,
+   "inTarget": 8,
    "error": "",
    "used": {
     "type": "workday",
@@ -1232,7 +1232,7 @@
     }
    ],
    "ok": true,
-   "total": 43,
+   "total": 41,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -1277,7 +1277,7 @@
     }
    ],
    "ok": true,
-   "total": 23,
+   "total": 24,
    "inTarget": 2,
    "error": "",
    "used": {
@@ -1313,7 +1313,7 @@
     }
    ],
    "ok": true,
-   "total": 159,
+   "total": 161,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -1331,8 +1331,8 @@
     }
    ],
    "ok": true,
-   "total": 402,
-   "inTarget": 18,
+   "total": 407,
+   "inTarget": 16,
    "error": "",
    "used": {
     "slug": "elastic",
@@ -1486,8 +1486,8 @@
     }
    ],
    "ok": true,
-   "total": 266,
-   "inTarget": 9,
+   "total": 262,
+   "inTarget": 11,
    "error": "",
    "used": {
     "type": "workday",
@@ -1506,7 +1506,7 @@
     }
    ],
    "ok": true,
-   "total": 141,
+   "total": 140,
    "inTarget": 2,
    "error": "",
    "used": {
@@ -1524,8 +1524,8 @@
     }
    ],
    "ok": true,
-   "total": 191,
-   "inTarget": 3,
+   "total": 193,
+   "inTarget": 5,
    "error": "",
    "used": {
     "slug": "flexport",
@@ -1569,7 +1569,7 @@
     }
    ],
    "ok": true,
-   "total": 20,
+   "total": 19,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1587,8 +1587,8 @@
     }
    ],
    "ok": true,
-   "total": 45,
-   "inTarget": 2,
+   "total": 48,
+   "inTarget": 3,
    "error": "",
    "used": {
     "slug": "flowtraders",
@@ -1614,7 +1614,7 @@
     }
    ],
    "ok": true,
-   "total": 123,
+   "total": 125,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -1632,7 +1632,7 @@
     }
    ],
    "ok": true,
-   "total": 20,
+   "total": 18,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1686,7 +1686,7 @@
     }
    ],
    "ok": true,
-   "total": 25,
+   "total": 27,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1730,8 +1730,8 @@
     }
    ],
    "ok": true,
-   "total": 195,
-   "inTarget": 51,
+   "total": 194,
+   "inTarget": 50,
    "error": "",
    "used": {
     "type": "google"
@@ -1748,7 +1748,7 @@
    ],
    "ok": true,
    "total": 439,
-   "inTarget": 8,
+   "inTarget": 9,
    "error": "",
    "used": {
     "slug": "grab",
@@ -1765,7 +1765,7 @@
     }
    ],
    "ok": true,
-   "total": 10,
+   "total": 9,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1783,7 +1783,7 @@
     }
    ],
    "ok": true,
-   "total": 86,
+   "total": 84,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -1992,7 +1992,7 @@
     }
    ],
    "ok": true,
-   "total": 93,
+   "total": 96,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -2010,7 +2010,7 @@
     }
    ],
    "ok": true,
-   "total": 105,
+   "total": 110,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2183,7 +2183,7 @@
     }
    ],
    "ok": true,
-   "total": 72,
+   "total": 68,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2237,8 +2237,8 @@
     }
    ],
    "ok": true,
-   "total": 179,
-   "inTarget": 5,
+   "total": 170,
+   "inTarget": 4,
    "error": "",
    "used": {
     "slug": "lyft",
@@ -2320,8 +2320,8 @@
     }
    ],
    "ok": true,
-   "total": 393,
-   "inTarget": 32,
+   "total": 378,
+   "inTarget": 29,
    "error": "",
    "used": {
     "type": "workday",
@@ -2405,8 +2405,8 @@
     }
    ],
    "ok": true,
-   "total": 52,
-   "inTarget": 1,
+   "total": 53,
+   "inTarget": 2,
    "error": "",
    "used": {
     "slug": "mollie",
@@ -2441,7 +2441,7 @@
     }
    ],
    "ok": true,
-   "total": 369,
+   "total": 366,
    "inTarget": 16,
    "error": "",
    "used": {
@@ -2459,7 +2459,7 @@
     }
    ],
    "ok": true,
-   "total": 66,
+   "total": 64,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2487,7 +2487,7 @@
    ],
    "ok": true,
    "total": 29,
-   "inTarget": 1,
+   "inTarget": 0,
    "error": "",
    "used": {
     "slug": "multiverse",
@@ -2522,7 +2522,7 @@
     }
    ],
    "ok": true,
-   "total": 64,
+   "total": 63,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -2541,7 +2541,7 @@
     }
    ],
    "ok": true,
-   "total": 143,
+   "total": 144,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2589,7 +2589,7 @@
     }
    ],
    "ok": true,
-   "total": 145,
+   "total": 148,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2618,7 +2618,7 @@
     }
    ],
    "ok": true,
-   "total": 563,
+   "total": 560,
    "inTarget": 36,
    "error": "",
    "used": {
@@ -2692,7 +2692,7 @@
     }
    ],
    "ok": true,
-   "total": 385,
+   "total": 388,
    "inTarget": 33,
    "error": "",
    "used": {
@@ -2710,7 +2710,7 @@
     }
    ],
    "ok": true,
-   "total": 379,
+   "total": 378,
    "inTarget": 2,
    "error": "",
    "used": {
@@ -2737,8 +2737,8 @@
     }
    ],
    "ok": true,
-   "total": 814,
-   "inTarget": 16,
+   "total": 815,
+   "inTarget": 14,
    "error": "",
    "used": {
     "slug": "openai",
@@ -2766,7 +2766,7 @@
    ],
    "ok": true,
    "total": 300,
-   "inTarget": 21,
+   "inTarget": 19,
    "error": "",
    "used": {
     "type": "oracle",
@@ -2805,7 +2805,7 @@
    ],
    "ok": true,
    "total": 18,
-   "inTarget": 3,
+   "inTarget": 1,
    "error": "",
    "used": {
     "slug": "paddle",
@@ -2823,7 +2823,7 @@
     }
    ],
    "ok": true,
-   "total": 302,
+   "total": 299,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2845,7 +2845,7 @@
    ],
    "ok": true,
    "total": 241,
-   "inTarget": 14,
+   "inTarget": 13,
    "error": "",
    "used": {
     "type": "workday",
@@ -2900,7 +2900,7 @@
     }
    ],
    "ok": true,
-   "total": 165,
+   "total": 170,
    "inTarget": 10,
    "error": "",
    "used": {
@@ -2918,8 +2918,8 @@
     }
    ],
    "ok": true,
-   "total": 129,
-   "inTarget": 0,
+   "total": 132,
+   "inTarget": 1,
    "error": "",
    "used": {
     "slug": "plaid",
@@ -3035,7 +3035,7 @@
     }
    ],
    "ok": true,
-   "total": 168,
+   "total": 171,
    "inTarget": 5,
    "error": "",
    "used": {
@@ -3143,8 +3143,8 @@
     }
    ],
    "ok": true,
-   "total": 167,
-   "inTarget": 16,
+   "total": 160,
+   "inTarget": 11,
    "error": "",
    "used": {
     "slug": "robinhood",
@@ -3171,7 +3171,7 @@
     }
    ],
    "ok": true,
-   "total": 35,
+   "total": 34,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3190,7 +3190,7 @@
     }
    ],
    "ok": true,
-   "total": 153,
+   "total": 159,
    "inTarget": 5,
    "error": "",
    "used": {
@@ -3219,8 +3219,8 @@
     }
    ],
    "ok": true,
-   "total": 471,
-   "inTarget": 34,
+   "total": 469,
+   "inTarget": 38,
    "error": "",
    "used": {
     "type": "workday",
@@ -3239,7 +3239,7 @@
     }
    ],
    "ok": true,
-   "total": 319,
+   "total": 326,
    "inTarget": 4,
    "error": "",
    "used": {
@@ -3266,7 +3266,7 @@
     }
    ],
    "ok": true,
-   "total": 10,
+   "total": 11,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -3302,7 +3302,7 @@
     }
    ],
    "ok": true,
-   "total": 35,
+   "total": 32,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3410,7 +3410,7 @@
     }
    ],
    "ok": true,
-   "total": 86,
+   "total": 80,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -3428,8 +3428,8 @@
     }
    ],
    "ok": true,
-   "total": 361,
-   "inTarget": 12,
+   "total": 366,
+   "inTarget": 13,
    "error": "",
    "used": {
     "slug": "snowflake",
@@ -3549,8 +3549,8 @@
     }
    ],
    "ok": true,
-   "total": 402,
-   "inTarget": 28,
+   "total": 394,
+   "inTarget": 22,
    "error": "",
    "used": {
     "type": "workday",
@@ -3569,8 +3569,8 @@
     }
    ],
    "ok": true,
-   "total": 736,
-   "inTarget": 11,
+   "total": 746,
+   "inTarget": 10,
    "error": "",
    "used": {
     "slug": "stripe",
@@ -3596,7 +3596,7 @@
     }
    ],
    "ok": true,
-   "total": 177,
+   "total": 184,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -3659,7 +3659,7 @@
     }
    ],
    "ok": true,
-   "total": 36,
+   "total": 32,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3767,8 +3767,8 @@
     }
    ],
    "ok": true,
-   "total": 34,
-   "inTarget": 0,
+   "total": 33,
+   "inTarget": 2,
    "error": "",
    "used": {
     "slug": "thought-machine",
@@ -3785,8 +3785,8 @@
     }
    ],
    "ok": true,
-   "total": 46,
-   "inTarget": 0,
+   "total": 45,
+   "inTarget": 2,
    "error": "",
    "used": {
     "slug": "thoughtworks",
@@ -3803,7 +3803,7 @@
     }
    ],
    "ok": true,
-   "total": 51,
+   "total": 52,
    "inTarget": 4,
    "error": "",
    "used": {
@@ -3821,7 +3821,7 @@
     }
    ],
    "ok": true,
-   "total": 96,
+   "total": 90,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3875,8 +3875,8 @@
     }
    ],
    "ok": true,
-   "total": 337,
-   "inTarget": 7,
+   "total": 328,
+   "inTarget": 5,
    "error": "",
    "used": {
     "slug": "toast",
@@ -3902,7 +3902,7 @@
     }
    ],
    "ok": true,
-   "total": 99,
+   "total": 97,
    "inTarget": 2,
    "error": "",
    "used": {
@@ -3938,7 +3938,7 @@
     }
    ],
    "ok": true,
-   "total": 130,
+   "total": 132,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -4111,7 +4111,7 @@
     }
    ],
    "ok": true,
-   "total": 175,
+   "total": 174,
    "inTarget": 23,
    "error": "",
    "used": {
@@ -4129,8 +4129,8 @@
     }
    ],
    "ok": true,
-   "total": 40,
-   "inTarget": 0,
+   "total": 42,
+   "inTarget": 2,
    "error": "",
    "used": {
     "slug": "wealthsimple",
@@ -4194,7 +4194,7 @@
     }
    ],
    "ok": true,
-   "total": 262,
+   "total": 258,
    "inTarget": 22,
    "error": "",
    "used": {
@@ -4232,7 +4232,7 @@
     }
    ],
    "ok": true,
-   "total": 20,
+   "total": 18,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -4250,7 +4250,7 @@
     }
    ],
    "ok": true,
-   "total": 117,
+   "total": 116,
    "inTarget": 25,
    "error": "",
    "used": {
@@ -4305,8 +4305,8 @@
     }
    ],
    "ok": true,
-   "total": 30,
-   "inTarget": 0,
+   "total": 31,
+   "inTarget": 1,
    "error": "",
    "used": {
     "eu": false,

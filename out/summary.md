@@ -1,81 +1,81 @@
-# Job feed - 2026-10-31 02:29 UTC
+# Job feed - 2026-11-01 02:19 UTC
 
-Boards read: 141 of 339 - raw jobs 22805 - after title/location/date filters 2024 - kept 882
+Boards read: 140 of 339 - raw jobs 22763 - after title/location/date filters 1968 - kept 857
 
 | Country | Jobs |
 |---|---|
 | ae | 8 |
 | au | 37 |
-| ca | 148 |
+| ca | 142 |
 | ch | 22 |
-| ie | 72 |
-| in | 175 |
+| ie | 69 |
+| in | 171 |
 | lu | 3 |
 | nl | 18 |
 | sg | 44 |
-| uk | 115 |
-| us | 240 |
+| uk | 114 |
+| us | 229 |
 
 ## Boards with jobs kept
 
 - Amazon (amazon): 55 of 379
-- Citi (workday): 55 of 499
+- Citi (workday): 55 of 502
 - Google (google): 50 of 194
-- JPMorgan Chase (oracle): 41 of 300
+- Atlassian (atlassian): 39 of 369
+- JPMorgan Chase (oracle): 38 of 300
 - Salesforce (workday): 38 of 469
-- Atlassian (atlassian): 37 of 357
 - NVIDIA (workday): 36 of 560
-- Okta (greenhouse): 33 of 388
-- Mastercard (workday): 29 of 378
-- Barclays (workday): 25 of 340
-- Xero (ashby): 25 of 116
-- Wayve (ashby): 23 of 174
-- State Street (workday): 22 of 394
+- Mastercard (workday): 29 of 380
+- Okta (greenhouse): 28 of 387
+- State Street (workday): 25 of 389
+- Barclays (workday): 24 of 338
+- Xero (ashby): 24 of 116
+- Wayve (ashby): 23 of 175
 - Workday (workday): 22 of 258
-- Airwallex (ashby): 21 of 496
+- Airwallex (ashby): 21 of 499
 - ServiceNow (smartrecruiters): 21 of 500
 - Adobe (workday): 19 of 140
 - Oracle (oracle): 19 of 300
 - Elastic (greenhouse): 16 of 407
-- MongoDB (greenhouse): 16 of 366
-- OpenAI (ashby): 14 of 815
-- Cloudflare (greenhouse): 13 of 465
+- MongoDB (greenhouse): 15 of 366
+- OpenAI (ashby): 14 of 810
+- Cloudflare (greenhouse): 13 of 464
 - PayPal (workday): 13 of 241
-- Snowflake (ashby): 13 of 366
-- Affirm (greenhouse): 12 of 245
+- Affirm (greenhouse): 12 of 244
 - Binance (greenhouse): 12 of 254
+- Snowflake (ashby): 12 of 366
 - Fidelity Technology Group (workday): 11 of 262
 - Robinhood (greenhouse): 11 of 160
 - Anthropic (greenhouse): 10 of 675
-- Pinterest (greenhouse): 10 of 170
-- Stripe (greenhouse): 10 of 746
-- Databricks (greenhouse): 9 of 901
-- Grab (smartrecruiters): 9 of 439
-- Brex (greenhouse): 8 of 263
-- Deutsche Bank (workday): 8 of 320
-- Deliveroo (greenhouse): 6 of 203
-- Afterpay (greenhouse): 5 of 204
+- Pinterest (greenhouse): 9 of 170
+- Stripe (greenhouse): 9 of 745
+- Databricks (greenhouse): 8 of 901
+- Deutsche Bank (workday): 8 of 321
+- Grab (smartrecruiters): 8 of 435
+- Deliveroo (greenhouse): 6 of 202
 - Flexport (greenhouse): 5 of 193
-- Ramp (ashby): 5 of 171
-- Rubrik (greenhouse): 5 of 159
+- Ramp (ashby): 5 of 172
+- Rubrik (greenhouse): 5 of 158
 - Toast (greenhouse): 5 of 328
 - 1Password (ashby): 4 of 87
-- Benevity (ashby): 4 of 25
+- Benevity (ashby): 4 of 23
 - Cohere (ashby): 4 of 122
-- Coinbase (greenhouse): 4 of 249
 - Lyft (greenhouse): 4 of 170
-- Samsara (greenhouse): 4 of 326
 - Thunes (greenhouse): 4 of 52
-- Adyen (greenhouse): 3 of 239
+- Adyen (greenhouse): 3 of 238
+- Afterpay (greenhouse): 3 of 204
 - Asana (greenhouse): 3 of 110
 - Bybit (greenhouse): 3 of 153
+- Coinbase (greenhouse): 3 of 254
 - Datadog (greenhouse): 3 of 397
 - Flow Traders (greenhouse): 3 of 48
 - Arhs (smartrecruiters): 2 of 76
+- Brex (greenhouse): 2 of 263
 - Dropbox (greenhouse): 2 of 24
 - Figma (greenhouse): 2 of 140
 - Mollie (ashby): 2 of 53
-- OKX (greenhouse): 2 of 378
+- OKX (greenhouse): 2 of 376
+- Samsara (greenhouse): 2 of 323
 - Thought Machine (ashby): 2 of 33
 - Thoughtworks (greenhouse): 2 of 45
 - Tines (greenhouse): 2 of 35
@@ -94,15 +94,12 @@ Boards read: 141 of 339 - raw jobs 22805 - after title/location/date filters 202
 - Immutable (lever): 1 of 5
 - Instacart (greenhouse): 1 of 96
 - Ledgy (greenhouse): 1 of 3
-- Nexthink (smartrecruiters): 1 of 63
+- Nexthink (smartrecruiters): 1 of 62
 - Paddle (ashby): 1 of 18
 - Plaid (ashby): 1 of 132
 - Reddit (greenhouse): 1 of 163
 - Scandit (greenhouse): 1 of 11
-- Smartsheet (greenhouse): 1 of 80
 - Snyk (ashby): 1 of 37
-- Swiggy (smartrecruiters): 1 of 184
-- Zeta (lever): 1 of 31
 
 ## Not reachable
 
@@ -299,6 +296,7 @@ Boards read: 141 of 339 - raw jobs 22805 - after title/location/date filters 202
 - Zalando: no public board found
 - Zendesk: no public board found
 - Zepto: no public board found
+- Zeta: lever: TimeoutError: The read operation timed out
 - Zillow: no public board found
 - Zip: no public board found
 - Zomato: no public board found

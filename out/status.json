@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-07T02:54:18.223861+00:00",
- "seconds": 110,
- "rawJobs": 22771,
- "candidates": 1898,
- "kept": 854,
+ "generatedAt": "2026-11-08T02:33:03.867308+00:00",
+ "seconds": 112,
+ "rawJobs": 22753,
+ "candidates": 1874,
+ "kept": 844,
  "companies": {
   "1Password": {
    "company": "1Password",
@@ -44,7 +44,7 @@
     }
    ],
    "ok": true,
-   "total": 591,
+   "total": 589,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -84,7 +84,7 @@
     }
    ],
    "ok": true,
-   "total": 139,
+   "total": 138,
    "inTarget": 19,
    "error": "",
    "used": {
@@ -131,7 +131,7 @@
     }
    ],
    "ok": true,
-   "total": 223,
+   "total": 222,
    "inTarget": 12,
    "error": "",
    "used": {
@@ -212,7 +212,7 @@
     }
    ],
    "ok": true,
-   "total": 492,
+   "total": 493,
    "inTarget": 22,
    "error": "",
    "used": {
@@ -273,7 +273,7 @@
     }
    ],
    "ok": true,
-   "total": 678,
+   "total": 675,
    "inTarget": 11,
    "error": "",
    "used": {
@@ -462,7 +462,7 @@
     }
    ],
    "ok": true,
-   "total": 337,
+   "total": 338,
    "inTarget": 22,
    "error": "",
    "used": {
@@ -536,7 +536,7 @@
     }
    ],
    "ok": true,
-   "total": 227,
+   "total": 226,
    "inTarget": 9,
    "error": "",
    "used": {
@@ -635,7 +635,7 @@
     }
    ],
    "ok": true,
-   "total": 9,
+   "total": 8,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -717,7 +717,7 @@
    ],
    "ok": true,
    "total": 37,
-   "inTarget": 1,
+   "inTarget": 0,
    "error": "",
    "used": {
     "slug": "canva",
@@ -779,8 +779,8 @@
     }
    ],
    "ok": true,
-   "total": 45,
-   "inTarget": 1,
+   "total": 44,
+   "inTarget": 0,
    "error": "",
    "used": {
     "slug": "catawiki",
@@ -844,7 +844,7 @@
     }
    ],
    "ok": true,
-   "total": 497,
+   "total": 498,
    "inTarget": 55,
    "error": "",
    "used": {
@@ -910,7 +910,7 @@
    ],
    "ok": true,
    "total": 464,
-   "inTarget": 17,
+   "inTarget": 15,
    "error": "",
    "used": {
     "slug": "cloudflare",
@@ -963,7 +963,7 @@
     }
    ],
    "ok": true,
-   "total": 285,
+   "total": 284,
    "inTarget": 5,
    "error": "",
    "used": {
@@ -1082,8 +1082,8 @@
     }
    ],
    "ok": true,
-   "total": 923,
-   "inTarget": 17,
+   "total": 922,
+   "inTarget": 18,
    "error": "",
    "used": {
     "slug": "databricks",
@@ -1100,7 +1100,7 @@
     }
    ],
    "ok": true,
-   "total": 400,
+   "total": 401,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1203,7 +1203,7 @@
     }
    ],
    "ok": true,
-   "total": 330,
+   "total": 327,
    "inTarget": 10,
    "error": "",
    "used": {
@@ -1340,8 +1340,8 @@
     }
    ],
    "ok": true,
-   "total": 423,
-   "inTarget": 17,
+   "total": 425,
+   "inTarget": 13,
    "error": "",
    "used": {
     "slug": "elastic",
@@ -1495,7 +1495,7 @@
     }
    ],
    "ok": true,
-   "total": 273,
+   "total": 272,
    "inTarget": 10,
    "error": "",
    "used": {
@@ -1515,7 +1515,7 @@
     }
    ],
    "ok": true,
-   "total": 144,
+   "total": 145,
    "inTarget": 4,
    "error": "",
    "used": {
@@ -1534,7 +1534,7 @@
    ],
    "ok": true,
    "total": 190,
-   "inTarget": 6,
+   "inTarget": 4,
    "error": "",
    "used": {
     "slug": "flexport",
@@ -2057,7 +2057,7 @@
    ],
    "ok": true,
    "total": 300,
-   "inTarget": 42,
+   "inTarget": 44,
    "error": "",
    "used": {
     "type": "oracle",
@@ -2174,7 +2174,7 @@
     }
    ],
    "ok": true,
-   "total": 4,
+   "total": 3,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -2329,7 +2329,7 @@
     }
    ],
    "ok": true,
-   "total": 386,
+   "total": 385,
    "inTarget": 26,
    "error": "",
    "used": {
@@ -2450,7 +2450,7 @@
     }
    ],
    "ok": true,
-   "total": 375,
+   "total": 374,
    "inTarget": 20,
    "error": "",
    "used": {
@@ -2531,7 +2531,7 @@
     }
    ],
    "ok": true,
-   "total": 65,
+   "total": 64,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -2627,7 +2627,7 @@
     }
    ],
    "ok": true,
-   "total": 558,
+   "total": 556,
    "inTarget": 37,
    "error": "",
    "used": {
@@ -2702,7 +2702,7 @@
    ],
    "ok": true,
    "total": 375,
-   "inTarget": 23,
+   "inTarget": 21,
    "error": "",
    "used": {
     "slug": "okta",
@@ -2746,7 +2746,7 @@
     }
    ],
    "ok": true,
-   "total": 820,
+   "total": 818,
    "inTarget": 18,
    "error": "",
    "used": {
@@ -3044,7 +3044,7 @@
     }
    ],
    "ok": true,
-   "total": 170,
+   "total": 169,
    "inTarget": 2,
    "error": "",
    "used": {
@@ -3228,7 +3228,7 @@
     }
    ],
    "ok": true,
-   "total": 482,
+   "total": 481,
    "inTarget": 41,
    "error": "",
    "used": {
@@ -3248,7 +3248,7 @@
     }
    ],
    "ok": true,
-   "total": 315,
+   "total": 316,
    "inTarget": 4,
    "error": "",
    "used": {
@@ -3275,7 +3275,7 @@
     }
    ],
    "ok": true,
-   "total": 10,
+   "total": 9,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3437,8 +3437,8 @@
     }
    ],
    "ok": true,
-   "total": 371,
-   "inTarget": 10,
+   "total": 372,
+   "inTarget": 9,
    "error": "",
    "used": {
     "slug": "snowflake",
@@ -3558,7 +3558,7 @@
     }
    ],
    "ok": true,
-   "total": 397,
+   "total": 396,
    "inTarget": 28,
    "error": "",
    "used": {
@@ -3578,8 +3578,8 @@
     }
    ],
    "ok": true,
-   "total": 765,
-   "inTarget": 7,
+   "total": 766,
+   "inTarget": 6,
    "error": "",
    "used": {
     "slug": "stripe",
@@ -3605,7 +3605,7 @@
     }
    ],
    "ok": true,
-   "total": 191,
+   "total": 190,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -4120,7 +4120,7 @@
     }
    ],
    "ok": true,
-   "total": 172,
+   "total": 173,
    "inTarget": 7,
    "error": "",
    "used": {
@@ -4213,7 +4213,7 @@
    ],
    "ok": true,
    "total": 250,
-   "inTarget": 22,
+   "inTarget": 23,
    "error": "",
    "used": {
     "type": "workday",

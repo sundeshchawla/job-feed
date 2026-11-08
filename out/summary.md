@@ -1,68 +1,68 @@
-# Job feed - 2026-11-07 02:54 UTC
+# Job feed - 2026-11-08 02:33 UTC
 
-Boards read: 144 of 339 - raw jobs 22771 - after title/location/date filters 1898 - kept 854
+Boards read: 144 of 339 - raw jobs 22753 - after title/location/date filters 1874 - kept 844
 
 | Country | Jobs |
 |---|---|
 | ae | 7 |
-| au | 33 |
-| ca | 138 |
+| au | 32 |
+| ca | 133 |
 | ch | 18 |
-| ie | 77 |
+| ie | 76 |
 | in | 182 |
 | lu | 1 |
-| nl | 24 |
+| nl | 21 |
 | sg | 47 |
-| uk | 110 |
-| us | 217 |
+| uk | 112 |
+| us | 215 |
 
 ## Boards with jobs kept
 
-- Citi (workday): 55 of 497
+- Citi (workday): 55 of 498
 - Amazon (amazon): 54 of 374
 - Google (google): 54 of 189
-- JPMorgan Chase (oracle): 42 of 300
-- Salesforce (workday): 41 of 482
+- JPMorgan Chase (oracle): 44 of 300
+- Salesforce (workday): 41 of 481
 - Atlassian (atlassian): 37 of 355
-- NVIDIA (workday): 37 of 558
+- NVIDIA (workday): 37 of 556
 - Oracle (oracle): 28 of 300
-- State Street (workday): 28 of 397
-- Mastercard (workday): 26 of 386
-- Okta (greenhouse): 23 of 375
+- State Street (workday): 28 of 396
+- Mastercard (workday): 26 of 385
+- Workday (workday): 23 of 250
 - Xero (ashby): 23 of 107
-- Airwallex (ashby): 22 of 492
-- Barclays (workday): 22 of 337
-- Workday (workday): 22 of 250
-- MongoDB (greenhouse): 20 of 375
-- Adobe (workday): 19 of 139
-- OpenAI (ashby): 18 of 820
+- Airwallex (ashby): 22 of 493
+- Barclays (workday): 22 of 338
+- Okta (greenhouse): 21 of 375
+- MongoDB (greenhouse): 20 of 374
+- Adobe (workday): 19 of 138
+- Databricks (greenhouse): 18 of 922
+- OpenAI (ashby): 18 of 818
 - ServiceNow (smartrecruiters): 18 of 500
-- Cloudflare (greenhouse): 17 of 464
-- Databricks (greenhouse): 17 of 923
-- Elastic (greenhouse): 17 of 423
-- Affirm (greenhouse): 12 of 223
+- Cloudflare (greenhouse): 15 of 464
+- Elastic (greenhouse): 13 of 425
+- Affirm (greenhouse): 12 of 222
 - PayPal (workday): 12 of 241
-- Anthropic (greenhouse): 11 of 678
-- Deutsche Bank (workday): 10 of 330
-- Fidelity Technology Group (workday): 10 of 273
-- Snowflake (ashby): 10 of 371
-- Binance (greenhouse): 9 of 227
+- Anthropic (greenhouse): 11 of 675
+- Deutsche Bank (workday): 10 of 327
+- Fidelity Technology Group (workday): 10 of 272
+- Binance (greenhouse): 9 of 226
+- Snowflake (ashby): 9 of 372
 - Cohere (ashby): 8 of 124
 - Grab (smartrecruiters): 8 of 448
 - Robinhood (greenhouse): 8 of 150
-- Stripe (greenhouse): 7 of 765
-- Wayve (ashby): 7 of 172
+- Wayve (ashby): 7 of 173
 - Deliveroo (greenhouse): 6 of 199
-- Flexport (greenhouse): 6 of 190
-- Coinbase (greenhouse): 5 of 285
+- Stripe (greenhouse): 6 of 766
+- Coinbase (greenhouse): 5 of 284
 - Lyft (greenhouse): 5 of 167
 - Rubrik (greenhouse): 5 of 151
 - 1Password (ashby): 4 of 78
 - Adyen (greenhouse): 4 of 255
 - Dropbox (greenhouse): 4 of 33
-- Figma (greenhouse): 4 of 144
+- Figma (greenhouse): 4 of 145
+- Flexport (greenhouse): 4 of 190
 - Pinterest (greenhouse): 4 of 168
-- Samsara (greenhouse): 4 of 315
+- Samsara (greenhouse): 4 of 316
 - Thunes (greenhouse): 4 of 43
 - Afterpay (greenhouse): 3 of 200
 - Arhs (smartrecruiters): 3 of 63
@@ -71,7 +71,7 @@ Boards read: 144 of 339 - raw jobs 22771 - after title/location/date filters 189
 - Brex (greenhouse): 2 of 268
 - Bybit (greenhouse): 2 of 151
 - OKX (greenhouse): 2 of 378
-- Ramp (ashby): 2 of 170
+- Ramp (ashby): 2 of 169
 - Snyk (ashby): 2 of 39
 - Thought Machine (ashby): 2 of 31
 - Thoughtworks (greenhouse): 2 of 44
@@ -81,15 +81,13 @@ Boards read: 144 of 339 - raw jobs 22771 - after title/location/date filters 189
 - Asana (greenhouse): 1 of 108
 - Atlan (ashby): 1 of 6
 - Benevity (ashby): 1 of 25
-- Canva (smartrecruiters): 1 of 37
-- Catawiki (greenhouse): 1 of 45
 - Faire (greenhouse): 1 of 68
 - Float (ashby): 1 of 18
 - Freshworks (smartrecruiters): 1 of 123
 - Instacart (greenhouse): 1 of 90
-- Ledgy (greenhouse): 1 of 4
+- Ledgy (greenhouse): 1 of 3
 - Mollie (ashby): 1 of 51
-- Nexthink (smartrecruiters): 1 of 65
+- Nexthink (smartrecruiters): 1 of 64
 - Paddle (ashby): 1 of 15
 - Plaid (ashby): 1 of 141
 - Reddit (greenhouse): 1 of 163

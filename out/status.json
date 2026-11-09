@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-08T02:33:03.867308+00:00",
- "seconds": 112,
- "rawJobs": 22753,
- "candidates": 1874,
- "kept": 844,
+ "generatedAt": "2026-11-09T02:43:46.545551+00:00",
+ "seconds": 115,
+ "rawJobs": 22737,
+ "candidates": 1843,
+ "kept": 835,
  "companies": {
   "1Password": {
    "company": "1Password",
@@ -44,7 +44,7 @@
     }
    ],
    "ok": true,
-   "total": 589,
+   "total": 596,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -84,7 +84,7 @@
     }
    ],
    "ok": true,
-   "total": 138,
+   "total": 137,
    "inTarget": 19,
    "error": "",
    "used": {
@@ -113,7 +113,7 @@
     }
    ],
    "ok": true,
-   "total": 255,
+   "total": 253,
    "inTarget": 4,
    "error": "",
    "used": {
@@ -398,7 +398,7 @@
     }
    ],
    "ok": true,
-   "total": 355,
+   "total": 351,
    "inTarget": 37,
    "error": "",
    "used": {
@@ -462,7 +462,7 @@
     }
    ],
    "ok": true,
-   "total": 338,
+   "total": 337,
    "inTarget": 22,
    "error": "",
    "used": {
@@ -500,7 +500,7 @@
     }
    ],
    "ok": true,
-   "total": 25,
+   "total": 23,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -716,7 +716,7 @@
     }
    ],
    "ok": true,
-   "total": 37,
+   "total": 36,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -743,7 +743,7 @@
     }
    ],
    "ok": true,
-   "total": 14,
+   "total": 15,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -910,7 +910,7 @@
    ],
    "ok": true,
    "total": 464,
-   "inTarget": 15,
+   "inTarget": 12,
    "error": "",
    "used": {
     "slug": "cloudflare",
@@ -963,7 +963,7 @@
     }
    ],
    "ok": true,
-   "total": 284,
+   "total": 283,
    "inTarget": 5,
    "error": "",
    "used": {
@@ -1027,7 +1027,7 @@
     }
    ],
    "ok": true,
-   "total": 13,
+   "total": 14,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1082,7 +1082,7 @@
     }
    ],
    "ok": true,
-   "total": 922,
+   "total": 923,
    "inTarget": 18,
    "error": "",
    "used": {
@@ -1100,7 +1100,7 @@
     }
    ],
    "ok": true,
-   "total": 401,
+   "total": 402,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1136,7 +1136,7 @@
     }
    ],
    "ok": true,
-   "total": 199,
+   "total": 200,
    "inTarget": 6,
    "error": "",
    "used": {
@@ -1340,7 +1340,7 @@
     }
    ],
    "ok": true,
-   "total": 425,
+   "total": 426,
    "inTarget": 13,
    "error": "",
    "used": {
@@ -1578,7 +1578,7 @@
     }
    ],
    "ok": true,
-   "total": 18,
+   "total": 17,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -1624,7 +1624,7 @@
    ],
    "ok": true,
    "total": 123,
-   "inTarget": 1,
+   "inTarget": 0,
    "error": "",
    "used": {
     "slug": "Freshworks",
@@ -1756,8 +1756,8 @@
     }
    ],
    "ok": true,
-   "total": 448,
-   "inTarget": 8,
+   "total": 446,
+   "inTarget": 7,
    "error": "",
    "used": {
     "slug": "grab",
@@ -2057,7 +2057,7 @@
    ],
    "ok": true,
    "total": 300,
-   "inTarget": 44,
+   "inTarget": 43,
    "error": "",
    "used": {
     "type": "oracle",
@@ -2075,7 +2075,7 @@
     }
    ],
    "ok": true,
-   "total": 25,
+   "total": 22,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2246,7 +2246,7 @@
     }
    ],
    "ok": true,
-   "total": 167,
+   "total": 166,
    "inTarget": 5,
    "error": "",
    "used": {
@@ -2329,7 +2329,7 @@
     }
    ],
    "ok": true,
-   "total": 385,
+   "total": 384,
    "inTarget": 26,
    "error": "",
    "used": {
@@ -2627,7 +2627,7 @@
     }
    ],
    "ok": true,
-   "total": 556,
+   "total": 557,
    "inTarget": 37,
    "error": "",
    "used": {
@@ -2702,7 +2702,7 @@
    ],
    "ok": true,
    "total": 375,
-   "inTarget": 21,
+   "inTarget": 19,
    "error": "",
    "used": {
     "slug": "okta",
@@ -2719,7 +2719,7 @@
     }
    ],
    "ok": true,
-   "total": 378,
+   "total": 377,
    "inTarget": 2,
    "error": "",
    "used": {
@@ -2746,7 +2746,7 @@
     }
    ],
    "ok": true,
-   "total": 818,
+   "total": 814,
    "inTarget": 18,
    "error": "",
    "used": {
@@ -3228,7 +3228,7 @@
     }
    ],
    "ok": true,
-   "total": 481,
+   "total": 480,
    "inTarget": 41,
    "error": "",
    "used": {
@@ -3248,7 +3248,7 @@
     }
    ],
    "ok": true,
-   "total": 316,
+   "total": 315,
    "inTarget": 4,
    "error": "",
    "used": {
@@ -3437,7 +3437,7 @@
     }
    ],
    "ok": true,
-   "total": 372,
+   "total": 371,
    "inTarget": 9,
    "error": "",
    "used": {
@@ -3558,7 +3558,7 @@
     }
    ],
    "ok": true,
-   "total": 396,
+   "total": 394,
    "inTarget": 28,
    "error": "",
    "used": {
@@ -3578,7 +3578,7 @@
     }
    ],
    "ok": true,
-   "total": 766,
+   "total": 767,
    "inTarget": 6,
    "error": "",
    "used": {
@@ -3884,7 +3884,7 @@
     }
    ],
    "ok": true,
-   "total": 332,
+   "total": 333,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -4268,8 +4268,8 @@
     }
    ],
    "ok": true,
-   "total": 107,
-   "inTarget": 23,
+   "total": 105,
+   "inTarget": 22,
    "error": "",
    "used": {
     "slug": "xero",

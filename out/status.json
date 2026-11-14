@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-13T03:27:21.794930+00:00",
- "seconds": 128,
- "rawJobs": 22747,
- "candidates": 1909,
- "kept": 845,
+ "generatedAt": "2026-11-14T03:23:02.135174+00:00",
+ "seconds": 69,
+ "rawJobs": 19564,
+ "candidates": 1205,
+ "kept": 596,
  "companies": {
   "1Password": {
    "company": "1Password",
@@ -16,7 +16,7 @@
    ],
    "ok": true,
    "total": 80,
-   "inTarget": 5,
+   "inTarget": 6,
    "error": "",
    "used": {
     "slug": "1password",
@@ -44,7 +44,7 @@
     }
    ],
    "ok": true,
-   "total": 585,
+   "total": 589,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -83,16 +83,10 @@
      "site": "external_experienced"
     }
    ],
-   "ok": true,
-   "total": 122,
-   "inTarget": 18,
-   "error": "",
-   "used": {
-    "type": "workday",
-    "tenant": "adobe",
-    "wd": "wd5",
-    "site": "external_experienced"
-   }
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "workday: HTTPError: HTTP Error 521: <none>"
   },
   "Advance.ai": {
    "company": "Advance.ai",
@@ -113,8 +107,8 @@
     }
    ],
    "ok": true,
-   "total": 251,
-   "inTarget": 3,
+   "total": 247,
+   "inTarget": 2,
    "error": "",
    "used": {
     "slug": "adyen",
@@ -131,7 +125,7 @@
     }
    ],
    "ok": true,
-   "total": 220,
+   "total": 217,
    "inTarget": 12,
    "error": "",
    "used": {
@@ -149,7 +143,7 @@
     }
    ],
    "ok": true,
-   "total": 192,
+   "total": 191,
    "inTarget": 3,
    "error": "",
    "used": {
@@ -176,7 +170,7 @@
     }
    ],
    "ok": true,
-   "total": 217,
+   "total": 214,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -247,7 +241,7 @@
     }
    ],
    "ok": true,
-   "total": 377,
+   "total": 379,
    "inTarget": 57,
    "error": "",
    "used": {
@@ -273,8 +267,8 @@
     }
    ],
    "ok": true,
-   "total": 673,
-   "inTarget": 11,
+   "total": 668,
+   "inTarget": 10,
    "error": "",
    "used": {
     "slug": "anthropic",
@@ -345,7 +339,7 @@
     }
    ],
    "ok": true,
-   "total": 108,
+   "total": 109,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -381,7 +375,7 @@
     }
    ],
    "ok": true,
-   "total": 8,
+   "total": 7,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -398,8 +392,8 @@
     }
    ],
    "ok": true,
-   "total": 375,
-   "inTarget": 37,
+   "total": 261,
+   "inTarget": 23,
    "error": "",
    "used": {
     "type": "atlassian"
@@ -462,7 +456,7 @@
     }
    ],
    "ok": true,
-   "total": 342,
+   "total": 345,
    "inTarget": 22,
    "error": "",
    "used": {
@@ -536,8 +530,8 @@
     }
    ],
    "ok": true,
-   "total": 221,
-   "inTarget": 7,
+   "total": 223,
+   "inTarget": 5,
    "error": "",
    "used": {
     "slug": "binance",
@@ -554,7 +548,7 @@
     }
    ],
    "ok": true,
-   "total": 192,
+   "total": 191,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -608,8 +602,8 @@
     }
    ],
    "ok": true,
-   "total": 283,
-   "inTarget": 3,
+   "total": 286,
+   "inTarget": 11,
    "error": "",
    "used": {
     "slug": "brex",
@@ -653,7 +647,7 @@
     }
    ],
    "ok": true,
-   "total": 22,
+   "total": 23,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -779,7 +773,7 @@
     }
    ],
    "ok": true,
-   "total": 43,
+   "total": 42,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -843,16 +837,10 @@
      "site": "2"
     }
    ],
-   "ok": true,
-   "total": 502,
-   "inTarget": 54,
-   "error": "",
-   "used": {
-    "type": "workday",
-    "tenant": "citi",
-    "wd": "wd5",
-    "site": "2"
-   }
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "workday: HTTPError: HTTP Error 521: <none>"
   },
   "ClearScore": {
    "company": "ClearScore",
@@ -882,7 +870,7 @@
     }
    ],
    "ok": true,
-   "total": 11,
+   "total": 12,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -909,7 +897,7 @@
     }
    ],
    "ok": true,
-   "total": 480,
+   "total": 479,
    "inTarget": 12,
    "error": "",
    "used": {
@@ -937,7 +925,7 @@
    ],
    "ok": true,
    "total": 121,
-   "inTarget": 8,
+   "inTarget": 10,
    "error": "",
    "used": {
     "slug": "cohere",
@@ -963,8 +951,8 @@
     }
    ],
    "ok": true,
-   "total": 271,
-   "inTarget": 5,
+   "total": 265,
+   "inTarget": 4,
    "error": "",
    "used": {
     "slug": "coinbase",
@@ -999,7 +987,7 @@
     }
    ],
    "ok": true,
-   "total": 393,
+   "total": 392,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1055,7 +1043,7 @@
     }
    ],
    "ok": true,
-   "total": 32,
+   "total": 33,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1082,8 +1070,8 @@
     }
    ],
    "ok": true,
-   "total": 907,
-   "inTarget": 13,
+   "total": 896,
+   "inTarget": 15,
    "error": "",
    "used": {
     "slug": "databricks",
@@ -1100,7 +1088,7 @@
     }
    ],
    "ok": true,
-   "total": 382,
+   "total": 384,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1136,8 +1124,8 @@
     }
    ],
    "ok": true,
-   "total": 189,
-   "inTarget": 5,
+   "total": 186,
+   "inTarget": 3,
    "error": "",
    "used": {
     "slug": "deliveroo",
@@ -1203,7 +1191,7 @@
     }
    ],
    "ok": true,
-   "total": 332,
+   "total": 334,
    "inTarget": 8,
    "error": "",
    "used": {
@@ -1241,7 +1229,7 @@
     }
    ],
    "ok": true,
-   "total": 25,
+   "total": 26,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -1286,7 +1274,7 @@
     }
    ],
    "ok": true,
-   "total": 42,
+   "total": 44,
    "inTarget": 10,
    "error": "",
    "used": {
@@ -1322,7 +1310,7 @@
     }
    ],
    "ok": true,
-   "total": 155,
+   "total": 151,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -1340,8 +1328,8 @@
     }
    ],
    "ok": true,
-   "total": 398,
-   "inTarget": 12,
+   "total": 400,
+   "inTarget": 10,
    "error": "",
    "used": {
     "slug": "elastic",
@@ -1457,7 +1445,7 @@
     }
    ],
    "ok": true,
-   "total": 69,
+   "total": 71,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -1494,16 +1482,10 @@
      "site": "FidelityCareers"
     }
    ],
-   "ok": true,
-   "total": 303,
-   "inTarget": 11,
-   "error": "",
-   "used": {
-    "type": "workday",
-    "tenant": "fmr",
-    "wd": "wd1",
-    "site": "FidelityCareers"
-   }
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "workday: HTTPError: HTTP Error 521: <none>"
   },
   "Figma": {
    "company": "Figma",
@@ -1515,7 +1497,7 @@
     }
    ],
    "ok": true,
-   "total": 143,
+   "total": 139,
    "inTarget": 4,
    "error": "",
    "used": {
@@ -1533,7 +1515,7 @@
     }
    ],
    "ok": true,
-   "total": 198,
+   "total": 204,
    "inTarget": 3,
    "error": "",
    "used": {
@@ -1551,7 +1533,7 @@
     }
    ],
    "ok": true,
-   "total": 10,
+   "total": 12,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1578,7 +1560,7 @@
     }
    ],
    "ok": true,
-   "total": 17,
+   "total": 18,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -1623,7 +1605,7 @@
     }
    ],
    "ok": true,
-   "total": 122,
+   "total": 120,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1641,7 +1623,7 @@
     }
    ],
    "ok": true,
-   "total": 16,
+   "total": 14,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -1695,8 +1677,8 @@
     }
    ],
    "ok": true,
-   "total": 28,
-   "inTarget": 0,
+   "total": 29,
+   "inTarget": 1,
    "error": "",
    "used": {
     "slug": "gocardless",
@@ -1739,8 +1721,8 @@
     }
    ],
    "ok": true,
-   "total": 178,
-   "inTarget": 50,
+   "total": 181,
+   "inTarget": 52,
    "error": "",
    "used": {
     "type": "google"
@@ -1756,8 +1738,8 @@
     }
    ],
    "ok": true,
-   "total": 434,
-   "inTarget": 8,
+   "total": 431,
+   "inTarget": 9,
    "error": "",
    "used": {
     "slug": "grab",
@@ -1792,7 +1774,7 @@
     }
    ],
    "ok": true,
-   "total": 78,
+   "total": 75,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1864,7 +1846,7 @@
     }
    ],
    "ok": true,
-   "total": 14,
+   "total": 12,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1918,7 +1900,7 @@
     }
    ],
    "ok": true,
-   "total": 157,
+   "total": 156,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1936,7 +1918,7 @@
     }
    ],
    "ok": true,
-   "total": 157,
+   "total": 156,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2001,8 +1983,8 @@
     }
    ],
    "ok": true,
-   "total": 90,
-   "inTarget": 2,
+   "total": 85,
+   "inTarget": 1,
    "error": "",
    "used": {
     "slug": "instacart",
@@ -2019,7 +2001,7 @@
     }
    ],
    "ok": true,
-   "total": 115,
+   "total": 114,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2057,7 +2039,7 @@
    ],
    "ok": true,
    "total": 300,
-   "inTarget": 45,
+   "inTarget": 46,
    "error": "",
    "used": {
     "type": "oracle",
@@ -2075,7 +2057,7 @@
     }
    ],
    "ok": true,
-   "total": 23,
+   "total": 22,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2192,7 +2174,7 @@
     }
    ],
    "ok": true,
-   "total": 76,
+   "total": 74,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -2246,7 +2228,7 @@
     }
    ],
    "ok": true,
-   "total": 151,
+   "total": 148,
    "inTarget": 4,
    "error": "",
    "used": {
@@ -2328,16 +2310,10 @@
      "site": "CorporateCareers"
     }
    ],
-   "ok": true,
-   "total": 386,
-   "inTarget": 32,
-   "error": "",
-   "used": {
-    "type": "workday",
-    "tenant": "mastercard",
-    "wd": "wd1",
-    "site": "CorporateCareers"
-   }
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "workday: HTTPError: HTTP Error 521: <none>"
   },
   "Meesho": {
    "company": "Meesho",
@@ -2396,7 +2372,7 @@
     }
    ],
    "ok": true,
-   "total": 13,
+   "total": 12,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2450,8 +2426,8 @@
     }
    ],
    "ok": true,
-   "total": 386,
-   "inTarget": 19,
+   "total": 391,
+   "inTarget": 20,
    "error": "",
    "used": {
     "slug": "mongodb",
@@ -2468,7 +2444,7 @@
     }
    ],
    "ok": true,
-   "total": 60,
+   "total": 57,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2495,7 +2471,7 @@
     }
    ],
    "ok": true,
-   "total": 27,
+   "total": 25,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2531,7 +2507,7 @@
     }
    ],
    "ok": true,
-   "total": 63,
+   "total": 65,
    "inTarget": 2,
    "error": "",
    "used": {
@@ -2570,7 +2546,7 @@
     }
    ],
    "ok": true,
-   "total": 30,
+   "total": 31,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2598,7 +2574,7 @@
     }
    ],
    "ok": true,
-   "total": 160,
+   "total": 166,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2626,16 +2602,10 @@
      "site": "NVIDIAExternalCareerSite"
     }
    ],
-   "ok": true,
-   "total": 561,
-   "inTarget": 33,
-   "error": "",
-   "used": {
-    "type": "workday",
-    "tenant": "nvidia",
-    "wd": "wd5",
-    "site": "NVIDIAExternalCareerSite"
-   }
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "workday: HTTPError: HTTP Error 521: <none>"
   },
   "Ocado": {
    "company": "Ocado",
@@ -2701,8 +2671,8 @@
     }
    ],
    "ok": true,
-   "total": 370,
-   "inTarget": 23,
+   "total": 363,
+   "inTarget": 25,
    "error": "",
    "used": {
     "slug": "okta",
@@ -2719,7 +2689,7 @@
     }
    ],
    "ok": true,
-   "total": 389,
+   "total": 392,
    "inTarget": 2,
    "error": "",
    "used": {
@@ -2746,7 +2716,7 @@
     }
    ],
    "ok": true,
-   "total": 827,
+   "total": 838,
    "inTarget": 18,
    "error": "",
    "used": {
@@ -2773,15 +2743,10 @@
      "site": "CX_45001"
     }
    ],
-   "ok": true,
-   "total": 300,
-   "inTarget": 31,
-   "error": "",
-   "used": {
-    "type": "oracle",
-    "host": "eeho.fa.us2.oraclecloud.com",
-    "site": "CX_45001"
-   }
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "oracle: HTTPError: HTTP Error 503: Service Unavailable"
   },
   "Outreach": {
    "company": "Outreach",
@@ -2852,16 +2817,10 @@
      "site": "jobs"
     }
    ],
-   "ok": true,
-   "total": 251,
-   "inTarget": 12,
-   "error": "",
-   "used": {
-    "type": "workday",
-    "tenant": "paypal",
-    "wd": "wd1",
-    "site": "jobs"
-   }
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "workday: HTTPError: HTTP Error 521: <none>"
   },
   "Personio": {
    "company": "Personio",
@@ -2909,7 +2868,7 @@
     }
    ],
    "ok": true,
-   "total": 166,
+   "total": 163,
    "inTarget": 5,
    "error": "",
    "used": {
@@ -2927,7 +2886,7 @@
     }
    ],
    "ok": true,
-   "total": 143,
+   "total": 142,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -2990,7 +2949,7 @@
     }
    ],
    "ok": true,
-   "total": 12,
+   "total": 13,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3017,7 +2976,7 @@
     }
    ],
    "ok": true,
-   "total": 25,
+   "total": 26,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3045,7 +3004,7 @@
    ],
    "ok": true,
    "total": 180,
-   "inTarget": 5,
+   "inTarget": 6,
    "error": "",
    "used": {
     "slug": "ramp",
@@ -3098,7 +3057,7 @@
     }
    ],
    "ok": true,
-   "total": 147,
+   "total": 145,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -3152,7 +3111,7 @@
     }
    ],
    "ok": true,
-   "total": 160,
+   "total": 165,
    "inTarget": 7,
    "error": "",
    "used": {
@@ -3180,7 +3139,7 @@
     }
    ],
    "ok": true,
-   "total": 27,
+   "total": 26,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3199,8 +3158,8 @@
     }
    ],
    "ok": true,
-   "total": 180,
-   "inTarget": 5,
+   "total": 182,
+   "inTarget": 4,
    "error": "",
    "used": {
     "slug": "rubrik",
@@ -3228,8 +3187,8 @@
     }
    ],
    "ok": true,
-   "total": 488,
-   "inTarget": 39,
+   "total": 494,
+   "inTarget": 38,
    "error": "",
    "used": {
     "type": "workday",
@@ -3248,7 +3207,7 @@
     }
    ],
    "ok": true,
-   "total": 309,
+   "total": 313,
    "inTarget": 4,
    "error": "",
    "used": {
@@ -3275,7 +3234,7 @@
     }
    ],
    "ok": true,
-   "total": 10,
+   "total": 12,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3311,7 +3270,7 @@
     }
    ],
    "ok": true,
-   "total": 32,
+   "total": 33,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3437,7 +3396,7 @@
     }
    ],
    "ok": true,
-   "total": 379,
+   "total": 376,
    "inTarget": 11,
    "error": "",
    "used": {
@@ -3557,16 +3516,10 @@
      "site": "Global"
     }
    ],
-   "ok": true,
-   "total": 393,
-   "inTarget": 27,
-   "error": "",
-   "used": {
-    "type": "workday",
-    "tenant": "statestreet",
-    "wd": "wd1",
-    "site": "Global"
-   }
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "workday: HTTPError: HTTP Error 521: <none>"
   },
   "Stripe": {
    "company": "Stripe",
@@ -3578,7 +3531,7 @@
     }
    ],
    "ok": true,
-   "total": 787,
+   "total": 786,
    "inTarget": 6,
    "error": "",
    "used": {
@@ -3605,7 +3558,7 @@
     }
    ],
    "ok": true,
-   "total": 186,
+   "total": 188,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3641,7 +3594,7 @@
     }
    ],
    "ok": true,
-   "total": 35,
+   "total": 36,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3668,7 +3621,7 @@
     }
    ],
    "ok": true,
-   "total": 32,
+   "total": 31,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3794,8 +3747,8 @@
     }
    ],
    "ok": true,
-   "total": 46,
-   "inTarget": 1,
+   "total": 47,
+   "inTarget": 0,
    "error": "",
    "used": {
     "slug": "thoughtworks",
@@ -3812,7 +3765,7 @@
     }
    ],
    "ok": true,
-   "total": 37,
+   "total": 35,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3830,7 +3783,7 @@
     }
    ],
    "ok": true,
-   "total": 71,
+   "total": 72,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -3857,8 +3810,8 @@
     }
    ],
    "ok": true,
-   "total": 31,
-   "inTarget": 2,
+   "total": 32,
+   "inTarget": 0,
    "error": "",
    "used": {
     "slug": "tines",
@@ -3884,7 +3837,7 @@
     }
    ],
    "ok": true,
-   "total": 357,
+   "total": 355,
    "inTarget": 3,
    "error": "",
    "used": {
@@ -3911,7 +3864,7 @@
     }
    ],
    "ok": true,
-   "total": 93,
+   "total": 92,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3947,7 +3900,7 @@
     }
    ],
    "ok": true,
-   "total": 117,
+   "total": 115,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -4102,7 +4055,7 @@
     }
    ],
    "ok": true,
-   "total": 14,
+   "total": 15,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -4121,7 +4074,7 @@
    ],
    "ok": true,
    "total": 167,
-   "inTarget": 7,
+   "inTarget": 6,
    "error": "",
    "used": {
     "slug": "wayve",
@@ -4138,8 +4091,8 @@
     }
    ],
    "ok": true,
-   "total": 39,
-   "inTarget": 3,
+   "total": 41,
+   "inTarget": 4,
    "error": "",
    "used": {
     "slug": "wealthsimple",
@@ -4211,16 +4164,10 @@
      "site": "Workday"
     }
    ],
-   "ok": true,
-   "total": 247,
-   "inTarget": 24,
-   "error": "",
-   "used": {
-    "type": "workday",
-    "tenant": "workday",
-    "wd": "wd5",
-    "site": "Workday"
-   }
+   "ok": false,
+   "total": 0,
+   "inTarget": 0,
+   "error": "workday: HTTPError: HTTP Error 521: <none>"
   },
   "Workhuman": {
    "company": "Workhuman",
@@ -4232,7 +4179,7 @@
     }
    ],
    "ok": true,
-   "total": 10,
+   "total": 8,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -4268,7 +4215,7 @@
     }
    ],
    "ok": true,
-   "total": 98,
+   "total": 99,
    "inTarget": 21,
    "error": "",
    "used": {
@@ -4323,7 +4270,7 @@
     }
    ],
    "ok": true,
-   "total": 29,
+   "total": 30,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -4388,7 +4335,7 @@
     }
    ],
    "ok": true,
-   "total": 28,
+   "total": 30,
    "inTarget": 0,
    "error": "",
    "used": {

@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-14T03:23:02.135174+00:00",
- "seconds": 69,
- "rawJobs": 19564,
- "candidates": 1205,
- "kept": 596,
+ "generatedAt": "2026-11-15T02:47:22.760899+00:00",
+ "seconds": 114,
+ "rawJobs": 22630,
+ "candidates": 1837,
+ "kept": 827,
  "companies": {
   "1Password": {
    "company": "1Password",
@@ -15,7 +15,7 @@
     }
    ],
    "ok": true,
-   "total": 80,
+   "total": 81,
    "inTarget": 6,
    "error": "",
    "used": {
@@ -44,7 +44,7 @@
     }
    ],
    "ok": true,
-   "total": 589,
+   "total": 576,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -83,10 +83,16 @@
      "site": "external_experienced"
     }
    ],
-   "ok": false,
-   "total": 0,
-   "inTarget": 0,
-   "error": "workday: HTTPError: HTTP Error 521: <none>"
+   "ok": true,
+   "total": 117,
+   "inTarget": 18,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "adobe",
+    "wd": "wd5",
+    "site": "external_experienced"
+   }
   },
   "Advance.ai": {
    "company": "Advance.ai",
@@ -107,7 +113,7 @@
     }
    ],
    "ok": true,
-   "total": 247,
+   "total": 246,
    "inTarget": 2,
    "error": "",
    "used": {
@@ -206,8 +212,8 @@
     }
    ],
    "ok": true,
-   "total": 484,
-   "inTarget": 22,
+   "total": 485,
+   "inTarget": 21,
    "error": "",
    "used": {
     "slug": "airwallex",
@@ -267,7 +273,7 @@
     }
    ],
    "ok": true,
-   "total": 668,
+   "total": 670,
    "inTarget": 10,
    "error": "",
    "used": {
@@ -392,7 +398,7 @@
     }
    ],
    "ok": true,
-   "total": 261,
+   "total": 280,
    "inTarget": 23,
    "error": "",
    "used": {
@@ -530,7 +536,7 @@
     }
    ],
    "ok": true,
-   "total": 223,
+   "total": 222,
    "inTarget": 5,
    "error": "",
    "used": {
@@ -837,10 +843,16 @@
      "site": "2"
     }
    ],
-   "ok": false,
-   "total": 0,
-   "inTarget": 0,
-   "error": "workday: HTTPError: HTTP Error 521: <none>"
+   "ok": true,
+   "total": 502,
+   "inTarget": 54,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "citi",
+    "wd": "wd5",
+    "site": "2"
+   }
   },
   "ClearScore": {
    "company": "ClearScore",
@@ -898,7 +910,7 @@
    ],
    "ok": true,
    "total": 479,
-   "inTarget": 12,
+   "inTarget": 10,
    "error": "",
    "used": {
     "slug": "cloudflare",
@@ -1124,7 +1136,7 @@
     }
    ],
    "ok": true,
-   "total": 186,
+   "total": 185,
    "inTarget": 3,
    "error": "",
    "used": {
@@ -1191,7 +1203,7 @@
     }
    ],
    "ok": true,
-   "total": 334,
+   "total": 333,
    "inTarget": 8,
    "error": "",
    "used": {
@@ -1482,10 +1494,16 @@
      "site": "FidelityCareers"
     }
    ],
-   "ok": false,
-   "total": 0,
-   "inTarget": 0,
-   "error": "workday: HTTPError: HTTP Error 521: <none>"
+   "ok": true,
+   "total": 308,
+   "inTarget": 12,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "fmr",
+    "wd": "wd1",
+    "site": "FidelityCareers"
+   }
   },
   "Figma": {
    "company": "Figma",
@@ -2001,7 +2019,7 @@
     }
    ],
    "ok": true,
-   "total": 114,
+   "total": 115,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2039,7 +2057,7 @@
    ],
    "ok": true,
    "total": 300,
-   "inTarget": 46,
+   "inTarget": 45,
    "error": "",
    "used": {
     "type": "oracle",
@@ -2229,7 +2247,7 @@
    ],
    "ok": true,
    "total": 148,
-   "inTarget": 4,
+   "inTarget": 3,
    "error": "",
    "used": {
     "slug": "lyft",
@@ -2310,10 +2328,16 @@
      "site": "CorporateCareers"
     }
    ],
-   "ok": false,
-   "total": 0,
-   "inTarget": 0,
-   "error": "workday: HTTPError: HTTP Error 521: <none>"
+   "ok": true,
+   "total": 383,
+   "inTarget": 32,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "mastercard",
+    "wd": "wd1",
+    "site": "CorporateCareers"
+   }
   },
   "Meesho": {
    "company": "Meesho",
@@ -2426,8 +2450,8 @@
     }
    ],
    "ok": true,
-   "total": 391,
-   "inTarget": 20,
+   "total": 390,
+   "inTarget": 19,
    "error": "",
    "used": {
     "slug": "mongodb",
@@ -2602,10 +2626,16 @@
      "site": "NVIDIAExternalCareerSite"
     }
    ],
-   "ok": false,
-   "total": 0,
-   "inTarget": 0,
-   "error": "workday: HTTPError: HTTP Error 521: <none>"
+   "ok": true,
+   "total": 555,
+   "inTarget": 31,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "nvidia",
+    "wd": "wd5",
+    "site": "NVIDIAExternalCareerSite"
+   }
   },
   "Ocado": {
    "company": "Ocado",
@@ -2671,7 +2701,7 @@
     }
    ],
    "ok": true,
-   "total": 363,
+   "total": 362,
    "inTarget": 25,
    "error": "",
    "used": {
@@ -2689,7 +2719,7 @@
     }
    ],
    "ok": true,
-   "total": 392,
+   "total": 391,
    "inTarget": 2,
    "error": "",
    "used": {
@@ -2716,7 +2746,7 @@
     }
    ],
    "ok": true,
-   "total": 838,
+   "total": 839,
    "inTarget": 18,
    "error": "",
    "used": {
@@ -2743,10 +2773,15 @@
      "site": "CX_45001"
     }
    ],
-   "ok": false,
-   "total": 0,
-   "inTarget": 0,
-   "error": "oracle: HTTPError: HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "total": 300,
+   "inTarget": 32,
+   "error": "",
+   "used": {
+    "type": "oracle",
+    "host": "eeho.fa.us2.oraclecloud.com",
+    "site": "CX_45001"
+   }
   },
   "Outreach": {
    "company": "Outreach",
@@ -2759,7 +2794,7 @@
     }
    ],
    "ok": true,
-   "total": 16,
+   "total": 15,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2817,10 +2852,16 @@
      "site": "jobs"
     }
    ],
-   "ok": false,
-   "total": 0,
-   "inTarget": 0,
-   "error": "workday: HTTPError: HTTP Error 521: <none>"
+   "ok": true,
+   "total": 252,
+   "inTarget": 12,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "paypal",
+    "wd": "wd1",
+    "site": "jobs"
+   }
   },
   "Personio": {
    "company": "Personio",
@@ -3187,7 +3228,7 @@
     }
    ],
    "ok": true,
-   "total": 494,
+   "total": 493,
    "inTarget": 38,
    "error": "",
    "used": {
@@ -3207,8 +3248,8 @@
     }
    ],
    "ok": true,
-   "total": 313,
-   "inTarget": 4,
+   "total": 319,
+   "inTarget": 3,
    "error": "",
    "used": {
     "slug": "samsara",
@@ -3234,7 +3275,7 @@
     }
    ],
    "ok": true,
-   "total": 12,
+   "total": 10,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3442,7 +3483,7 @@
     }
    ],
    "ok": true,
-   "total": 85,
+   "total": 87,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3516,10 +3557,16 @@
      "site": "Global"
     }
    ],
-   "ok": false,
-   "total": 0,
-   "inTarget": 0,
-   "error": "workday: HTTPError: HTTP Error 521: <none>"
+   "ok": true,
+   "total": 393,
+   "inTarget": 27,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "statestreet",
+    "wd": "wd1",
+    "site": "Global"
+   }
   },
   "Stripe": {
    "company": "Stripe",
@@ -3531,7 +3578,7 @@
     }
    ],
    "ok": true,
-   "total": 786,
+   "total": 785,
    "inTarget": 6,
    "error": "",
    "used": {
@@ -3558,7 +3605,7 @@
     }
    ],
    "ok": true,
-   "total": 188,
+   "total": 192,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3900,7 +3947,7 @@
     }
    ],
    "ok": true,
-   "total": 115,
+   "total": 114,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -4055,7 +4102,7 @@
     }
    ],
    "ok": true,
-   "total": 15,
+   "total": 14,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -4074,7 +4121,7 @@
    ],
    "ok": true,
    "total": 167,
-   "inTarget": 6,
+   "inTarget": 3,
    "error": "",
    "used": {
     "slug": "wayve",
@@ -4164,10 +4211,16 @@
      "site": "Workday"
     }
    ],
-   "ok": false,
-   "total": 0,
-   "inTarget": 0,
-   "error": "workday: HTTPError: HTTP Error 521: <none>"
+   "ok": true,
+   "total": 246,
+   "inTarget": 24,
+   "error": "",
+   "used": {
+    "type": "workday",
+    "tenant": "workday",
+    "wd": "wd5",
+    "site": "Workday"
+   }
   },
   "Workhuman": {
    "company": "Workhuman",
@@ -4216,7 +4269,7 @@
    ],
    "ok": true,
    "total": 99,
-   "inTarget": 21,
+   "inTarget": 20,
    "error": "",
    "used": {
     "slug": "xero",

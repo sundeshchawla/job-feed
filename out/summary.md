@@ -1,70 +1,79 @@
-# Job feed - 2026-11-14 03:23 UTC
+# Job feed - 2026-11-15 02:47 UTC
 
-Boards read: 135 of 339 - raw jobs 19564 - after title/location/date filters 1205 - kept 596
+Boards read: 144 of 339 - raw jobs 22630 - after title/location/date filters 1837 - kept 827
 
 | Country | Jobs |
 |---|---|
 | ae | 5 |
-| au | 29 |
-| ca | 104 |
-| ch | 13 |
-| ie | 45 |
-| in | 110 |
+| au | 28 |
+| ca | 136 |
+| ch | 19 |
+| ie | 85 |
+| in | 173 |
 | lu | 2 |
-| nl | 9 |
-| sg | 31 |
-| uk | 81 |
-| us | 167 |
+| nl | 10 |
+| sg | 41 |
+| uk | 106 |
+| us | 222 |
 
 ## Boards with jobs kept
 
 - Amazon (amazon): 57 of 379
+- Citi (workday): 54 of 502
 - Google (google): 52 of 181
-- JPMorgan Chase (oracle): 46 of 300
-- Salesforce (workday): 38 of 494
-- Okta (greenhouse): 25 of 363
-- Atlassian (atlassian): 23 of 261
-- Airwallex (ashby): 22 of 484
+- JPMorgan Chase (oracle): 45 of 300
+- Salesforce (workday): 38 of 493
+- Mastercard (workday): 32 of 383
+- Oracle (oracle): 32 of 300
+- NVIDIA (workday): 31 of 555
+- State Street (workday): 27 of 393
+- Okta (greenhouse): 25 of 362
+- Workday (workday): 24 of 246
+- Atlassian (atlassian): 23 of 280
 - Barclays (workday): 22 of 345
-- Xero (ashby): 21 of 99
-- MongoDB (greenhouse): 20 of 391
+- Airwallex (ashby): 21 of 485
 - ServiceNow (smartrecruiters): 20 of 500
-- OpenAI (ashby): 18 of 838
+- Xero (ashby): 20 of 99
+- MongoDB (greenhouse): 19 of 390
+- Adobe (workday): 18 of 117
+- OpenAI (ashby): 18 of 839
 - Databricks (greenhouse): 15 of 896
 - Affirm (greenhouse): 12 of 217
-- Cloudflare (greenhouse): 12 of 479
+- Fidelity Technology Group (workday): 12 of 308
+- PayPal (workday): 12 of 252
 - Brex (greenhouse): 11 of 286
 - Snowflake (ashby): 11 of 376
-- Anthropic (greenhouse): 10 of 668
+- Anthropic (greenhouse): 10 of 670
+- Cloudflare (greenhouse): 10 of 479
 - Cohere (ashby): 10 of 121
 - Dropbox (greenhouse): 10 of 44
 - Elastic (greenhouse): 10 of 400
 - Grab (smartrecruiters): 9 of 431
-- Deutsche Bank (workday): 8 of 334
+- Deutsche Bank (workday): 8 of 333
 - Robinhood (greenhouse): 7 of 165
-- 1Password (ashby): 6 of 80
+- 1Password (ashby): 6 of 81
 - Ramp (ashby): 6 of 180
-- Stripe (greenhouse): 6 of 786
-- Wayve (ashby): 6 of 167
-- Binance (greenhouse): 5 of 223
+- Stripe (greenhouse): 6 of 785
+- Binance (greenhouse): 5 of 222
 - Pinterest (greenhouse): 5 of 163
 - Arhs (smartrecruiters): 4 of 64
 - Coinbase (greenhouse): 4 of 265
 - Figma (greenhouse): 4 of 139
-- Lyft (greenhouse): 4 of 148
 - Rubrik (greenhouse): 4 of 182
-- Samsara (greenhouse): 4 of 313
 - Wealthsimple (ashby): 4 of 41
 - Afterpay (greenhouse): 3 of 191
 - Bybit (greenhouse): 3 of 153
-- Deliveroo (greenhouse): 3 of 186
+- Deliveroo (greenhouse): 3 of 185
 - Flexport (greenhouse): 3 of 204
 - Flow Traders (greenhouse): 3 of 44
+- Lyft (greenhouse): 3 of 148
+- Samsara (greenhouse): 3 of 319
 - Toast (greenhouse): 3 of 355
-- Adyen (greenhouse): 2 of 247
+- Wayve (ashby): 3 of 167
+- Adyen (greenhouse): 2 of 246
 - Benevity (ashby): 2 of 23
 - Nexthink (smartrecruiters): 2 of 65
-- OKX (greenhouse): 2 of 392
+- OKX (greenhouse): 2 of 391
 - Snyk (ashby): 2 of 38
 - Thought Machine (ashby): 2 of 31
 - Airbnb (greenhouse): 1 of 214
@@ -88,7 +97,6 @@ Boards read: 135 of 339 - raw jobs 19564 - after title/location/date filters 120
 - ABN AMRO: no public board found
 - Ada: no public board found
 - ADCB: no public board found
-- Adobe: workday: HTTPError: HTTP Error 521: <none>
 - Advance.ai: no public board found
 - Ahrefs: no public board found
 - AlphaGrep: no public board found
@@ -123,7 +131,6 @@ Boards read: 135 of 339 - raw jobs 19564 - after title/location/date filters 120
 - Checkout.com: no public board found
 - CIBC: no public board found
 - Cisco: no public board found
-- Citi: workday: HTTPError: HTTP Error 521: <none>
 - ClearScore: no public board found
 - Clearstream: no public board found
 - Clio: no public board found
@@ -159,7 +166,6 @@ Boards read: 135 of 339 - raw jobs 19564 - after title/location/date filters 120
 - FAB: no public board found
 - Fenergo: no public board found
 - Fidelity: no public board found
-- Fidelity Technology Group: workday: HTTPError: HTTP Error 521: <none>
 - Flipkart: no public board found
 - Framer: no public board found
 - G42: no public board found
@@ -194,7 +200,6 @@ Boards read: 135 of 339 - raw jobs 19564 - after title/location/date filters 120
 - Mambu: no public board found
 - Mantel: no public board found
 - Mashreq: no public board found
-- Mastercard: workday: HTTPError: HTTP Error 521: <none>
 - Messagebird: no public board found
 - Meta: no public board found
 - Microsoft: no public board found
@@ -203,15 +208,12 @@ Boards read: 135 of 339 - raw jobs 19564 - after title/location/date filters 120
 - Netflix: no public board found
 - Noon: no public board found
 - Nutanix: no public board found
-- NVIDIA: workday: HTTPError: HTTP Error 521: <none>
 - Ocado: no public board found
 - OCBC: no public board found
 - Octopus Energy: no public board found
 - Ohpen: no public board found
 - On: no public board found
 - Optiver: no public board found
-- Oracle: oracle: HTTPError: HTTP Error 503: Service Unavailable
-- PayPal: workday: HTTPError: HTTP Error 521: <none>
 - Personio: no public board found
 - PhonePe: no public board found
 - Picnic: no public board found
@@ -249,7 +251,6 @@ Boards read: 135 of 339 - raw jobs 19564 - after title/location/date filters 120
 - Spuerkeess: no public board found
 - Starling: no public board found
 - StashAway: no public board found
-- State Street: workday: HTTPError: HTTP Error 521: <none>
 - Susquehanna: no public board found
 - Swiss Life: no public board found
 - Swiss Re: no public board found
@@ -280,7 +281,6 @@ Boards read: 135 of 339 - raw jobs 19564 - after title/location/date filters 120
 - Wipro: no public board found
 - Wise: no public board found
 - WiseTech: no public board found
-- Workday: workday: HTTPError: HTTP Error 521: <none>
 - Yokoy: no public board found
 - Zalando: no public board found
 - Zendesk: no public board found

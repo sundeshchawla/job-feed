@@ -1,8 +1,8 @@
 {
- "generatedAt": "2026-11-20T04:02:13.869105+00:00",
- "seconds": 114,
- "rawJobs": 22545,
- "candidates": 1887,
+ "generatedAt": "2026-11-21T04:01:53.153172+00:00",
+ "seconds": 119,
+ "rawJobs": 21995,
+ "candidates": 1883,
  "kept": 821,
  "companies": {
   "1Password": {
@@ -43,16 +43,10 @@
      "site": "AccentureCareers"
     }
    ],
-   "ok": true,
-   "total": 567,
+   "ok": false,
+   "total": 0,
    "inTarget": 0,
-   "error": "",
-   "used": {
-    "type": "workday",
-    "tenant": "accenture",
-    "wd": "wd103",
-    "site": "AccentureCareers"
-   }
+   "error": "workday: HTTPError: HTTP Error 500: Internal Server Error"
   },
   "Ada": {
    "company": "Ada",
@@ -113,7 +107,7 @@
     }
    ],
    "ok": true,
-   "total": 244,
+   "total": 241,
    "inTarget": 2,
    "error": "",
    "used": {
@@ -131,7 +125,7 @@
     }
    ],
    "ok": true,
-   "total": 225,
+   "total": 222,
    "inTarget": 12,
    "error": "",
    "used": {
@@ -150,7 +144,7 @@
    ],
    "ok": true,
    "total": 184,
-   "inTarget": 3,
+   "inTarget": 2,
    "error": "",
    "used": {
     "type": "greenhouse",
@@ -212,7 +206,7 @@
     }
    ],
    "ok": true,
-   "total": 490,
+   "total": 495,
    "inTarget": 18,
    "error": "",
    "used": {
@@ -247,8 +241,8 @@
     }
    ],
    "ok": true,
-   "total": 374,
-   "inTarget": 59,
+   "total": 378,
+   "inTarget": 60,
    "error": "",
    "used": {
     "type": "amazon"
@@ -273,8 +267,8 @@
     }
    ],
    "ok": true,
-   "total": 638,
-   "inTarget": 4,
+   "total": 633,
+   "inTarget": 7,
    "error": "",
    "used": {
     "slug": "anthropic",
@@ -327,8 +321,8 @@
     }
    ],
    "ok": true,
-   "total": 59,
-   "inTarget": 4,
+   "total": 61,
+   "inTarget": 5,
    "error": "",
    "used": {
     "slug": "arhs",
@@ -345,7 +339,7 @@
     }
    ],
    "ok": true,
-   "total": 113,
+   "total": 111,
    "inTarget": 2,
    "error": "",
    "used": {
@@ -398,7 +392,7 @@
     }
    ],
    "ok": true,
-   "total": 257,
+   "total": 233,
    "inTarget": 15,
    "error": "",
    "used": {
@@ -462,8 +456,8 @@
     }
    ],
    "ok": true,
-   "total": 353,
-   "inTarget": 20,
+   "total": 351,
+   "inTarget": 19,
    "error": "",
    "used": {
     "type": "workday",
@@ -536,8 +530,8 @@
     }
    ],
    "ok": true,
-   "total": 226,
-   "inTarget": 1,
+   "total": 227,
+   "inTarget": 2,
    "error": "",
    "used": {
     "slug": "binance",
@@ -653,7 +647,7 @@
     }
    ],
    "ok": true,
-   "total": 22,
+   "total": 23,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -698,7 +692,7 @@
     }
    ],
    "ok": true,
-   "total": 317,
+   "total": 318,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -716,7 +710,7 @@
     }
    ],
    "ok": true,
-   "total": 35,
+   "total": 32,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -779,8 +773,8 @@
     }
    ],
    "ok": true,
-   "total": 31,
-   "inTarget": 0,
+   "total": 35,
+   "inTarget": 1,
    "error": "",
    "used": {
     "slug": "catawiki",
@@ -844,8 +838,8 @@
     }
    ],
    "ok": true,
-   "total": 511,
-   "inTarget": 53,
+   "total": 512,
+   "inTarget": 52,
    "error": "",
    "used": {
     "type": "workday",
@@ -909,7 +903,7 @@
     }
    ],
    "ok": true,
-   "total": 497,
+   "total": 503,
    "inTarget": 15,
    "error": "",
    "used": {
@@ -936,7 +930,7 @@
     }
    ],
    "ok": true,
-   "total": 125,
+   "total": 124,
    "inTarget": 8,
    "error": "",
    "used": {
@@ -999,7 +993,7 @@
     }
    ],
    "ok": true,
-   "total": 396,
+   "total": 393,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1027,7 +1021,7 @@
     }
    ],
    "ok": true,
-   "total": 12,
+   "total": 11,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1055,7 +1049,7 @@
     }
    ],
    "ok": true,
-   "total": 32,
+   "total": 30,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1082,8 +1076,8 @@
     }
    ],
    "ok": true,
-   "total": 901,
-   "inTarget": 17,
+   "total": 897,
+   "inTarget": 16,
    "error": "",
    "used": {
     "slug": "databricks",
@@ -1101,7 +1095,7 @@
    ],
    "ok": true,
    "total": 382,
-   "inTarget": 1,
+   "inTarget": 0,
    "error": "",
    "used": {
     "slug": "datadog",
@@ -1203,7 +1197,7 @@
     }
    ],
    "ok": true,
-   "total": 328,
+   "total": 327,
    "inTarget": 9,
    "error": "",
    "used": {
@@ -1322,7 +1316,7 @@
     }
    ],
    "ok": true,
-   "total": 156,
+   "total": 162,
    "inTarget": 3,
    "error": "",
    "used": {
@@ -1340,8 +1334,8 @@
     }
    ],
    "ok": true,
-   "total": 371,
-   "inTarget": 5,
+   "total": 382,
+   "inTarget": 12,
    "error": "",
    "used": {
     "slug": "elastic",
@@ -1457,7 +1451,7 @@
     }
    ],
    "ok": true,
-   "total": 73,
+   "total": 74,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1495,7 +1489,7 @@
     }
    ],
    "ok": true,
-   "total": 326,
+   "total": 322,
    "inTarget": 11,
    "error": "",
    "used": {
@@ -1515,7 +1509,7 @@
     }
    ],
    "ok": true,
-   "total": 145,
+   "total": 147,
    "inTarget": 4,
    "error": "",
    "used": {
@@ -1533,7 +1527,7 @@
     }
    ],
    "ok": true,
-   "total": 209,
+   "total": 213,
    "inTarget": 3,
    "error": "",
    "used": {
@@ -1596,7 +1590,7 @@
     }
    ],
    "ok": true,
-   "total": 41,
+   "total": 42,
    "inTarget": 3,
    "error": "",
    "used": {
@@ -1623,7 +1617,7 @@
     }
    ],
    "ok": true,
-   "total": 123,
+   "total": 120,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1740,7 +1734,7 @@
    ],
    "ok": true,
    "total": 182,
-   "inTarget": 52,
+   "inTarget": 54,
    "error": "",
    "used": {
     "type": "google"
@@ -1756,7 +1750,7 @@
     }
    ],
    "ok": true,
-   "total": 431,
+   "total": 429,
    "inTarget": 11,
    "error": "",
    "used": {
@@ -1792,7 +1786,7 @@
     }
    ],
    "ok": true,
-   "total": 83,
+   "total": 82,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1864,7 +1858,7 @@
     }
    ],
    "ok": true,
-   "total": 17,
+   "total": 18,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1918,7 +1912,7 @@
     }
    ],
    "ok": true,
-   "total": 152,
+   "total": 151,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -1936,7 +1930,7 @@
     }
    ],
    "ok": true,
-   "total": 152,
+   "total": 151,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2001,7 +1995,7 @@
     }
    ],
    "ok": true,
-   "total": 85,
+   "total": 92,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -2019,7 +2013,7 @@
     }
    ],
    "ok": true,
-   "total": 121,
+   "total": 120,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2057,7 +2051,7 @@
    ],
    "ok": true,
    "total": 300,
-   "inTarget": 44,
+   "inTarget": 42,
    "error": "",
    "used": {
     "type": "oracle",
@@ -2174,7 +2168,7 @@
     }
    ],
    "ok": true,
-   "total": 4,
+   "total": 5,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2192,7 +2186,7 @@
     }
    ],
    "ok": true,
-   "total": 71,
+   "total": 73,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -2246,7 +2240,7 @@
     }
    ],
    "ok": true,
-   "total": 144,
+   "total": 148,
    "inTarget": 2,
    "error": "",
    "used": {
@@ -2329,7 +2323,7 @@
     }
    ],
    "ok": true,
-   "total": 373,
+   "total": 371,
    "inTarget": 29,
    "error": "",
    "used": {
@@ -2396,7 +2390,7 @@
     }
    ],
    "ok": true,
-   "total": 14,
+   "total": 13,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2432,7 +2426,7 @@
     }
    ],
    "ok": true,
-   "total": 17,
+   "total": 18,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2450,7 +2444,7 @@
     }
    ],
    "ok": true,
-   "total": 414,
+   "total": 417,
    "inTarget": 24,
    "error": "",
    "used": {
@@ -2468,7 +2462,7 @@
     }
    ],
    "ok": true,
-   "total": 60,
+   "total": 59,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2531,7 +2525,7 @@
     }
    ],
    "ok": true,
-   "total": 67,
+   "total": 69,
    "inTarget": 2,
    "error": "",
    "used": {
@@ -2598,7 +2592,7 @@
     }
    ],
    "ok": true,
-   "total": 167,
+   "total": 170,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2627,7 +2621,7 @@
     }
    ],
    "ok": true,
-   "total": 550,
+   "total": 551,
    "inTarget": 26,
    "error": "",
    "used": {
@@ -2701,8 +2695,8 @@
     }
    ],
    "ok": true,
-   "total": 364,
-   "inTarget": 27,
+   "total": 373,
+   "inTarget": 28,
    "error": "",
    "used": {
     "slug": "okta",
@@ -2719,7 +2713,7 @@
     }
    ],
    "ok": true,
-   "total": 391,
+   "total": 388,
    "inTarget": 2,
    "error": "",
    "used": {
@@ -2746,7 +2740,7 @@
     }
    ],
    "ok": true,
-   "total": 854,
+   "total": 852,
    "inTarget": 18,
    "error": "",
    "used": {
@@ -2775,7 +2769,7 @@
    ],
    "ok": true,
    "total": 300,
-   "inTarget": 30,
+   "inTarget": 31,
    "error": "",
    "used": {
     "type": "oracle",
@@ -2813,8 +2807,8 @@
     }
    ],
    "ok": true,
-   "total": 14,
-   "inTarget": 0,
+   "total": 16,
+   "inTarget": 2,
    "error": "",
    "used": {
     "slug": "paddle",
@@ -2832,7 +2826,7 @@
     }
    ],
    "ok": true,
-   "total": 307,
+   "total": 308,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -2853,7 +2847,7 @@
     }
    ],
    "ok": true,
-   "total": 259,
+   "total": 264,
    "inTarget": 12,
    "error": "",
    "used": {
@@ -2909,7 +2903,7 @@
     }
    ],
    "ok": true,
-   "total": 175,
+   "total": 174,
    "inTarget": 5,
    "error": "",
    "used": {
@@ -2927,7 +2921,7 @@
     }
    ],
    "ok": true,
-   "total": 146,
+   "total": 147,
    "inTarget": 3,
    "error": "",
    "used": {
@@ -2990,7 +2984,7 @@
     }
    ],
    "ok": true,
-   "total": 13,
+   "total": 15,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3017,7 +3011,7 @@
     }
    ],
    "ok": true,
-   "total": 24,
+   "total": 27,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3044,7 +3038,7 @@
     }
    ],
    "ok": true,
-   "total": 185,
+   "total": 187,
    "inTarget": 5,
    "error": "",
    "used": {
@@ -3098,7 +3092,7 @@
     }
    ],
    "ok": true,
-   "total": 143,
+   "total": 148,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -3152,7 +3146,7 @@
     }
    ],
    "ok": true,
-   "total": 166,
+   "total": 163,
    "inTarget": 10,
    "error": "",
    "used": {
@@ -3180,7 +3174,7 @@
     }
    ],
    "ok": true,
-   "total": 22,
+   "total": 23,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3199,7 +3193,7 @@
     }
    ],
    "ok": true,
-   "total": 201,
+   "total": 207,
    "inTarget": 5,
    "error": "",
    "used": {
@@ -3228,7 +3222,7 @@
     }
    ],
    "ok": true,
-   "total": 476,
+   "total": 474,
    "inTarget": 38,
    "error": "",
    "used": {
@@ -3248,8 +3242,8 @@
     }
    ],
    "ok": true,
-   "total": 306,
-   "inTarget": 4,
+   "total": 288,
+   "inTarget": 3,
    "error": "",
    "used": {
     "slug": "samsara",
@@ -3311,7 +3305,7 @@
     }
    ],
    "ok": true,
-   "total": 42,
+   "total": 41,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3330,7 +3324,7 @@
    ],
    "ok": true,
    "total": 500,
-   "inTarget": 22,
+   "inTarget": 9,
    "error": "",
    "used": {
     "type": "smartrecruiters",
@@ -3419,7 +3413,7 @@
     }
    ],
    "ok": true,
-   "total": 74,
+   "total": 72,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3437,7 +3431,7 @@
     }
    ],
    "ok": true,
-   "total": 379,
+   "total": 374,
    "inTarget": 9,
    "error": "",
    "used": {
@@ -3483,7 +3477,7 @@
     }
    ],
    "ok": true,
-   "total": 94,
+   "total": 91,
    "inTarget": 3,
    "error": "",
    "used": {
@@ -3520,7 +3514,7 @@
     }
    ],
    "ok": true,
-   "total": 19,
+   "total": 20,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -3558,7 +3552,7 @@
     }
    ],
    "ok": true,
-   "total": 403,
+   "total": 406,
    "inTarget": 23,
    "error": "",
    "used": {
@@ -3578,8 +3572,8 @@
     }
    ],
    "ok": true,
-   "total": 772,
-   "inTarget": 4,
+   "total": 778,
+   "inTarget": 2,
    "error": "",
    "used": {
     "slug": "stripe",
@@ -3605,7 +3599,7 @@
     }
    ],
    "ok": true,
-   "total": 180,
+   "total": 174,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3641,7 +3635,7 @@
     }
    ],
    "ok": true,
-   "total": 35,
+   "total": 34,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3776,7 +3770,7 @@
     }
    ],
    "ok": true,
-   "total": 31,
+   "total": 32,
    "inTarget": 3,
    "error": "",
    "used": {
@@ -3812,7 +3806,7 @@
     }
    ],
    "ok": true,
-   "total": 34,
+   "total": 33,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -3830,7 +3824,7 @@
     }
    ],
    "ok": true,
-   "total": 81,
+   "total": 84,
    "inTarget": 1,
    "error": "",
    "used": {
@@ -3884,8 +3878,8 @@
     }
    ],
    "ok": true,
-   "total": 330,
-   "inTarget": 4,
+   "total": 327,
+   "inTarget": 5,
    "error": "",
    "used": {
     "slug": "toast",
@@ -3911,7 +3905,7 @@
     }
    ],
    "ok": true,
-   "total": 91,
+   "total": 92,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -3943,7 +3937,7 @@
     }
    ],
    "ok": true,
-   "total": 107,
+   "total": 109,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -4070,7 +4064,7 @@
     }
    ],
    "ok": true,
-   "total": 19,
+   "total": 20,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -4116,7 +4110,7 @@
     }
    ],
    "ok": true,
-   "total": 150,
+   "total": 151,
    "inTarget": 3,
    "error": "",
    "used": {
@@ -4134,7 +4128,7 @@
     }
    ],
    "ok": true,
-   "total": 39,
+   "total": 38,
    "inTarget": 3,
    "error": "",
    "used": {
@@ -4209,7 +4203,7 @@
    ],
    "ok": true,
    "total": 236,
-   "inTarget": 24,
+   "inTarget": 25,
    "error": "",
    "used": {
     "type": "workday",
@@ -4246,7 +4240,7 @@
     }
    ],
    "ok": true,
-   "total": 21,
+   "total": 19,
    "inTarget": 0,
    "error": "",
    "used": {
@@ -4264,7 +4258,7 @@
     }
    ],
    "ok": true,
-   "total": 101,
+   "total": 109,
    "inTarget": 21,
    "error": "",
    "used": {
@@ -4319,8 +4313,8 @@
     }
    ],
    "ok": true,
-   "total": 32,
-   "inTarget": 0,
+   "total": 33,
+   "inTarget": 1,
    "error": "",
    "used": {
     "eu": false,
@@ -4384,7 +4378,7 @@
     }
    ],
    "ok": true,
-   "total": 29,
+   "total": 31,
    "inTarget": 0,
    "error": "",
    "used": {

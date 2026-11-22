@@ -1,89 +1,89 @@
-# Job feed - 2026-11-21 04:01 UTC
+# Job feed - 2026-11-22 03:16 UTC
 
-Boards read: 142 of 339 - raw jobs 21995 - after title/location/date filters 1883 - kept 821
+Boards read: 143 of 339 - raw jobs 22602 - after title/location/date filters 1852 - kept 813
 
 | Country | Jobs |
 |---|---|
 | ae | 9 |
-| au | 27 |
+| au | 25 |
 | ca | 133 |
 | ch | 18 |
-| ie | 86 |
+| ie | 84 |
 | in | 164 |
 | lu | 3 |
 | nl | 14 |
-| sg | 36 |
-| uk | 112 |
-| us | 219 |
+| sg | 34 |
+| uk | 111 |
+| us | 218 |
 
 ## Boards with jobs kept
 
-- Amazon (amazon): 60 of 378
+- Amazon (amazon): 60 of 377
 - Google (google): 54 of 182
 - Citi (workday): 52 of 512
-- JPMorgan Chase (oracle): 42 of 300
+- JPMorgan Chase (oracle): 43 of 300
 - Salesforce (workday): 38 of 474
-- Oracle (oracle): 31 of 300
+- Oracle (oracle): 30 of 300
 - Mastercard (workday): 29 of 371
-- Okta (greenhouse): 28 of 373
-- NVIDIA (workday): 26 of 551
+- NVIDIA (workday): 27 of 550
+- Okta (greenhouse): 27 of 372
 - Workday (workday): 25 of 236
-- MongoDB (greenhouse): 24 of 417
-- State Street (workday): 23 of 406
+- State Street (workday): 23 of 407
+- MongoDB (greenhouse): 21 of 417
 - Xero (ashby): 21 of 109
 - Barclays (workday): 19 of 351
 - Adobe (workday): 18 of 124
-- Airwallex (ashby): 18 of 495
-- OpenAI (ashby): 18 of 852
-- Databricks (greenhouse): 16 of 897
-- Atlassian (atlassian): 15 of 233
-- Cloudflare (greenhouse): 15 of 503
+- Airwallex (ashby): 16 of 497
+- Cloudflare (greenhouse): 16 of 504
+- Databricks (greenhouse): 16 of 895
+- Atlassian (atlassian): 15 of 234
+- OpenAI (ashby): 15 of 852
 - Affirm (greenhouse): 12 of 222
 - Elastic (greenhouse): 12 of 382
 - PayPal (workday): 12 of 264
 - Brex (greenhouse): 11 of 249
-- Fidelity Technology Group (workday): 11 of 322
+- Fidelity Technology Group (workday): 11 of 321
 - Grab (smartrecruiters): 11 of 429
 - Robinhood (greenhouse): 10 of 163
-- Deutsche Bank (workday): 9 of 327
-- ServiceNow (smartrecruiters): 9 of 500
-- Snowflake (ashby): 9 of 374
-- Cohere (ashby): 8 of 124
-- Anthropic (greenhouse): 7 of 633
+- ServiceNow (smartrecruiters): 10 of 500
+- Deutsche Bank (workday): 9 of 326
+- Snowflake (ashby): 8 of 374
+- Anthropic (greenhouse): 7 of 635
 - Bybit (greenhouse): 7 of 169
+- Cohere (ashby): 7 of 124
 - 1Password (ashby): 6 of 81
 - Dropbox (greenhouse): 6 of 47
 - Arhs (smartrecruiters): 5 of 61
-- Deliveroo (greenhouse): 5 of 189
+- Deliveroo (greenhouse): 5 of 190
 - Pinterest (greenhouse): 5 of 174
 - Ramp (ashby): 5 of 187
-- Rubrik (greenhouse): 5 of 207
-- Toast (greenhouse): 5 of 327
-- Coinbase (greenhouse): 4 of 253
+- Rubrik (greenhouse): 5 of 208
+- Toast (greenhouse): 5 of 326
+- Coinbase (greenhouse): 4 of 252
 - Figma (greenhouse): 4 of 147
+- Samsara (greenhouse): 4 of 299
 - Discord (greenhouse): 3 of 29
 - Ebury (greenhouse): 3 of 162
-- Flexport (greenhouse): 3 of 213
-- Flow Traders (greenhouse): 3 of 42
+- Flexport (greenhouse): 3 of 212
+- Flow Traders (greenhouse): 3 of 41
 - Plaid (ashby): 3 of 147
-- Samsara (greenhouse): 3 of 288
 - Snyk (ashby): 3 of 39
 - Spotify (lever): 3 of 91
 - Thought Machine (ashby): 3 of 32
-- Wayve (ashby): 3 of 151
 - Wealthsimple (ashby): 3 of 38
-- Adyen (greenhouse): 2 of 241
+- Adyen (greenhouse): 2 of 243
 - Afterpay (greenhouse): 2 of 184
 - Asana (greenhouse): 2 of 111
 - Benevity (ashby): 2 of 18
-- Binance (greenhouse): 2 of 227
+- Binance (greenhouse): 2 of 226
 - Buildkite (greenhouse): 2 of 12
 - GoCardless (greenhouse): 2 of 29
 - Lyft (greenhouse): 2 of 148
 - Nexthink (smartrecruiters): 2 of 69
-- OKX (greenhouse): 2 of 388
+- OKX (greenhouse): 2 of 391
 - Paddle (ashby): 2 of 16
-- Stripe (greenhouse): 2 of 778
+- Stripe (greenhouse): 2 of 777
+- Wayve (ashby): 2 of 151
 - Airtasker (ashby): 1 of 3
 - Catawiki (greenhouse): 1 of 35
 - Float (ashby): 1 of 19
@@ -102,7 +102,6 @@ Boards read: 142 of 339 - raw jobs 21995 - after title/location/date filters 188
 ## Not reachable
 
 - ABN AMRO: no public board found
-- Accenture: workday: HTTPError: HTTP Error 500: Internal Server Error
 - Ada: no public board found
 - ADCB: no public board found
 - Advance.ai: no public board found
